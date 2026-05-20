@@ -1,3 +1,11 @@
+![Content License](https://img.shields.io/badge/content-CC%20BY--NC--SA%204.0-green)
+![Code License](https://img.shields.io/badge/code-MIT-blue)
+![Built with Docusaurus](https://img.shields.io/badge/site-Docusaurus-blue)
+![Curriculum Length](https://img.shields.io/badge/program-18%20weeks-orange)
+
+🌐 **View the curriculum website:**  
+https://literacy-for-kids.github.io/environmental_system_literacy/
+
 # Environmental_system_literacy
 A curriculum for understanding planetary infrastructure, resource throughput, and the physical constraints of civilization.
 Most environmental education relies on emotional appeals—telling kids to "save the earth" or feel guilty about their carbon footprint. This curriculum takes an engineering approach. It treats the Earth as a massive, closed-loop mechanical and chemical system. Students learn how natural processes handle energy and matter, how human industrial systems (which are largely open-loop) interface with that biology, and how to identify the failure modes when those two systems clash.
@@ -6,8 +14,8 @@ These mental models transition students from abstract environmentalism to rigoro
 
 - **There is No "Away" (Mass Conservation):** Earth is a closed system for matter. When you throw something "away," it simply changes locations or states. Students learn to trace the complete lifecycle of materials, treating waste not as garbage, but as a system output that must become an input elsewhere.
 - **Energy Flows, Matter Cycles:** The fundamental rule of the biosphere. Energy from the sun flows through the system and eventually bleeds off as heat (thermodynamics), but the physical matter (carbon, water, nitrogen) must be continuously recycled through the plumbing of the planet.
-- **The Linear vs. Circular API:** Natural systems operate on a circular API (the output of a predator is the input for microbes; the output of microbes is the input for plants). Human industrial systems largely operate on a linear API (Extract $\rightarrow$ Manufacture $\rightarrow$ Use $\rightarrow$ Discard). The environmental crisis is framed simply as an API mismatch between these two operating systems.
-- **Carrying Capacity (System Load Limits):** Every environment has a structural limit to the amount of biological or industrial load it can support before the system degrades. Students learn to view resource depletion as a demand exceeding the system’s regenerative bandwidth.
+- **The Linear vs. Circular API:** Natural systems operate on a circular API (the output of a predator is the input for microbes; the output of microbes is the input for plants). Human industrial systems largely operate on a linear API (Extract → Manufacture → Use → Discard). The environmental crisis is framed simply as an API mismatch between these two operating systems.
+- **Carrying Capacity (System Load Limits):** Every environment has a structural limit to the amount of biological or industrial load it can support before the system degrades. Students learn to view resource depletion as a demand exceeding the system's regenerative bandwidth.
 - **Feedback Loops (Amplifying vs. Balancing):** Building directly on the models from Emotional and Civic literacy, students look at planetary homeostasis. We explore balancing loops (predator/prey dynamics that stabilize a system) and amplifying loops (melting ice reducing planetary albedo, which accelerates warming) that lead to runaway system states.
 
 **The Curriculum Roadmap**
@@ -35,3 +43,13 @@ We explore what happens when a node on the network demands too many resources. W
 We synthesize the concepts by looking at human solutions. How do we redesign industrial systems to mimic biological ones? We explore concepts like modular design, right-to-repair, composting, and designing for end-of-life disassembly.
 
 - **Key Activity: The Circular Redesign** — Students identify one open-loop (linear) process in their own home or school (e.g., how cafeteria food waste is handled, or how school supplies are discarded at the end of the year). They must design an engineering proposal to close the loop, turning the waste output of that process into a usable input for a different process.
+
+**Weeks 15–18: The Redesign Project**
+**Focus:** Design, Propose, and Present a Circular Solution
+Students take their Circular Redesign concept from Week 14 and develop it into a full proposal — specifications, constraints, tradeoffs — and present it to a real audience.
+
+## License
+
+This project uses dual licensing:
+- Code (JavaScript, CSS, configuration): [MIT License](./LICENSE-CODE)
+- Curriculum content (Markdown under website/docs/): [CC BY-NC-SA 4.0](./LICENSE-CONTENT)
