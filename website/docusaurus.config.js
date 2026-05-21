@@ -13,10 +13,10 @@ const config = {
   favicon: 'img/favicon.ico',
 
   url: 'https://literacy-for-kids.github.io',
-  baseUrl: '/environmental_system_literacy/',
+  baseUrl: '/Environmental_system_literacy_for_kids/',
 
   organizationName: 'literacy-for-kids',
-  projectName: 'environmental_system_literacy',
+  projectName: 'Environmental_system_literacy_for_kids',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
@@ -38,7 +38,7 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           editUrl:
-            'https://github.com/literacy-for-kids/environmental_system_literacy/tree/main/website/',
+            'https://github.com/literacy-for-kids/Environmental_system_literacy_for_kids/tree/main/website/',
         },
         blog: false,
         theme: {
@@ -78,7 +78,7 @@ const config = {
             ],
           },
           {
-            href: 'https://github.com/literacy-for-kids/environmental_system_literacy',
+            href: 'https://github.com/literacy-for-kids/Environmental_system_literacy_for_kids',
             label: 'GitHub',
             position: 'right',
           },
