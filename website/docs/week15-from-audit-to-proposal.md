@@ -54,24 +54,16 @@ The framing matters. This is not a school project to "raise awareness." It is an
 **The proposal voice is engineering, not advocacy.** Watch for and gently redirect language like "we have to save the planet" or "this is so wasteful." The voice should be neutral, specific, technical.
 :::
 
-## For Younger Learners (Ages 8–9)
+## Minimum Path for Ages 8–9
 
-:::info Adapting This Week
-**Simplest version of the concept:** "We're going to write a plan to fix one thing. First we'll draw a picture of how it works now. Then we'll write down what we'd change and what we'd need to make it happen."
-
-**What to shorten or skip:**
-- Skip exact measurements. "A lot," "some," and "a little" are fine, paired with rough counts ("about 5 banana peels a day").
-- Skip the formal proposal sections. Use a simple three-part version: "What's happening now," "What we'd change," "What we'd need."
-- Use drawings instead of written sections wherever possible.
-
-**Adapting the activities:**
-- Walk through the box-and-arrow diagram together. Help label each box.
-- The proposal can be a one-page drawing with three sentences.
-
-**Journal alternatives:** Two drawings (current process / new process) plus three sentences: "Right now, ___. We could change it by ___. To do this, we'd need ___."
-
-**What success looks like:** The learner can describe their chosen process, draw what's happening, and name one specific change.
-:::
+- Core activity: Choose one small process and turn it into a three-part plan: what happens now, what would change, and what is needed.
+- Core diagram or log task: Draw a before-and-after box-and-arrow sketch.
+- Discussion questions:
+  1. What is happening now?
+  2. What is one change that would close the loop a little better?
+  3. What person, object, or habit would the new plan depend on?
+- Success looks like: The learner can describe a real process, draw it, and name one specific redesign.
+- Skip for younger learners: exact measurements, full proposal formatting, and longer written paragraphs.
 
 :::info For Ages 10–12
 - Push for numbers. Even rough estimates count: "about 30 plastic water bottles per month."
@@ -392,6 +384,12 @@ Week 12 of terrarium observation. Open the Systems Log:
 
 ---
 
+## Local Investigation Prompt
+
+Collect one week of rough baseline data for your chosen process. How many items, pounds, or minutes are moving through it right now?
+
+---
+
 ## Check for Understanding
 
 After this week, check whether the learner can:
@@ -430,10 +428,6 @@ This is what real engineering documents sound like. They are credible because th
 :::
 
 ---
-
-:::tip Simplify (Ages 8–9)
-Three sentences are enough for the proposal: "Right now, ___ ends up in ___." "Instead, ___ could go to ___." "To make this work, we'd need ___ and it would take ___ time." Draw two pictures (before and after) to go with the sentences.
-:::
 
 :::tip Extend (Ages 10–12)
 After drafting the proposal, find one real-world engineering or sustainability report online (city composting program reports, corporate sustainability reports, EPA documents). Notice the voice. Notice the structure. How does it compare to what you wrote? Steal anything useful for your own proposal.

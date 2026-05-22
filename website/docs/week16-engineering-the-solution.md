@@ -54,23 +54,16 @@ The most important concept this week is the **minimum viable loop**: the smalles
 **Constraints are not bad news.** Honest constraints make the proposal stronger, not weaker. A redesign that pretends to be free is a redesign that won't survive contact with reality.
 :::
 
-## For Younger Learners (Ages 8–9)
+## Minimum Path for Ages 8–9
 
-:::info Adapting This Week
-**Simplest version of the concept:** "We're going to make our plan more specific. Instead of 'we'll compost,' we'll write down *exactly* how much, *exactly* where, and *exactly* how often. We'll also write down what's hard about it."
-
-**What to shorten or skip:**
-- Skip the hard/soft constraint distinction. Just list "things that will be tricky."
-- Skip the formal Specs Sheet format. Use a simple three-column chart: "What we'll do" / "How we'll know it's working" / "What's hard about it."
-
-**Adapting the activities:**
-- Help with quantities. Use real measurements together — "let's see how many banana peels we make in one day, then multiply by 7."
-- Use real objects for space — "the compost bin would be about this big," pointing to a comparable household object.
-
-**Journal alternatives:** A drawing of the redesigned process with sticky-note labels: "this much," "this often," "this tricky."
-
-**What success looks like:** The learner can answer "how much, how often, where, what's hard" about their redesign.
-:::
+- Core activity: Turn the plan into a short specs chart with how much, how often, where, and what is hard.
+- Core diagram or log task: Label the redesign drawing with simple quantities and timing.
+- Discussion questions:
+  1. How much waste or material are we talking about?
+  2. How often would someone have to do the new step?
+  3. What part looks hardest in real life?
+- Success looks like: The learner can answer how much, how often, where, and what is hard about the redesign.
+- Skip for younger learners: hard-versus-soft constraint terminology, more advanced cost formulas, and the full Specs Sheet format.
 
 :::info For Ages 10–12
 - Require at least three quantitative specs (waste diverted, frequency, volume, cost, time, etc.).
@@ -369,6 +362,12 @@ Week 13 of terrarium observation. Open the Systems Log:
 
 ---
 
+## Local Investigation Prompt
+
+Measure the real space, time, or material limits around your redesign. What in your actual setting is the hardest constraint to work around?
+
+---
+
 ## Check for Understanding
 
 After this week, check whether the learner can:
@@ -407,10 +406,6 @@ The Specs Sheet is more believable because it's more specific. Specific claims c
 :::
 
 ---
-
-:::tip Simplify (Ages 8–9)
-Three numbers are enough: how much waste reduced per week, how much money it costs, how much extra time per week. Plus one sentence: "The hardest part will be ___." That's a complete spec for a young learner.
-:::
 
 :::tip Extend (Ages 10–12)
 Calculate the *cost per kg of waste diverted*. Take your total annual cost (initial bin + maintenance) divided by the kg of waste you'd divert per year. This is the kind of number a city budget officer would calculate for a municipal composting program. How does your household-level number compare to typical municipal costs (~$50–150 per ton)?

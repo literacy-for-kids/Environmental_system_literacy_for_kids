@@ -20,7 +20,7 @@ This week we trace that cycle and look at what happens when human industry adds 
 
 :::info Facilitator Snapshot
 - The big idea: atmospheric nitrogen is everywhere but unusable. Only "fixed" nitrogen (ammonia, nitrate) feeds plants.
-- The Haber-Bosch process is one of the most consequential inventions in human history — it allows synthetic fertilizer, which has roughly doubled the human population since 1900.
+- The Haber-Bosch process is one of the most consequential inventions in human history — it allows synthetic fertilizer, which helps support a much larger global population than natural nitrogen fixation alone could support.
 - Eutrophication (algae blooms, dead zones) is the most common downstream consequence of nitrogen running off into water.
 - No moralizing about fertilizer. Frame it as: "We invented a way to override the natural fixation bottleneck. The override has downstream effects we are still learning to manage."
 :::
@@ -59,29 +59,22 @@ The nitrogen cycle is more abstract than the water and carbon cycles. Use analog
 The students do not need to memorize the chemistry. They need to understand the *bottleneck* and what happens when we bypass it.
 :::
 
-## For Younger Learners (Ages 8–9)
+## Minimum Path for Ages 8–9
 
-:::info Adapting This Week
-**Simplest version of the concept:** "Plants need nitrogen to grow. There's a lot of nitrogen in the air, but plants can't use it from the air. They need it to be in the soil. Special bacteria put it into the soil for them. Humans figured out how to make a lot more of it in factories."
-
-**What to shorten or skip:**
-- Skip the chemistry of nitrification/denitrification. Just say "soil bacteria do most of the work."
-- Skip the Haber-Bosch process details. "Humans figured out how to make fertilizer using a lot of energy" is enough.
-
-**Adapting the activities:**
-- Look at a bean plant root if available. The lumpy nodules are where the nitrogen-fixing bacteria live.
-- Use the bathtub analogy from Week 5 again: adding fertilizer to the system is like running an extra faucet.
-
-**Journal alternatives:** Draw a picture of a plant with its roots, with bacteria as little circles on the roots, and arrows showing nitrogen moving from the air through the bacteria to the plant.
-
-**What success looks like:** The learner can say "plants need nitrogen, and they get it from the soil, not from the air."
-:::
+- Core activity: Look at a bean, pea, or clover root if available, or use a picture to show that tiny bacteria help put usable nitrogen into the soil.
+- Core diagram or log task: Draw a simple loop from air to bacteria to soil to plant to animal and back to soil or air.
+- Discussion questions:
+    1. Why can plants not use most nitrogen straight from the air?
+    2. Who helps move nitrogen into the soil?
+    3. What can happen if too much fertilizer washes into water?
+- Success looks like: The learner can explain that plants need usable nitrogen from soil, not just nitrogen floating in the air.
+- Skip for younger learners: the Haber-Bosch equation, detailed nitrogen-species vocabulary, and the more exact energy-use statistics.
 
 :::info For Ages 10–12
 - Introduce the actual nitrogen species: N₂ (atmospheric), NH₃/NH₄⁺ (ammonia/ammonium), NO₃⁻ (nitrate), NO₂⁻ (nitrite).
 - Discuss the chemistry of the Haber-Bosch process: N₂ + 3H₂ → 2NH₃, under high pressure (~200 atm) and high temperature (~450°C), with an iron catalyst.
-- Roughly 1–2% of global energy use goes into industrial nitrogen fixation. About half of the nitrogen atoms in every human body today were fixed by Haber-Bosch.
-- Discuss the Gulf of Mexico dead zone: fertilizer from Midwest farms runs off into the Mississippi, dumps nitrogen into the Gulf, causes massive algae blooms, which die and decompose, depleting oxygen. The dead zone is roughly the size of New Jersey in a typical summer.
+- Commonly cited estimates suggest roughly 1–2% of global energy use goes into industrial nitrogen fixation. A commonly repeated teaching estimate also suggests that roughly half of the nitrogen in human bodies today may come from Haber-Bosch-fixed nitrogen.
+- Discuss the Gulf of Mexico dead zone: fertilizer from Midwest farms runs off into the Mississippi, adds nitrogen to Gulf waters, causes large algae blooms, and can contribute to low-oxygen conditions. In many summers, the low-oxygen zone is comparable to the size of a small U.S. state.
 :::
 
 ---
@@ -185,10 +178,12 @@ The consequences were enormous:
 - Farmers could add as much fixed nitrogen to their fields as they could afford.
 - Crop yields jumped.
 - World population, which had been around 1.6 billion in 1900, has grown to roughly 8 billion today. Without Haber-Bosch, demographers estimate roughly half of those people could not be fed.
+- Crop yields jumped.
+- World population, which had been around 1.6 billion in 1900, has grown to roughly 8 billion today. A commonly cited estimate suggests synthetic fertilizer now supports food production for a very large share of that population, though the exact percentage depends on method.
 
 Engineering frame:
 
-> "Haber-Bosch is a tool that lets us bypass the natural nitrogen fixation bottleneck. It uses enormous energy — about 1–2% of global energy use goes into making fertilizer. The plants can now grow faster than the natural system could support."
+> "Haber-Bosch is a tool that lets us bypass the natural nitrogen fixation bottleneck. It uses enormous energy — often summarized as roughly 1–2% of global energy use. The plants can now grow faster than the natural system could support on its own."
 
 This is not a moral story. It is a story about a system bottleneck and the invention that worked around it.
 
@@ -290,6 +285,11 @@ Week 3 of terrarium observation. Open the Systems Log:
 - Why are legumes (beans, peas, clover) often planted in rotation with other crops? What is their special role?
 - The natural nitrogen cycle has been running for billions of years. The Haber-Bosch override has been running for about 115 years. Which one is the "normal" condition for the planet?
 
+
+## Local Investigation Prompt
+
+Look for one place nearby where extra nutrients might enter water: a lawn, garden, farm field, storm drain, or pond edge. What route would rainwater take from that place?
+
 ---
 
 ## Check for Understanding
@@ -309,12 +309,17 @@ If the learner can do at least 2 of these, they're ready for Week 7.
 :::note What Matters Here
 Ask:
 
-> "Haber-Bosch lets us feed about half the people alive today. That's about 4 billion people. It also creates dead zones in our oceans. Both of those things are true at the same time."
+> "Synthetic fertilizer supports food production for a very large share of the people alive today. It also contributes to dead zones and other nutrient-load problems in some watersheds. Both of those things can be true at the same time."
 
 This is what real engineering tradeoffs look like. The technology that solved one bottleneck created a different output problem. Neither the technology nor the people who use it are "bad." The system has a rate mismatch, and the engineering question is: how do we keep the benefit while reducing the downstream load?
 
 **This week's takeaway:** Every override of a natural system limit has a downstream cost. Engineering progress is about finding overrides whose costs are smaller than their benefits — and learning to manage the costs.
 :::
+
+
+## Source Notes
+
+For the fertilizer, Haber-Bosch, and downstream nutrient-load references used in this week, see the central [Source Notes](./source-notes.md). Treat any global food-dependence figure as an approximate teaching estimate, not a fixed exact value.
 
 ---
 
@@ -328,9 +333,6 @@ This is what real engineering tradeoffs look like. The technology that solved on
 
 ---
 
-:::tip Simplify (Ages 8–9)
-The takeaway: "Plants need nitrogen, and they get it from the soil. Special bacteria put nitrogen into the soil for them. Humans invented a way to make a lot of nitrogen fertilizer in factories — and that fertilizer sometimes ends up in lakes and oceans where it isn't supposed to be."
-:::
 
 :::tip Extend (Ages 10–12)
 Look up the **planetary boundaries framework** (Rockström et al.). Of the nine identified boundaries, nitrogen (the "biogeochemical flows" boundary) is the one we've exceeded most dramatically — by some estimates 3-4x the safe operating level. Discuss what "safe operating level" might mean for a planet-scale chemistry flow.
@@ -343,3 +345,5 @@ Look up the **planetary boundaries framework** (Rockström et al.). Of the nine 
 ## Preview of Next Week
 
 Next week we run the **"Away" Audit**. We pick one ordinary object — a plastic water bottle — and trace its complete physical journey from raw material to end-of-life. Every atom. The result is usually surprising.
+
+

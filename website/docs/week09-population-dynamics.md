@@ -56,22 +56,16 @@ This week is graph-heavy. Don't worry about precision. The shapes are what matte
 Use the marker/pencil dynamically — sketch curves as you talk. The visual is the lesson.
 :::
 
-## For Younger Learners (Ages 8–9)
+## Minimum Path for Ages 8–9
 
-:::info Adapting This Week
-**Simplest version of the concept:** "When animals start to run out of food, the population goes up and down like a wave. Sometimes it goes up so far that the whole system crashes and a lot of animals die."
-
-**What to shorten or skip:**
-- Skip the Lotka-Volterra model entirely. Use the wolf-and-rabbit story.
-- Skip the J-curve / S-curve naming. Use "growing forever" vs. "leveling off."
-
-**Adapting the activities:**
-- Draw the wolf-and-rabbit population as two wavy lines — when one is high, the other follows a little while later.
-
-**Journal alternatives:** Drawings of populations growing, leveling off, or crashing.
-
-**What success looks like:** The learner can describe how rabbit and wolf populations go up and down together over time.
-:::
+- Core activity: Tell the wolf-and-rabbit story and sketch the two populations as wavy lines.
+- Core diagram or log task: Draw one line for rabbits and one for wolves, showing that one rises shortly after the other.
+- Discussion questions:
+   1. Why do rabbit numbers not stay the same all year?
+   2. What happens to wolves if there are fewer rabbits?
+   3. What happens when a population grows too fast for its food supply?
+- Success looks like: The learner can explain that populations often rise and fall because of feedback and food limits.
+- Skip for younger learners: the Lotka-Volterra model, the formal J-curve and S-curve labels, and the longer historical data discussion.
 
 :::info For Ages 10–12
 - Introduce the Lotka-Volterra equations conceptually (no calculus): rate of prey change = (prey birth rate) − (rate prey are eaten by predators). Predator change is the mirror.
@@ -334,6 +328,12 @@ This is the deep insight of feedback dynamics: **the shape of the future is enco
 
 ---
 
+## Local Investigation Prompt
+
+Look for one pattern near you that rises and falls over time: birds at a feeder, people in a cafeteria line, insects around a light, or traffic on a street. What might be driving the ups and downs?
+
+---
+
 ## Spiral Review
 
 :::tip Connecting to Earlier Weeks
@@ -343,10 +343,6 @@ This is the deep insight of feedback dynamics: **the shape of the future is enco
 :::
 
 ---
-
-:::tip Simplify (Ages 8–9)
-Use the wolf-and-rabbit story and the four curve sketches. Skip the formal Lotka-Volterra and J/S-curve labels. The takeaway: "Populations go up and down. Sometimes they go up too far and crash. Healthy systems have ways of catching themselves before they crash."
-:::
 
 :::tip Extend (Ages 10–12)
 If the group is going to do Optional Week 1, this is the perfect setup. Otherwise, look up "fishing collapse Atlantic cod" — the Atlantic cod fishery off Newfoundland was massively overfished from 1960 to 1992, when it collapsed. After 30+ years of fishing moratoriums and protection, it still has not fully recovered. This is overshoot-with-collapse in an industrial system. What feedback was missing?

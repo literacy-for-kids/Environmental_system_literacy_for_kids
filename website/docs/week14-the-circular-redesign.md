@@ -59,23 +59,16 @@ The point is to practice the diagnostic muscles built over the last three weeks 
 The redesign is a sketch — don't push for engineering rigor yet. That's what the capstone is for.
 :::
 
-## For Younger Learners (Ages 8–9)
+## Minimum Path for Ages 8–9
 
-:::info Adapting This Week
-**Simplest version of the concept:** "Pick one thing in your house that gets thrown away. Think about how we could keep it from getting thrown away — by reusing it, by giving it to someone else, by composting it, or by buying it differently."
-
-**What to shorten or skip:**
-- Skip the full engineering vocabulary. Use "what could we do instead."
-- Skip the formal redesign sketch. A drawing of "before" and "after" is enough.
-
-**Adapting the activities:**
-- Use a single, very concrete process: "what happens to banana peels in our house?"
-- Walk through the redesign collaboratively.
-
-**Journal alternatives:** Two drawings: "How it works now" and "How we could change it." A single sentence each.
-
-**What success looks like:** The learner can identify one thing that goes to the trash and one alternative way to handle it.
-:::
+- Core activity: Pick one very small waste stream and sketch what happens now versus what could happen instead.
+- Core diagram or log task: Draw a before-and-after process map with arrows.
+- Discussion questions:
+  1. Where does this item go now?
+  2. What is one different path it could take?
+  3. What tradeoff would your new path create?
+- Success looks like: The learner can identify one open loop and one plausible way to close it.
+- Skip for younger learners: the full redesign vocabulary, wider stakeholder mapping, and more ambitious multi-step case studies.
 
 :::info For Ages 10–12
 - Push for specificity. Don't accept "we should recycle more" as a redesign. Accept "I will set up a compost bin in the back yard for fruit and vegetable scraps; here's the bin design; here are the rules for what goes in; here's how we'll empty it."
@@ -380,6 +373,12 @@ If the learner can do at least 2 of these, they're ready for the capstone (Week 
 
 ---
 
+## Local Investigation Prompt
+
+Choose one real waste stream from your home, school, club, or neighborhood. Who touches it first, and where does it go one step later?
+
+---
+
 ## Pause and Notice
 
 :::note What Matters Here
@@ -401,15 +400,11 @@ This is the practice round. The capstone is for real. But the engineering mindse
 :::tip Connecting to Earlier Weeks
 - **From Week 11 (linear API):** This week, you spotted a specific linear API and sketched its circular alternative.
 - **From Week 12 (circular design):** You used biological/technical nutrient thinking to figure out where the materials should go.
-- **From Week 13 (right-to-repair):** If the process involves a product, longevity might be a lever you can pull.
+- **From Week 13 (Right to Repair):** If the process involves a product, longevity might be a lever you can pull.
 - **From Week 7 ("away" audit):** This is the kind of analysis the audit was preparing you for.
 :::
 
 ---
-
-:::tip Simplify (Ages 8–9)
-Pick the simplest, smallest process you can find. "What happens to our coffee grounds?" "What happens to our cardboard?" The exercise is about *practice*, not difficulty. The takeaway: "I can change one specific thing."
-:::
 
 :::tip Extend (Ages 10–12)
 For ambitious learners, pick a process where the redesign is technically possible but socially complicated — like a school cafeteria's food-waste system. Identify all the stakeholders (students, kitchen staff, administrators, custodial staff, vendors, parents). Whose buy-in would the redesign require?

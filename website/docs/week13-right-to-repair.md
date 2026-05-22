@@ -2,7 +2,7 @@
 sidebar_position: 13
 sidebar_label: "Week 13: Designing for Disassembly and Reuse"
 title: "Week 13: Designing for Disassembly and Reuse"
-description: "Students explore modular design, right-to-repair, and how to design products for end-of-life disassembly and reuse."
+description: "Students explore modular design, Right to Repair, and how to design products for end-of-life disassembly and reuse."
 ---
 
 # Week 13: Designing for Disassembly and Reuse
@@ -17,15 +17,15 @@ There are two main ways to extend product life:
 1. **Repair.** When something breaks, fix it instead of replacing it. This requires access to parts, manuals, and tools.
 2. **Modular design.** Build products from interchangeable parts so a broken or outdated component can be swapped without discarding the whole product.
 
-Both run into a structural problem: **the manufacturer often doesn't benefit from a product that lasts longer**. A phone that lasts 10 years means one phone sold per decade. A phone that lasts 2 years means five phones sold. The shorter product life is more profitable, all else equal.
+Both run into a structural problem: **some manufacturer business models do not benefit as directly from products that last much longer**. A phone that lasts 10 years means fewer replacement purchases than a phone that lasts 2 years. In many markets, shorter replacement cycles can support higher sales volume.
 
-This week we look at the engineering of long product life, the politics around it (the **right-to-repair** movement), and how product longevity reduces environmental load.
+This week we look at the engineering of long product life, the policy context around it (the **Right to Repair** movement), and how product longevity reduces environmental load.
 
 ---
 
 :::info Facilitator Snapshot
 - The big idea: extending product life is the most leveraged way to reduce throughput. It's often cheaper than recycling.
-- Right-to-repair is a real political movement (laws have passed in several US states and the EU). It's controversial because it pits long-life design against manufacturer revenue models.
+- Right to Repair is a real policy movement. Laws and rule changes now exist in parts of the United States and the European Union, but the details vary by product category and change over time.
 - The framing throughout should be engineering and incentives, not "corporations are evil."
 - Avoid specific brand bashing. Use generic examples ("modern smartphones") rather than singling out companies.
 :::
@@ -43,7 +43,7 @@ This week we look at the engineering of long product life, the politics around i
 |---|---|
 | **Prep time** | ~10 minutes |
 | **Materials** | A broken or fixable household item (optional), a screwdriver if you can take something apart, paper, pencils, Systems Log |
-| **Key vocabulary** | designed obsolescence, right-to-repair, modular design, product longevity, planned obsolescence, throughput reduction |
+| **Key vocabulary** | designed obsolescence, Right to Repair, modular design, product longevity, throughput reduction |
 | **Difficulty** | Moderate |
 
 ## Facilitator Preparation
@@ -52,7 +52,7 @@ This week we look at the engineering of long product life, the politics around i
 - Optional: have a small, broken or near-broken household item the student can examine (a remote control, a broken toy, an old lamp).
 - Optional: a screwdriver, in case you want to actually take something apart and look at how it's constructed.
 - Pull out the Systems Log.
-- Optional reading: look up your state or country's status on right-to-repair legislation. As of 2025, several U.S. states (NY, MN, CA, CO, OR, ME, and others) have passed laws requiring manufacturers to provide repair information and parts to customers.
+- Optional reading: look up your state or country's status on Right to Repair legislation. As of May 2026, product coverage and legal requirements vary by place and change quickly, so use the source-notes page before naming a specific state list.
 :::
 
 :::tip Facilitation Mindset
@@ -65,28 +65,29 @@ This is the closest the curriculum gets to a politically active topic. Stay engi
 Avoid taking sides on specific policy questions.
 :::
 
-## For Younger Learners (Ages 8–9)
+## Minimum Path for Ages 8–9
 
-:::info Adapting This Week
-**Simplest version of the concept:** "If we use things for longer, we don't need to make as many. Some things are made to last a long time. Some things are made to break quickly so we'll buy a new one."
-
-**What to shorten or skip:**
-- Skip the math of throughput reduction. Use intuition.
-- Skip the right-to-repair discussion. Just talk about "things that can be fixed vs. things you have to throw out."
-
-**Adapting the activities:**
-- Find one fixable and one unfixable item at home. Compare them.
-
-**Journal alternatives:** Draw a picture of a thing that lasts a long time and a thing that gets thrown away quickly. Talk about why.
-
-**What success looks like:** The learner can name something that's been in their family for a long time and something that gets replaced often, and explain what's different.
-:::
+- Core activity: Compare one repairable object and one hard-to-repair object.
+- Core diagram or log task: Make a two-column list or drawing labeled "easy to fix" and "replace instead."
+- Discussion questions:
+	1. What clues tell you an object was built to last?
+	2. What makes another object hard to repair?
+	3. Why does a longer-lasting object reduce manufacturing demand?
+- Success looks like: The learner can explain the difference between a product designed to last and one designed for replacement.
+- Skip for younger learners: throughput math, policy details, and broader legislative comparisons.
 
 :::info For Ages 10–12
 - Calculate throughput reduction. If average phone life doubled from 2 years to 4 years, global phone production would halve. What would that mean for the global supply chain of rare earths, cobalt, lithium, etc.?
 - Look up **iFixit.com**, a website dedicated to repair guides and "repairability scores" for consumer electronics. Have students look up a product they own.
 - Discuss the **EU Right to Repair Directive** (2024) and the **U.S. state laws**. What do they require?
 :::
+
+## Safety and Care Notes
+
+- Use tools only with adult supervision.
+- Do not open mains-powered devices, swollen batteries, lithium-battery products, or unfamiliar electronics.
+- Use the correct screwdriver size and work on a stable surface so parts do not slip or scatter.
+- If a product feels unsafe to open, stop at exterior inspection and design analysis only.
 
 ---
 
@@ -170,7 +171,7 @@ Ask: why didn't that last? Often:
 
 Introduce the term:
 
-> "**Designed obsolescence** is when a product is deliberately designed to fail, become outdated, or be impossible to repair within a relatively short time — so the consumer has to buy a replacement."
+> "**Designed obsolescence** is when a product is designed, marketed, or supported in ways that shorten its useful life, push upgrades, or make repair unusually difficult — so replacement becomes more likely."
 
 Forms of designed obsolescence:
 
@@ -181,9 +182,9 @@ Forms of designed obsolescence:
 
 Frame this carefully:
 
-> "Designed obsolescence isn't 'evil' in the moral sense. It's the result of a market system where companies are rewarded for selling more units. From a pure business perspective, a product that lasts forever is bad for revenue. But from a systems perspective, designed obsolescence multiplies throughput on every raw material — and on every waste output."
+> "Designed obsolescence is not a useful moral label for this lesson. The systems point is simpler: when products are replaced faster, throughput rises on both the input side and the waste side."
 
-The question is whether the system that rewards designed obsolescence is the right system. That's where right-to-repair comes in.
+One response to that pattern is right-to-repair.
 
 ---
 
@@ -204,7 +205,7 @@ By the end of this session, the student can:
 
 If you have a fixable household item nearby, look at it together. Check:
 
-- Are the screws visible and standard? (Phillips head, hex, Torx — all are common and repairable. Custom screws are designed to keep you out.)
+- Are the screws visible and standard? (Phillips head, hex, and Torx are common and usually easier to service. Unusual fasteners can make repair harder.)
 - Can you open it without destroying it?
 - Are the components labeled, modular, and replaceable?
 - Is there documentation (a manual, a parts diagram)?
@@ -221,11 +222,11 @@ This is the difference between **designed for repair** and **designed for replac
 
 ---
 
-**2. Right-to-Repair**
+**2. Right to Repair**
 
 Introduce the movement:
 
-> "Right-to-repair is the political and economic movement to require manufacturers to provide repair information, parts, and tools to customers. The basic principle: if you bought it, you should be able to fix it."
+> "Right to Repair is a policy movement focused on access to repair information, parts, and tools. The basic principle is: if you bought it, repair should not be blocked unnecessarily."
 
 Specific demands typically include:
 
@@ -234,7 +235,7 @@ Specific demands typically include:
 - Access to **tools** needed to do the repair (including any special tools).
 - Removal of **software locks** that prevent third-party parts from working.
 
-As of 2025, several U.S. states (New York, Minnesota, California, Colorado, Oregon, Maine, and others) have passed right-to-repair laws, mostly for consumer electronics and farm equipment. The EU passed its **Right to Repair Directive** in 2024.
+As of May 2026, multiple U.S. states have enacted Right to Repair laws or category-specific repair rules, and the European Union adopted its **Right to Repair Directive** in 2024. Exact coverage changes over time and varies by product category, so use the source notes before naming a current list.
 
 The arguments for right-to-repair:
 
@@ -326,7 +327,7 @@ Week 10 of terrarium observation. Open the Systems Log:
 
 ### Systems Log
 
-> **Today's System:** Product longevity and right-to-repair
+> **Today's System:** Product longevity and Right to Repair
 >
 > **Lifespan math:** If we doubled the average lifespan of [pick a product], we would halve the manufacturing demand on ____.
 >
@@ -358,9 +359,15 @@ After this week, check whether the learner can:
 
 1. **Explain the math:** "Why does product lifespan affect throughput?" (Looking for: longer-lasting products mean fewer manufactured per year.)
 2. **Recognize designed obsolescence:** "Can you give an example of a product that's designed to be replaced rather than fixed?" (Looking for: any reasonable example.)
-3. **Describe right-to-repair:** "What is right-to-repair?" (Looking for: the idea that owners should be able to fix what they buy, with access to parts, manuals, and tools.)
+3. **Describe Right to Repair:** "What is Right to Repair?" (Looking for: the idea that owners should be able to fix what they buy, with access to parts, manuals, and tools.)
 
 If the learner can do at least 2 of these, they're ready for Week 14.
+
+---
+
+## Local Investigation Prompt
+
+Find one object nearby that looks easy to repair and one that looks designed for replacement. What clues tell you which is which?
 
 ---
 
@@ -371,7 +378,7 @@ Ask:
 
 > "We have an entire industry built around making things that don't last. That's not because the engineers don't know how to make things last — they absolutely do. It's because the system rewards short-lived products."
 
-This is a structural observation. The engineers, the executives, and the customers are all responding to the same set of incentives. Changing the system requires changing the incentives — which is exactly what right-to-repair laws try to do.
+This is a structural observation. The engineers, the executives, and the customers are all responding to the same set of incentives. Changing the system requires changing the incentives — which is exactly what Right to Repair laws try to do.
 
 > "Whether or not you support those laws is up to you. What's not in dispute is that product longevity is one of the most leveraged ways to reduce environmental load. Each year a product lasts is a year of avoided extraction and a year of avoided disposal."
 
@@ -380,26 +387,28 @@ This is a structural observation. The engineers, the executives, and the custome
 
 ---
 
+## Source Notes
+
+Right to Repair policy changes quickly. Use the central [Source Notes](./source-notes.md) for current policy references before naming a specific law, state list, or implementation detail in class.
+
+---
+
 ## Spiral Review
 
 :::tip Connecting to Earlier Weeks
-- **From Week 12 (circular design):** Right-to-repair extends product life *before* recycling becomes necessary. It's the loop-closing step that comes earlier in the lifecycle.
+- **From Week 12 (circular design):** Right to Repair extends product life *before* recycling becomes necessary. It's the loop-closing step that comes earlier in the lifecycle.
 - **From Week 11 (linear API):** A linear API has no incentive to extend product life — replacement is the business model.
 - **From Week 7 ("away" audit):** Many of the items in your audit were probably designed for short life. Imagine your audit if everything were designed to last 10x longer.
 :::
 
 ---
 
-:::tip Simplify (Ages 8–9)
-Use the longevity audit and the family story. Skip the right-to-repair politics. The takeaway: "Some things are made to last; some things are made to break. Things that last need less manufacturing, less throwing away."
-:::
-
 :::tip Extend (Ages 10–12)
 Look up the **Fairphone** project. It's a smartphone designed for repairability — modular components, screws instead of glue, replacement parts available. Look at its specifications and compare them to a more typical phone. Why isn't every phone built this way?
 :::
 
 :::tip Vocabulary This Week
-**Designed obsolescence** • **Right-to-repair** • **Modular design** • **Product longevity** • **Throughput reduction**
+**Designed obsolescence** • **Right to Repair** • **Modular design** • **Product longevity** • **Throughput reduction**
 :::
 
 ## Preview of Next Week

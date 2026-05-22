@@ -74,6 +74,20 @@ const sidebars = {
       ],
     },
     'curriculum-overview',
+    {
+      type: 'category',
+      label: 'Facilitator Resources',
+      items: [
+        'materials-master-list',
+        'systems-log-guide',
+        'assessment-guide',
+        'capstone-rubric',
+        'example-artifacts',
+        'templates-and-worksheets',
+        'source-notes',
+        'standards-alignment',
+      ],
+    },
     'glossary',
     {
       type: 'category',

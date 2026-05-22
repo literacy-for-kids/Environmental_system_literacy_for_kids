@@ -24,7 +24,7 @@ This is the **principle of mass conservation**, applied to everyday objects. It 
 - This week's centerpiece is a fully traced example: a plastic water bottle, from geological extraction to final destination.
 - The facilitator walks through the example first, then students do their own audit on a different object.
 - The aim is observation, not guilt. No "single-use plastic is evil" framing. Just "here is the actual physical path."
-- Many students assume recycling means the material goes back into the same kind of product indefinitely. Most recycling is actually downcycling — the material's quality degrades and it eventually exits the loop.
+- Many students assume recycling means the material goes back into the same kind of product indefinitely. In practice, much plastic recycling becomes lower-grade material or a different product category, and many items still exit the loop after limited reuse.
 :::
 
 :::tip Quick Navigation
@@ -57,29 +57,31 @@ This is the week where the engineering frame really lands. The instinct will be 
 The frame is: **a system has been built that doesn't fully close the loop**. The plastic bottle isn't the villain. The water bottle is a beautifully engineered drinking vessel. The system around it just doesn't have a return path. We are going to *see* that absence of a return path in detail.
 :::
 
-## For Younger Learners (Ages 8–9)
+## Minimum Path for Ages 8–9
 
-:::info Adapting This Week
-**Simplest version of the concept:** "When you throw something away, it doesn't go away. It just goes somewhere else. This week we follow a plastic bottle to find out where 'away' really is."
-
-**What to shorten or skip:**
-- Skip the chemistry of PET. Just say "the bottle is made from oil."
-- Skip the microplastic discussion if it feels too abstract. Or keep it visual: "the bottle eventually breaks into tiny pieces too small to see, but they don't disappear."
-
-**Adapting the activities:**
-- Draw the journey as a map with stops. Start at an oil well. End at an ocean, a landfill, or a recycling facility.
-
-**Journal alternatives:** A drawing of the bottle's journey, with each stop labeled.
-
-**What success looks like:** The learner can say "the bottle doesn't go away when I throw it out. It goes to a landfill or the ocean and stays there for a long time."
-:::
+- Core activity: Use one real plastic bottle and trace its journey from oil or gas extraction to factory, store, use, and final destination.
+- Core diagram or log task: Draw the bottle's path as a stop-by-stop map with arrows.
+- Discussion questions:
+      1. Where does "away" really mean for this bottle?
+      2. What are two places the bottle might end up after use?
+      3. If the bottle is recycled, does that close the loop forever?
+- Success looks like: The learner can explain that throwing something away changes its location, not its existence.
+- Skip for younger learners: PET chemistry, exact recycling percentages, and the more technical microplastic detail.
 
 :::info For Ages 10–12
 - Discuss the chemistry: PET (polyethylene terephthalate) is made by polymerizing ethylene glycol and terephthalic acid, both derived from crude oil.
-- Look up actual recycling rates. In the U.S., the recycling rate for PET bottles is around 28–30%. Most go to landfill.
-- Discuss "downcycling" — recycled PET is usually not made back into food-grade bottles. It's made into fleece, carpet fiber, or non-food packaging. After 2-3 cycles, the polymer chains have degraded enough that it leaves the loop.
-- Calculate how many PET bottles are produced globally per year (~500 billion as of recent estimates). What fraction get recycled?
+- Look up actual recycling rates. In the U.S., recent PET bottle recycling rates have often been under one-third, and many bottles still go to landfill, incineration, or leakage.
+- Discuss "downcycling" — recycled PET may become new bottles in cleaner systems, but it is also commonly turned into fiber, textiles, or lower-grade packaging depending on contamination, economics, and collection quality.
+- Calculate how many PET bottles are produced globally per year using a current source. Recent estimates are often in the hundreds of billions. What fraction appears to be recovered?
 :::
+
+
+## Safety and Care Notes
+
+- Do not open batteries, electronics, chemical containers, or any unknown waste item.
+- Use only clean household packaging for close inspection.
+- If an item is sharp, dirty, or wet, let an adult handle it.
+- Wash hands after handling packaging, trash, or recycling.
 
 ---
 
@@ -126,11 +128,11 @@ Walk through the seven stages in order. Use the diagram below or sketch it as yo
 
 **Stage 6 — Disposal.** The person decides what to do with the empty bottle. Three main paths:
 
-**Stage 7a — If recycling bin:** The bottle is collected by waste haulers, sorted (often by automated optical sorters), cleaned, shredded into flakes, melted down, and reformed into recycled PET. This recycled material typically becomes fleece fabric, carpet fiber, or non-food-contact packaging — *not* new food-grade bottles. After 2–3 such cycles, the polymer chains have degraded too much to be reprocessed; the material exits the loop into a landfill anyway. Even when recycling works perfectly, most PET only stays in the loop for a few rounds.
+**Stage 7a — If recycling bin:** The bottle is collected by waste haulers, sorted (often by automated optical sorters), cleaned, shredded into flakes, melted down, and reformed into recycled PET. In some systems that material can return to bottle production, but it is also commonly routed into fiber, textiles, or non-food packaging. Repeated processing, contamination, and economics often push material into lower-grade uses or out of the loop entirely.
 
-**Stage 7b — If trash bin → landfill:** The bottle is hauled to a landfill, buried under other waste, and compressed. Over time (the often-cited figure is 450+ years, though actual rates depend on conditions), the bottle photodegrades and breaks down into **microplastics** — fragments smaller than 5 millimeters. These microplastics can leach into groundwater and surrounding soil. The atoms don't go away — they just get smaller and more dispersed.
+**Stage 7b — If trash bin → landfill:** The bottle is hauled to a landfill, buried under other waste, and compressed. Plastic bottles are often cited as persisting for hundreds of years, though actual breakdown rates depend heavily on conditions. Over time the material may fragment into **microplastics** — fragments smaller than 5 millimeters. The atoms do not go away; they get smaller and more dispersed.
 
-**Stage 7c — If littered → ocean:** A significant fraction of plastic waste ends up in waterways, rivers, and eventually the ocean. There it gets exposed to sunlight, wave action, and salt water — all of which accelerate breakdown into microplastics. Microplastics now appear in deep-sea sediments, in Arctic ice, in the digestive tracts of fish at every level of the food web, and in human blood and tissue samples.
+**Stage 7c — If littered → ocean:** Some mismanaged plastic waste reaches waterways, rivers, and eventually the ocean. There it gets exposed to sunlight, wave action, and salt water, which can help it fragment into smaller pieces. Microplastics have been documented in deep-sea sediments, Arctic ice, fish, shellfish, and many human environments.
 
 ---
 
@@ -158,11 +160,11 @@ Together, sketch the full lifecycle:
                       / | \
               recycle  trash  litter
                 |        |        |
-            downcycle  landfill  waterways
+                                    downcycle  landfill  waterways
                 |        |        |
-            eventually  microplastics  microplastics
-              exits      in soil &      in ocean, fish,
-              loop       groundwater    food chain, you
+                                    sometimes   fragments in   fragments in ocean,
+                                          exits      soil or waste   fish, and other
+                                          loop       systems         environments
 ```
 
 Stand back from this diagram with the student. Ask:
@@ -239,7 +241,7 @@ Have the student write one sentence:
 
 Examples:
 
-- "When I throw away this plastic bottle, the matter that makes it up will end up in a landfill as microplastics for approximately 450+ years."
+- "When I throw away this plastic bottle, the matter that makes it up will likely stay in a landfill or waste system for a very long time and may fragment into smaller pieces over time."
 - "When I throw away this banana peel into compost, the matter will end up in garden soil within approximately 1 month."
 - "When I throw away this aluminum can, the matter that makes it up will end up either as a new aluminum product within approximately 6 months (if recycled) or in a landfill for hundreds of years (if not)."
 
@@ -313,7 +315,12 @@ Week 4 of terrarium observation. Open the Systems Log:
 
 - Pick the most surprising item from your audit. Why did its actual destination surprise you?
 - A glass bottle, an aluminum can, and a plastic bottle all hold the same amount of liquid. From a system perspective, which one has the most complete loop available to it? Why?
-- Microplastics now show up in human blood, breast milk, and the placentas of unborn babies (this is documented in recent scientific studies). From a mass-conservation perspective, why is this not surprising?
+- Why is it not surprising that plastic fragments can show up far from the place where a bottle was first used?
+
+
+## Local Investigation Prompt
+
+Do a short local away audit. Pick one item from your home, lunch, classroom, or recycling bin and trace the first three places it will likely go after it leaves you.
 
 ---
 
@@ -336,10 +343,15 @@ After the audits, look at the totals together.
 
 > "Today you made waste. So did I. So does every human on Earth. The question isn't whether to make waste — for now, the linear system is what we have. The question is: where did our outputs go, and what is happening to them now?"
 
-Once you can see the system, you can ask better questions about it. **Knowing that a plastic bottle becomes microplastic for 450 years isn't a guilt trip. It is a system fact.** What anyone does with that fact is up to them.
+Once you can see the system, you can ask better questions about it. **Knowing that a plastic bottle can persist for a very long time and fragment into smaller pieces is not a guilt trip. It is a systems observation.** What anyone does with that fact is up to them.
 
 **This week's takeaway:** There is no away. Every output of every process has a real, traceable destination. When you can name that destination, you can think clearly about the system.
 :::
+
+
+## Source Notes
+
+For plastic-production context, recycling caveats, and microplastic framing, see the central [Source Notes](./source-notes.md). Use the source-notes page when you want the most current figures before teaching.
 
 ---
 
@@ -354,9 +366,6 @@ Once you can see the system, you can ask better questions about it. **Knowing th
 
 ---
 
-:::tip Simplify (Ages 8–9)
-Focus on the plastic bottle worked example. Skip the chemistry, skip the microplastic detail if it feels heavy. The takeaway is: "When you throw something away, it goes to a real place. It doesn't disappear."
-:::
 
 :::tip Extend (Ages 10–12)
 Look up the **Great Pacific Garbage Patch** (NOAA's pages are a good source). It is not a "trash island" as often imagined, but a vast area of dispersed plastic debris, much of it microplastic suspended in the water column. Discuss why this is harder to clean up than a literal island of garbage would be. Calculate (or estimate) how many bottles' worth of plastic would equal the mass currently estimated to be in the patch.
@@ -369,3 +378,5 @@ Look up the **Great Pacific Garbage Patch** (NOAA's pages are a good source). It
 ## Preview of Next Week
 
 Next week we start a new unit: **system load limits**. We look at how every environment has a maximum amount of biological or industrial activity it can support — and what happens when that limit is exceeded.
+
+

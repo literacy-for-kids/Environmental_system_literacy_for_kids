@@ -10,7 +10,7 @@ description: "Students present their circular redesign proposal to a real audien
 
 The capstone ends here.
 
-Eighteen weeks ago, the curriculum opened with the planet as an engineering system — a closed material loop powered by an external energy source, with all the structural properties of a designed system. Over the next 14 weeks, the student learned how the system works (water cycle, carbon cycle, nitrogen cycle), how it absorbs load (carrying capacity, feedback loops), and where the industrial economy violates its design constraints (linear API, designed obsolescence, open loops).
+At the start of this 14-week core sequence and 4-week capstone, the curriculum opened with the planet as an engineering system — a closed material loop powered by an external energy source, with all the structural properties of a designed system. Over the following weeks, the student learned how the system works (water cycle, carbon cycle, nitrogen cycle), how it absorbs load (carrying capacity, feedback loops), and where the industrial economy violates its design constraints (linear API, designed obsolescence, open loops).
 
 Then over the last three weeks, they took one specific open loop from their own life — and engineered a real proposal to close it.
 
@@ -18,7 +18,7 @@ This week, they present that proposal to a real audience. Not a simulation. Not 
 
 The presentation is short: about five minutes. The structure is fixed. The voice is engineering throughout. After the pitch, the student reflects on what version 2.0 of the proposal would look like, based on what the audience said.
 
-This is what the eighteen weeks were preparing for.
+This is what the full course sequence was preparing for.
 
 ---
 
@@ -61,22 +61,16 @@ This is what the eighteen weeks were preparing for.
 **Audience questions are a gift.** If the audience asks something the student hadn't anticipated, that's information for version 2.0 — not a failure of the pitch.
 :::
 
-## For Younger Learners (Ages 8–9)
+## Minimum Path for Ages 8–9
 
-:::info Adapting This Week
-**Simplest version of the concept:** "You're going to tell one person about your plan. You'll explain what's happening now, what you'd change, and why. They'll ask questions, and you'll answer them. That's it."
-
-**What to shorten or skip:**
-- Cut the pitch to 2–3 minutes.
-- Skip the structured 5-section format. Use a 3-sentence pitch: "Right now, ___ happens. We could change it by ___. To do that, we'd need ___."
-- Skip formal Q&A. Just let the audience react naturally.
-
-**Adapting the activities:**
-- The audience can be a stuffed animal or pet for practice, then a family member for the real version.
-- Drawings make excellent visual aids — encourage the learner to use the box-and-arrow diagram from Week 15.
-- Celebrate completion big. The learner just did the same thing professional engineers do.
-
-**Journal alternatives:** "I told ___ about my plan. They said ___. I felt ___."
+- Core activity: Practice and deliver a short pitch to one real listener.
+- Core diagram or log task: Use one drawing or box-and-arrow diagram as the visual aid.
+- Discussion questions:
+   1. What is happening now?
+   2. What change are you proposing?
+   3. What would it take to make that change real?
+- Success looks like: The learner can explain the proposal clearly to one person and answer at least one follow-up question.
+- Skip for younger learners: the full five-part structure, long timing expectations, and formal Q&A routines.
 
 **What success looks like:** The learner clearly explains their plan to a real person in their own words.
 :::
@@ -325,10 +319,10 @@ Week 15 of terrarium observation. Open the Systems Log:
 
 **4. The Course Summary**
 
-The student writes a one-page summary of the entire 18 weeks. Format:
+The student writes a one-page summary of the full course. Format:
 
 ```
-WHAT I LEARNED — 18 WEEKS OF ENVIRONMENTAL SYSTEMS LITERACY
+WHAT I LEARNED — ENVIRONMENTAL SYSTEMS LITERACY FOR KIDS
 
 The big ideas:
 - Week 1: _____
@@ -345,7 +339,7 @@ One thing I'll do differently going forward: _____
 If I had to teach this course to one friend, I'd start with: _____
 ```
 
-This is the artifact of the course — proof that the 18 weeks happened and that the student can name what they learned.
+This is the artifact of the course — proof that the full sequence happened and that the student can name what they learned.
 
 ### Systems Log
 
@@ -361,7 +355,7 @@ This is the artifact of the course — proof that the 18 weeks happened and that
 >
 > **Will I implement this for real?** ____
 >
-> **What the 18 weeks taught me:** ____
+> **What the course taught me:** ____
 >
 > **Terrarium final entry:** ____
 
@@ -376,6 +370,12 @@ This is the artifact of the course — proof that the 18 weeks happened and that
 - What does it feel like to have presented a real engineering proposal to a real person? Different from a school assignment? How?
 - The audience's response — does it change what you think of the proposal? Or do you still think it's worth doing?
 - Look back at Week 1. How does the way you think about the environment now compare to how you thought about it then?
+
+---
+
+## Local Investigation Prompt
+
+Before the final pitch, ask what your real audience actually cares about: time, cost, space, smell, convenience, fairness, or maintenance. How should that shape your explanation?
 
 ---
 
@@ -397,7 +397,7 @@ If the learner can do all four, they've completed the course successfully. The e
 :::note What Matters Here
 This is the final Pause and Notice for the course. Make it count.
 
-> "Eighteen weeks ago, the planet was probably a 'place' to you — something you lived on, something with weather, something with nature. After this course, it's also a system. With cycles. With limits. With feedback loops. With places where the industrial economy has built linear processes on top of a circular substrate, and where the two are clashing."
+> "At the start of this course, the planet was probably a 'place' to you — something you lived on, something with weather, something with nature. After this course, it's also a system. With cycles. With limits. With feedback loops. With places where the industrial economy has built linear processes on top of a circular substrate, and where the two are clashing."
 
 > "You can now describe the water cycle, the carbon cycle, the nitrogen cycle, carrying capacity, feedback loops, and the linear-versus-circular API mismatch. You can trace a product from raw material to end-of-life. You can design a proposal to close an open loop and stress-test it before presenting it. That's a lot."
 
@@ -432,7 +432,7 @@ This is the final Pause and Notice for the course. Make it count.
 
 - Week 11: The Linear API — extract / make / use / discard
 - Week 12: Circular Design — biological vs. technical nutrients, closed material flows
-- Week 13: Right-to-Repair — designed longevity as a system intervention
+- Week 13: Right to Repair — designed longevity as a system intervention
 - Week 14: The Circular Redesign — practice round for the capstone
 
 **Unit 4 — The Capstone (Weeks 15–18):** Take one redesign all the way through.
@@ -442,14 +442,10 @@ This is the final Pause and Notice for the course. Make it count.
 - Week 17: Proposal Refinement — stress-test, failure modes, stakeholder objections
 - Week 18: The Community Pitch — present to a real audience
 
-That's the structure. Eighteen weeks of systems literacy, applied to the planet's infrastructure.
+That's the structure. A 14-week core sequence plus a 4-week capstone, applied to the planet's infrastructure.
 :::
 
 ---
-
-:::tip Simplify (Ages 8–9)
-Three sentences are enough for the pitch: "Right now, ___ happens. I'd change it by ___. It would cost ___ but we'd get ___." The audience listens, asks one or two questions, and the learner answers as best they can. That's a complete capstone for a young learner.
-:::
 
 :::tip Extend (Ages 10–12)
 If the student is interested, the proposal can become a real implementation. Set up the bin. Run the new paper system at school. Track the data. The course gave them the engineering framework. The next step — if they choose it — is operating the redesign in the real world. That's a longer project, not part of the curriculum, but the door is open.
@@ -462,7 +458,7 @@ If the student is interested, the proposal can become a real implementation. Set
 ---
 
 :::tip Congratulations
-You've completed Environmental Systems Literacy. You can now:
+You've completed Environmental Systems Literacy for Kids. You can now:
 
 - **Describe the planet as a system** — cycles, energy flow, closed material loops
 - **Trace where the system strains** — carrying capacity, overshoot, commons collapse

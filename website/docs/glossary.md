@@ -2,11 +2,11 @@
 sidebar_position: 99
 sidebar_label: "Glossary"
 title: "Glossary"
-description: "Key vocabulary and mental models used throughout the Environmental Systems Literacy curriculum"
+description: "Key vocabulary and mental models used throughout Environmental Systems Literacy for Kids"
 slug: /glossary
 ---
 
-# Environmental Systems Literacy Glossary
+# Environmental Systems Literacy for Kids Glossary
 
 All the key terms from this curriculum, in plain language. Terms are listed alphabetically. The **Introduced** column shows where each word first appears.
 
@@ -46,7 +46,7 @@ All the key terms from this curriculum, in plain language. Terms are listed alph
 | **Overshoot** | When a population or industrial load exceeds the carrying capacity of its system. Usually followed by a crash as the system degrades and can no longer support the load. | Week 9 |
 | **Photosynthesis** | The biological process by which plants use solar energy to convert carbon dioxide and water into sugar and oxygen. The base of nearly all food webs on Earth. | Week 1 |
 | **Predator-prey cycle** | A balancing loop between two populations: more prey allows more predators, but more predators reduce prey, which reduces predators, which allows prey to recover. Often produces oscillating populations. | Week 9 |
-| **Right-to-repair** | The principle that users should be able to repair the products they own — with access to parts, manuals, and tools — rather than being forced to replace them. A throughput-reduction strategy. | Week 13 |
+| **Right to Repair** | The principle that users should be able to repair the products they own — with access to parts, manuals, and tools — rather than being forced to replace them. A throughput-reduction strategy. | Week 13 |
 | **Runoff** | Water from rain or snowmelt that flows across the surface of the land rather than soaking in. Picks up everything in its path — soil, fertilizer, pollutants — and carries it downstream. | Week 4 |
 | **Steady state** | A condition where the inputs and outputs of a system are balanced, so the overall amount stays roughly the same over time. Ecosystems in steady state are not changing rapidly. | Week 8 |
 | **Stratospheric aerosol injection (SAI)** | A proposed geoengineering technique: spray reflective particles into the stratosphere to reflect a small fraction of incoming sunlight, cooling the planet. Mimics the cooling effect of large volcanic eruptions. | Optional Week 2 |

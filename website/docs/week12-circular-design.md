@@ -15,7 +15,7 @@ The big idea: **waste is a design failure.** If an output has no use, that means
 There are two main categories of materials in a well-designed circular system:
 
 - **Biological nutrients** — materials that can safely return to biological cycles (compost, biodegrade, feed plants and microbes). Wood, cotton, food scraps, paper.
-- **Technical nutrients** — materials that can cycle indefinitely through industrial use (recycled, remanufactured, refurbished). Aluminum, steel, glass, well-designed plastics.
+- **Technical nutrients** — materials that can sometimes cycle repeatedly through industrial use when they are collected cleanly and kept in a compatible material stream. Aluminum, steel, glass, and some well-designed plastics are the usual examples.
 
 The catch: most products on the market today **mix** biological and technical nutrients in ways that make both useless. A tetrapak (paper + plastic + foil laminated together) can't be composted *or* recycled cleanly. A child's toy with bonded plastic, metal, and electronics is even worse.
 
@@ -62,22 +62,16 @@ Circular design works in some contexts (aluminum cans are a stunning success). I
 The frame: this is engineering, not utopianism. Some loops can be closed; others can't (yet). Knowing which is which is the skill.
 :::
 
-## For Younger Learners (Ages 8–9)
+## Minimum Path for Ages 8–9
 
-:::info Adapting This Week
-**Simplest version of the concept:** "Everything we make should be designed so that when we're done with it, it can become something else — either compost for the soil, or material for a new product."
-
-**What to shorten or skip:**
-- Skip industrial symbiosis. Use the simpler "compost vs. recycling" sort.
-- Skip downcycling. Keep it simple: "biological things go back to dirt; technical things can be melted down again."
-
-**Adapting the activities:**
-- Sort the household items into two piles: "this can go back to nature" vs. "this can be remade into something else."
-
-**Journal alternatives:** Two columns — "biological nutrients" with drawings of things that go back to soil, and "technical nutrients" with drawings of things that can be melted and reused.
-
-**What success looks like:** The learner can sort objects into compostable vs. recyclable vs. trash, and explain why each goes where.
-:::
+- Core activity: Sort a small pile of household items into "can go back to soil," "can be remade," and "hard to loop."
+- Core diagram or log task: Draw two labeled columns, one for biological nutrients and one for technical nutrients.
+- Discussion questions:
+	1. Which items belong back in nature?
+	2. Which items need a factory to become useful again?
+	3. Which items are hard to sort because their materials are mixed together?
+- Success looks like: The learner can sort familiar objects by what kind of loop they belong in.
+- Skip for younger learners: industrial symbiosis, downcycling terminology, and the more technical manufacturing examples.
 
 :::info For Ages 10–12
 - Discuss the difference between **upcycling** (turning waste into something more valuable), **recycling** (turning waste into similar-quality material), and **downcycling** (turning waste into lower-quality material).
@@ -152,8 +146,8 @@ Compare to the linear "cradle-to-grave" model that dominates manufacturing today
 
 Examples of cradle-to-cradle products that exist today:
 
-- **Aluminum cans:** ~75% of all aluminum ever produced is still in use because aluminum recycles indefinitely with high quality retention.
-- **Refillable glass bottles** (still common in some countries for milk and beer): one bottle can cycle 30+ times.
+- **Aluminum cans:** aluminum is often used as the strongest technical-nutrient example because it can be recycled repeatedly with high quality retention, and industry sources often cite very large long-term retention rates.
+- **Refillable glass bottles** (still common in some countries for milk and beer): in a working deposit system, one bottle can cycle many times.
 - **Modular office carpet tiles** (companies like Interface): worn tiles are collected, the backing reground, and new tiles made with no loss of quality.
 - **Some clothing brands** (Patagonia, Eileen Fisher, etc.) accept old garments and remanufacture them into new ones or fabric for other uses.
 
@@ -303,6 +297,12 @@ If the learner can do at least 2 of these, they're ready for Week 13.
 
 ---
 
+## Local Investigation Prompt
+
+Walk through one room and identify three objects that could fit better into a biological or technical nutrient loop. What redesign would make each object's next step clearer?
+
+---
+
 ## Pause and Notice
 
 :::note What Matters Here
@@ -319,6 +319,12 @@ Trick question. It's not anyone's fault. The system that produced those items wa
 
 ---
 
+## Source Notes
+
+For aluminum, circular-design, and material-loop references used in this week, see the central [Source Notes](./source-notes.md). Those notes also flag which claims are useful as broad teaching estimates and which should be refreshed before teaching.
+
+---
+
 ## Spiral Review
 
 :::tip Connecting to Earlier Weeks
@@ -328,10 +334,6 @@ Trick question. It's not anyone's fault. The system that produced those items wa
 :::
 
 ---
-
-:::tip Simplify (Ages 8–9)
-Use the sorting activity. Skip industrial symbiosis. The takeaway: "Everything should be designed so it can go back to nature or get melted and remade. Mixed-up materials can't do either."
-:::
 
 :::tip Extend (Ages 10–12)
 Read about **Interface, Inc.**, a carpet manufacturer that publicly committed in 1994 to zero environmental impact by 2020 (and largely got there). Their **ReEntry** program collects used carpet tiles, separates the backing from the fiber, and recycles each stream back into new tiles. Discuss what it took for a traditional manufacturer to redesign its entire system.
@@ -343,4 +345,4 @@ Read about **Interface, Inc.**, a carpet manufacturer that publicly committed in
 
 ## Preview of Next Week
 
-Next week we look at the other major lever for closing loops: making products **last longer**. Right-to-repair, modular design, and product longevity reduce throughput demand on both the input and output sides.
+Next week we look at the other major lever for closing loops: making products **last longer**. Right to Repair, modular design, and product longevity reduce throughput demand on both the input and output sides.

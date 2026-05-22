@@ -77,23 +77,16 @@ The build itself is the lesson. As students layer the rocks, the charcoal, and t
 Once the lid is on, the system has to balance itself. That self-balancing is the entire point.
 :::
 
-## For Younger Learners (Ages 8–9)
+## Minimum Path for Ages 8–9
 
-:::info Adapting This Week
-**Simplest version of the concept:** "We're making a tiny sealed world. Once the lid is on, the water inside has to keep going around in a circle."
-
-**What to shorten or skip:**
-- Skip the in-depth discussion of the cycle mechanics. Just build it and observe.
-- Skip activated charcoal if unavailable — the terrarium will still work fine, just possibly with more smell.
-
-**Adapting the activities:**
-- Let the younger learner do all the physical layering. It is fun and the hands-on experience is the lesson.
-- Use a fat marker to write the "build date" on the jar so they remember when it started.
-
-**Journal alternatives:** Draw the terrarium each week and note one thing that changed. Spoken descriptions count.
-
-**What success looks like:** The learner can point to their terrarium and say "the water inside has to keep going around because no new water can get in or out."
-:::
+- Core activity: Build the terrarium and place it in its long-term location.
+- Core diagram or log task: Draw the jar and add arrows for water going up to the glass and back down to the soil.
+- Discussion questions:
+      1. Where do the drops on the glass come from?
+      2. Why does the water not disappear?
+      3. What might happen if the jar sits in direct sun all afternoon?
+- Success looks like: The learner can explain that the same water keeps cycling inside a sealed system.
+- Skip for younger learners: the detailed carbon-and-oxygen explanation, activated-charcoal discussion, and exact measurement upgrades.
 
 :::info For Ages 10–12
 - Measure the exact amount of water added at setup. This is the system's total water budget.
@@ -101,6 +94,15 @@ Once the lid is on, the system has to balance itself. That self-balancing is the
 - Quantify condensation: count visible droplets, measure approximate volume pooled on the inside of the lid.
 - Discuss what would happen if you added a small animal (a roly-poly, a worm). What would it eat? What would eat its waste? Why a *very* small terrarium can sustain small invertebrates almost indefinitely.
 :::
+
+
+## Safety and Care Notes
+
+- Use a sturdy jar, and let an adult handle heavy glass containers or tight lids.
+- Wash hands after handling soil, plants, or any insects that came in with the soil.
+- If mold becomes heavy or anyone in the group has allergies or asthma symptoms, stop handling the jar directly and ask an adult to reset or discard it safely.
+- Do not place the terrarium in direct sunlight; the jar can overheat quickly.
+- Do not seal wild animals, batteries, or food scraps into the jar.
 
 ---
 
@@ -316,6 +318,11 @@ Fill it in once a day for the next 7 days.
 - The Earth is a much, much bigger version of this jar. The water in the oceans, the rain, your drinking glass — it's all the same water cycling. How much new water comes to Earth from outside?
 - If the terrarium runs out of light, it fails. What does Earth run out of if its sunlight stops?
 
+
+## Local Investigation Prompt
+
+Compare your terrarium to one other small local system, such as a fish tank, greenhouse, compost bin, or foggy window. What stays inside, and what moves in or out?
+
 ---
 
 ## Check for Understanding
@@ -355,9 +362,6 @@ Ask: "Where does the heat from the terrarium go?" (Out through the glass, eventu
 
 ---
 
-:::tip Simplify (Ages 8–9)
-Focus on the build itself. The big idea is "we made a small world that has to take care of itself." Save the formal cycle discussion for later weeks.
-:::
 
 :::tip Extend (Ages 10–12)
 Set up two terrariums with different variables — one with more water, one with less; or one in brighter light, one in dimmer. After 2–3 weeks, compare. Why did one do better? Can you identify the system's preferred operating range?
@@ -370,3 +374,5 @@ Set up two terrariums with different variables — one with more water, one with
 ## Preview of Next Week
 
 Next week, we zoom out from the jar to the whole planet and trace the **water cycle** — how the same water gets used over and over across the entire Earth, what slows it down, and what speeds it up.
+
+

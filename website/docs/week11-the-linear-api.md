@@ -59,22 +59,16 @@ The "linear vs. circular API" frame is the unifying lens of the entire curriculu
 Some students will resist the technical term "API." That's fine — use "the connectors" or "how it plugs in" if it helps. The shape of the idea matters, not the label.
 :::
 
-## For Younger Learners (Ages 8–9)
+## Minimum Path for Ages 8–9
 
-:::info Adapting This Week
-**Simplest version of the concept:** "Nature reuses everything in circles. People mostly use things in straight lines — take, make, use, throw away. The trash has nowhere to go because nature wasn't built to handle it."
-
-**What to shorten or skip:**
-- Skip the "API" term entirely. Use "the loop" or "how it connects."
-- Skip industrial examples that require background knowledge. Use household examples.
-
-**Adapting the activities:**
-- Draw circles for natural cycles, straight arrows for human-made ones.
-
-**Journal alternatives:** A drawing of a circular nature loop on one side of the page, and a straight-line human loop on the other side.
-
-**What success looks like:** The learner can point to something and say whether it goes in a circle (like food in a garden) or in a straight line (like a plastic toy).
-:::
+- Core activity: Draw one nature process as a circle and one human-made process as a straight line.
+- Core diagram or log task: Make a side-by-side page with a loop on one side and an open line on the other.
+- Discussion questions:
+   1. Which system reuses its outputs?
+   2. Which system needs new inputs all the time?
+   3. Where does the waste go in the straight-line version?
+- Success looks like: The learner can tell the difference between a circular system and a linear one using a familiar example.
+- Skip for younger learners: the API analogy, policy framing, and the more abstract system-wide pattern discussion.
 
 :::info For Ages 10–12
 - Discuss the parallels with software APIs: an API defines how two systems exchange data. A bad API mismatch breaks integrations. The natural/industrial API mismatch is structurally the same problem, just with atoms instead of data.
@@ -307,6 +301,12 @@ Week 8 of terrarium observation. Open the Systems Log:
 
 ---
 
+## Local Investigation Prompt
+
+Find one process near you that works like a circle and one that works like a straight line. What happens to the outputs in each case?
+
+---
+
 ## Check for Understanding
 
 After this week, check whether the learner can:
@@ -345,10 +345,6 @@ Once you see the pattern, you cannot unsee it. The pattern itself is the diagnos
 :::
 
 ---
-
-:::tip Simplify (Ages 8–9)
-Use only the two diagrams (circle and straight line). Skip the term "API." The takeaway: "Nature uses things over and over in circles. Most human-made stuff goes in a straight line and ends in the trash. The trash has to go somewhere, and nature can't handle as much as we make."
-:::
 
 :::tip Extend (Ages 10–12)
 Look up the **circular economy** concept (the Ellen MacArthur Foundation is a clear source). Discuss the three principles: (1) eliminate waste and pollution by design, (2) keep products and materials in use, (3) regenerate natural systems. This is the same engineering frame you've been building, formalized as policy.

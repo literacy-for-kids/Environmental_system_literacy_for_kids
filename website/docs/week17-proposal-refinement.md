@@ -56,24 +56,16 @@ Honest limitations are a sign of engineering rigor, not weakness. A proposal tha
 **Stakeholder pushback usually has a real basis.** When the student identifies someone who would resist the change, push them to articulate the strongest version of that person's reasoning, not the weakest. Engineers improve their designs by taking objections seriously.
 :::
 
-## For Younger Learners (Ages 8–9)
+## Minimum Path for Ages 8–9
 
-:::info Adapting This Week
-**Simplest version of the concept:** "We're going to play 'what could go wrong?' We'll think about all the ways our plan might not work, and what we'd do about each one. Then we'll think about who might say 'no' to this idea, and why."
-
-**What to shorten or skip:**
-- Skip the second-order effects analysis. Stick to direct failure modes ("what if no one remembers to empty the bin?").
-- Use only one or two stakeholders. Family members are the most concrete.
-- Skip the formal Known Limitations section. Use "things we still need to figure out" instead.
-
-**Adapting the activities:**
-- Use storytelling. "Imagine it's three months from now. Something has gone wrong with our compost bin. What is it?"
-- Role-play the resistant family member. Have the student practice answering objections out loud.
-
-**Journal alternatives:** A list of "three things that could go wrong" with one sentence each for what to do about each.
-
-**What success looks like:** The learner can name at least one thing that might fail in their plan and one person who might push back.
-:::
+- Core activity: Name three things that might go wrong and one person who might resist the plan.
+- Core diagram or log task: Make a short table with problem, fix, and person affected.
+- Discussion questions:
+  1. What is one failure you can already imagine?
+  2. What would you do if that happened?
+  3. Who might push back, and what are they worried about?
+- Success looks like: The learner can name a realistic failure mode, suggest a fix, and describe one stakeholder concern.
+- Skip for younger learners: second-order-effects analysis, larger stakeholder maps, and formal limitation language.
 
 :::info For Ages 10–12
 - Push for at least five distinct failure modes.
@@ -81,6 +73,13 @@ Honest limitations are a sign of engineering rigor, not weakness. A proposal tha
 - For the stakeholder analysis, the student must articulate the *most reasonable* version of the objection, not a strawman version.
 - Add: "What's a second-order effect I haven't anticipated?" Discuss systems behaviors that emerge over time (does composting attract pests? does reusing paper mean lower paper quality?).
 :::
+
+## Safety and Care Notes
+
+- Keep critique focused on the design, not on the person who made it.
+- Use sentence frames such as "A risk I see is..." or "A stronger version might..." instead of personal judgment.
+- Start with one strength before naming one weak point.
+- Pause the discussion if it becomes sarcastic, dismissive, or emotionally heavy.
 
 ---
 
@@ -361,6 +360,12 @@ Week 14 of terrarium observation. Open the Systems Log:
 
 ---
 
+## Local Investigation Prompt
+
+Ask one real stakeholder - or role-play one carefully - what would make them resist your redesign. What constraint are they trying to protect?
+
+---
+
 ## Check for Understanding
 
 After this week, check whether the learner can:
@@ -399,10 +404,6 @@ Counterintuitive but true: the proposal is *stronger* now because it admits more
 :::
 
 ---
-
-:::tip Simplify (Ages 8–9)
-Three questions are enough: "What might go wrong?" "What would we do if it did?" "Who might not like this idea?" Keep answers short and concrete.
-:::
 
 :::tip Extend (Ages 10–12)
 Read about pre-mortems — the engineering practice of imagining a project has already failed, then working backwards to figure out why. Apply this to your redesign: "Imagine it's six months from now and the redesign has stopped working. What happened? Why?" The pre-mortem often surfaces failure modes the failure-mode checklist misses.

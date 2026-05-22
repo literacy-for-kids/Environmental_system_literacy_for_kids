@@ -58,28 +58,29 @@ Run the game *cleanly* the first time. Resist the urge to explain MSY before the
 If the pool collapses on the first play, that's not a failure — that's the lesson landing.
 :::
 
-## For Younger Learners (Ages 8–9)
+## Minimum Path for Ages 8–9
 
-:::info Adapting This Week
-**Simplest version of the concept:** "We're going to play a game where we share a pile of fish. If we take too many, we run out. If we take just the right amount, we can keep playing forever."
-
-**What to shorten or skip:**
-- Start the pool smaller (10 tokens) and use slower regeneration (1 token per round) for clearer dynamics.
-- Skip silent rounds. Younger learners get more out of negotiating openly.
-
-**Adapting the activities:**
-- Use real-life framing: "We're sharing a pond full of fish. How many fish can each of us catch this year?"
-
-**Journal alternatives:** Draw the game's pool over time — how many fish at the start of each round, with the player's harvests.
-
-**What success looks like:** The learner can say "if we take too many, we run out, but if we leave enough for them to make new ones, we can keep eating fish forever."
-:::
+- Core activity: Play one short version of the resource-pool game with talking allowed.
+- Core diagram or log task: Track the size of the pool after each round with a simple number list or drawing.
+- Discussion questions:
+	1. What happens if everybody takes a lot at the same time?
+	2. What happens if everyone agrees on a smaller number?
+	3. What rule would help the group keep playing longer?
+- Success looks like: The learner can explain that shared resources last longer when the total harvest stays at or below regrowth.
+- Skip for younger learners: the silent round, the formal MSY calculation, and the more advanced policy variants.
 
 :::info For Ages 10–12
 - Calculate MSY explicitly each round. With a 25% regeneration rate on a pool of 20, MSY = 5 per round (or 2.5 per player in a 2-player game).
 - Run multiple rounds with different rules: silent, then with negotiation, then with binding agreements, then with private side-deals allowed.
 - Compare outcomes. Discuss why some structures support cooperation and others don't.
 :::
+
+## Safety and Care Notes
+
+- Set the tone before the game: the lesson is about structure, not about who is a "good" or "bad" player.
+- Use short rounds and allow a pause if the competition starts to feel personal.
+- Do not shame students for aggressive choices; use those choices as data about the system.
+- If needed, replay the round with open negotiation so the group can compare structures instead of carrying frustration forward.
 
 ---
 
@@ -370,6 +371,12 @@ The engineering question is: **how do we restructure the situation so that the s
 
 ---
 
+## Local Investigation Prompt
+
+Name one local shared resource - snacks, printer paper, sports equipment, parking spaces, screen time, or a common area. What rule would help keep that shared pool usable for everyone?
+
+---
+
 ## Spiral Review
 
 :::tip Connecting to Earlier Weeks
@@ -379,10 +386,6 @@ The engineering question is: **how do we restructure the situation so that the s
 :::
 
 ---
-
-:::tip Simplify (Ages 8–9)
-Run just one play of the game with talking allowed. Skip the silent round. The big takeaway: "We can share if we agree on a rule. If we don't, we run out."
-:::
 
 :::tip Extend (Ages 10–12)
 Look up **Elinor Ostrom's eight design principles** for managing commons. She studied real-world community-managed commons — fisheries, irrigation systems, forests — and documented patterns of what makes them work. Her work won the Nobel Prize in Economics in 2009. Discuss her principles in light of the game.

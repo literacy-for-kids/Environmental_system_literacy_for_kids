@@ -1,18 +1,18 @@
 ---
 sidebar_position: 0
 sidebar_label: "Welcome"
-title: "Environmental Systems Literacy"
-description: "A curiosity-driven 18-week curriculum for ages 8–12 that teaches how planetary systems work and where human infrastructure fits into them"
+title: "Environmental Systems Literacy for Kids"
+description: "A curiosity-driven 14-week core sequence plus 4-week capstone for ages 8–12 that teaches how planetary systems work and where human infrastructure fits into them"
 slug: /intro
 ---
 
-# Environmental Systems Literacy
+# Environmental Systems Literacy for Kids
 
 **A curriculum for understanding the planet as an engineered system.**
 
 Earth is a massive, mostly closed-loop machine. Energy flows in from the sun, drives weather, oceans, and life, and eventually radiates back out as heat. Matter — carbon, water, nitrogen, the atoms that make up everything — does not leave. It cycles. Every output becomes an input somewhere else, or the system jams.
 
-This 18-week curriculum teaches students how that machine works, how human industrial systems plug into it, and why the two often interface badly. We treat the planet the way an engineer treats any complex system: identify the inputs, outputs, throughput, feedback loops, and load limits. When something is going wrong, we look for the mismatch, not the villain.
+This 14-week core sequence, plus a 4-week capstone, teaches students how that machine works, how human industrial systems plug into it, and why the two often interface badly. We treat the planet the way an engineer treats any complex system: identify the inputs, outputs, throughput, feedback loops, and load limits. When something is going wrong, we look for the mismatch, not the villain.
 
 By the end of the course, students will keep a **Systems Log** — a running record of observations, measurements, and systems analyses that documents how their thinking has grown.
 
@@ -66,7 +66,7 @@ Minimal. Most activities use household items — a jar, some water, paper, a mea
 
 This is **one curriculum with built-in differentiation**, not two separate tracks. Every weekly lesson includes:
 
-- **For Ages 8–9:** A "For Younger Learners" section with the simplest version of the concept, what to shorten or skip, and oral/drawn alternatives to written work.
+- **For Ages 8–9:** A "Minimum Path" section with the core activity, a simpler diagram or log task, a few discussion questions, and guidance on what to skip.
 - **For Ages 10–12:** Push into deeper reasoning, more explicit measurement, and richer system diagrams.
 
 In mixed-age groups, run the main activity together and use the age-specific prompts to adjust the depth of your questions.
@@ -149,7 +149,7 @@ Two bonus weeks introduce **amplifying feedback loops and tipping points** (earl
 
 ## The Systems Log
 
-The **Systems Log** is the backbone of this curriculum. Introduced in Week 1 and maintained throughout all 18 weeks, it serves as a running record of each student's observations and analysis.
+The **Systems Log** is the backbone of this curriculum. Introduced in Week 1 and maintained through the 14-week core sequence and 4-week capstone, it serves as a running record of each student's observations and analysis.
 
 The log captures:
 
@@ -205,7 +205,7 @@ No special software or expensive materials are required.
 
 ## The Goal
 
-By the end of 18 weeks, students should be able to:
+By the end of the full sequence, students should be able to:
 
 - **Trace matter and energy** through a real-world system from input to output, including where the outputs actually go
 - **Identify whether a loop is open or closed**, and what would be required to close an open one

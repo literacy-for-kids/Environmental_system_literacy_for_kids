@@ -56,23 +56,16 @@ Engineering framing throughout. The student is studying system dynamics, not lea
 **Tipping points are a system property, not a prediction.** Don't tell the student "the planet will tip at year X." Tell them: "Tipping points are how nonlinear systems behave. Here's where some are suspected. The exact timing is uncertain."
 :::
 
-## For Younger Learners (Ages 8–9)
+## Minimum Path for Ages 8–9
 
-:::info Adapting This Week
-**Simplest version of the concept:** "Some things in nature push back when they get disturbed — they go back to normal on their own. Other things make the disturbance worse, then even worse, like a snowball getting bigger as it rolls. We'll learn the difference."
-
-**What to shorten or skip:**
-- Skip the climate amplifying loops. Stick to everyday examples — sleeping bag warmth, snowball rolling, a microphone making a squeal when held near a speaker.
-- Skip hysteresis and early-warning signals.
-- Skip the personal-life mapping activity. Replace with: "Can you think of a snowball-getting-bigger example? Can you think of a thing-going-back-to-normal example?"
-
-**Adapting the activities:**
-- Use physical demonstrations if possible — a thermostat, a microphone near a speaker.
-
-**Journal alternatives:** Two drawings: "something that fixes itself" and "something that makes itself worse."
-
-**What success looks like:** The learner can give an example of each kind of loop, even if simple.
-:::
+- Core activity: Compare one everyday balancing loop and one everyday amplifying loop.
+- Core diagram or log task: Draw one example that settles down and one that snowballs.
+- Discussion questions:
+       1. What helps the first system calm itself down?
+       2. What makes the second system grow faster?
+       3. Where have you seen one of these patterns in real life?
+- Success looks like: The learner can name one loop that self-corrects and one that grows on itself.
+- Skip for younger learners: climate tipping-point detail, hysteresis, early-warning signals, and the more abstract personal-loop mapping.
 
 :::info For Ages 10–12
 - Full treatment of balancing vs. amplifying loops.
@@ -80,6 +73,13 @@ Engineering framing throughout. The student is studying system dynamics, not lea
 - The personal-life mapping activity, with conversion: how would you convert one amplifying loop in your life into a balancing one?
 - Optional: introduce hysteresis (the system gets stuck in a new state even after the original cause is removed).
 :::
+
+## Safety and Care Notes
+
+- Keep climate examples concrete and age-appropriate.
+- If a learner starts to feel overwhelmed, step back to the systems pattern itself: balancing, amplifying, threshold, recovery.
+- Avoid countdown language or doomsday framing.
+- End by naming one balancing loop or protective system the learner can already observe.
 
 ---
 
@@ -422,6 +422,12 @@ This is optional reflection — but it can sharpen the capstone proposal.
 
 ---
 
+## Local Investigation Prompt
+
+Find one balancing loop and one amplifying loop in your own environment. Which one seems more stable, and what keeps it that way?
+
+---
+
 ## Check for Understanding
 
 After this week, check whether the learner can:
@@ -450,6 +456,12 @@ This is why "just stop emitting carbon" isn't a complete description of the prob
 
 ---
 
+## Source Notes
+
+For the climate-loop, Arctic-feedback, and tipping-point references used in this extension, see the central [Source Notes](./source-notes.md). Present these as active research areas with uncertainty, not as fixed countdown claims.
+
+---
+
 ## Spiral Review
 
 :::tip Connecting to Earlier Weeks
@@ -460,10 +472,6 @@ This is why "just stop emitting carbon" isn't a complete description of the prob
 :::
 
 ---
-
-:::tip Simplify (Ages 8–9)
-Two examples are enough. "A pile of leaves catching fire is amplifying — the more it burns, the more it spreads." "Eating when you're hungry is balancing — you stop when you're full." That's the whole lesson at this age.
-:::
 
 :::tip Extend (Ages 10–12)
 Read about Donella Meadows' "leverage points" — places where small changes in a system can produce large effects. Amplifying loops are one of the most powerful leverage points: change the loop's direction (from runaway growth to runaway decline, or vice versa) and the system's behavior changes radically. Apply this to a real system you care about.

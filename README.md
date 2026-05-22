@@ -6,9 +6,9 @@
 🌐 **View the curriculum website:**  
 https://literacy-for-kids.github.io/environmental_system_literacy/
 
-# Environmental_system_literacy
+# Environmental Systems Literacy for Kids
 A curriculum for understanding planetary infrastructure, resource throughput, and the physical constraints of civilization.
-Most environmental education relies on emotional appeals—telling kids to "save the earth" or feel guilty about their carbon footprint. This curriculum takes an engineering approach. It treats the Earth as a massive, closed-loop mechanical and chemical system. Students learn how natural processes handle energy and matter, how human industrial systems (which are largely open-loop) interface with that biology, and how to identify the failure modes when those two systems clash.
+Many environmental education materials emphasize appreciation, concern, or action. This curriculum instead takes an engineering approach. It treats Earth as a largely closed-loop physical and chemical system. Students learn how natural processes handle energy and matter, how human industrial systems (which are often open-loop) interface with that biology, and how to identify the failure modes when those two systems clash.
 **Core Concepts**
 These mental models transition students from abstract environmentalism to rigorous, physical systems-thinking.
 
@@ -19,7 +19,7 @@ These mental models transition students from abstract environmentalism to rigoro
 - **Feedback Loops (Amplifying vs. Balancing):** Building directly on the models from Emotional and Civic literacy, students look at planetary homeostasis. We explore balancing loops (predator/prey dynamics that stabilize a system) and amplifying loops (melting ice reducing planetary albedo, which accelerates warming) that lead to runaway system states.
 
 **The Curriculum Roadmap**
-This 14-week progression moves from the physical laws governing the planet to the logistical realities of human infrastructure.
+This 14-week core sequence, plus a 4-week capstone and two optional extension weeks, moves from the physical laws governing the planet to the logistical realities of human infrastructure.
 **Weeks 1–3: The Planetary Engine**
 **Focus:** Thermodynamics, Energy Flow, and the Sun
 We start with the power source. Students learn how solar radiation drives ocean currents, weather patterns, and photosynthesis. We establish the absolute rule that energy cannot be created or destroyed, only transferred, and look at the efficiency loss at every step of a food web.
@@ -47,6 +47,9 @@ We synthesize the concepts by looking at human solutions. How do we redesign ind
 **Weeks 15–18: The Redesign Project**
 **Focus:** Design, Propose, and Present a Circular Solution
 Students take their Circular Redesign concept from Week 14 and develop it into a full proposal — specifications, constraints, tradeoffs — and present it to a real audience.
+
+**Facilitator Resources**
+The website now includes companion pages for assessment support, systems-log use, example artifacts, templates and worksheets, source notes, a standards alignment appendix, and a full-course materials master list.
 
 ## License
 

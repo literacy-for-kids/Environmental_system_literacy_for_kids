@@ -61,23 +61,16 @@ Resist the urge to teach thermodynamics formally. Instead, lead with observation
 The rules emerge from the observations.
 :::
 
-## For Younger Learners (Ages 8–9)
+## Minimum Path for Ages 8–9
 
-:::info Adapting This Week
-**Simplest version of the concept:** "Every time energy moves, some of it leaks out as heat. That's why everything that uses energy gets warm."
-
-**What to shorten or skip:**
-- Skip formal mention of the First/Second Laws. Just use "the energy leak rule."
-- Skip the math version of trophic efficiency. Use the beans visually instead.
-
-**Adapting the activities:**
-- For the food-web pyramid, use the 100 beans visually rather than as a calculation. Pour them out: this is what the grass started with. Pile 10 to the side: this is what the cow got from eating it. Pile 1 from that: this is what a person eating the cow gets.
-- Accept drawings as Systems Log entries.
-
-**Journal alternatives:** "Every time something uses energy, ___ leaks out." Spoken or drawn is fine.
-
-**What success looks like:** The learner can point to a warm thing (a charging phone, a person who just exercised) and say "some energy is leaking out of that as heat."
-:::
+- Core activity: Use one quick heat-loss demo, such as stretching a rubber band or rubbing hands together, and notice that the system gets warmer as energy changes form.
+- Core diagram or log task: Draw a very simple energy pyramid or food chain with arrows showing that less useful energy moves upward each step.
+- Discussion questions:
+   1. Why did the object or your hands get warmer?
+   2. Where did the "extra" energy go?
+   3. Why can an animal not pass all of its food energy to the next animal?
+- Success looks like: The learner can say that every energy transfer spreads some energy out as heat.
+- Skip for younger learners: the formal laws, entropy vocabulary, and the more exact trophic-efficiency math.
 
 :::info For Ages 10–12
 - Introduce the standard ~10% trophic efficiency figure (with the caveat that real numbers range from about 5% to 20%).
@@ -282,6 +275,11 @@ Pick a familiar animal — a fox, an owl, a shark, anything. Draw a food web sho
 - The Earth has been receiving sunlight for billions of years. Why isn't it red-hot by now?
 - If you could design a 100%-efficient machine, what would the Second Law say about that?
 
+
+## Local Investigation Prompt
+
+Find one machine, device, or body process around you that gets warm while it works. What kind of energy change do you think is happening?
+
 ---
 
 ## Check for Understanding
@@ -320,9 +318,6 @@ If a system *did* accumulate energy without releasing it, what would happen? (It
 
 ---
 
-:::tip Simplify (Ages 8–9)
-Use the beans demonstration as the centerpiece. Skip the formal naming of the First and Second Laws. The takeaway "every time energy moves, some of it leaks out as heat" is enough.
-:::
 
 :::tip Extend (Ages 10–12)
 Look up the actual energy efficiency of common devices: incandescent bulbs (~5%), LED bulbs (~40%), gasoline engines (~25%), electric motors (~85–95%). Discuss why LEDs replaced incandescents and why electric vehicles can be more efficient than gasoline ones, framed entirely in thermodynamic terms.
@@ -335,3 +330,5 @@ Look up the actual energy efficiency of common devices: incandescent bulbs (~5%)
 ## Preview of Next Week
 
 Next week, we build a sealed jar that contains an entire tiny ecosystem — a closed loop for matter, an open path for energy. It will run as a background experiment for the rest of the course.
+
+

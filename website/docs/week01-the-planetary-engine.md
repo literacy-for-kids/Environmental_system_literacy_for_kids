@@ -8,7 +8,7 @@ description: "Students learn how solar radiation drives ocean currents, weather 
 # Week 1: How Solar Energy Drives Everything
 *Unit 1: The Planetary Engine*
 
-Welcome to Environmental Systems Literacy. Over the next 18 weeks, we will treat the Earth as an engineered system — looking at how energy enters, how matter moves, where loops close, and where they break.
+Welcome to Environmental Systems Literacy for Kids. Over this 14-week core sequence and 4-week capstone, we will treat Earth as an engineered system — looking at how energy enters, how matter moves, where loops close, and where they break.
 
 This week we start at the source:
 
@@ -47,7 +47,7 @@ Plants use it to build sugar. Oceans absorb it and move heat from the equator to
 - Find a sunny window or an outdoor spot where a cup of water can sit undisturbed for 30–60 minutes.
 - Gather two cups: one dark-colored, one light-colored or clear. Same size, same starting amount of water.
 - If you have a thermometer (even a meat thermometer or a simple aquarium one), set it aside.
-- Prepare a simple notebook for the Systems Log — this will be used for all 18 weeks.
+- Prepare a simple notebook for the Systems Log — this will be used through the full course sequence, including the capstone.
 :::
 
 :::tip Facilitation Mindset
@@ -56,23 +56,16 @@ This week is about **noticing** what was previously invisible.
 Students see sunlight every day. The goal is to get them to see it as a *power source* — measurable, calculable, the input to almost every Earth-surface process. Don't lecture. Let them observe a cup of water getting warm, then ask what happened.
 :::
 
-## For Younger Learners (Ages 8–9)
+## Minimum Path for Ages 8–9
 
-:::info Adapting This Week
-**Simplest version of the concept:** "The sun is the battery that runs almost everything on Earth — plants, weather, even the wind."
-
-**What to shorten or skip:**
-- Skip the energy-tracing exercise if attention is limited. Just do the warm-water demonstration.
-- Keep sessions to 20 minutes instead of 30.
-
-**Adapting the activities:**
-- Instead of using a thermometer, just have the learner touch the cups and describe which one feels warmer.
-- For the Systems Log, accept one drawn picture or one spoken sentence instead of written entries.
-
-**Journal alternatives:** Draw a picture of the sun and three things it powers. Or use this sentence starter: "The sun makes ___ happen."
-
-**What success looks like:** The learner can name three things that would stop working if the sun went away.
-:::
+- Core activity: Run the two-cup sunlight test and let the learner decide which cup warmed faster.
+- Core diagram or log task: Draw the sun and three things it powers, then add arrows from the sun to each one.
+- Discussion questions:
+   1. Which cup got warmer, and why?
+   2. What would stop working if the sun went away?
+   3. What is one thing the sun powers that you do not usually notice?
+- Success looks like: The learner can explain that sunlight is the main energy input for life, weather, and many surface processes on Earth.
+- Skip for younger learners: the solar-constant number, longer energy-tracing chains, and the fuller photosynthesis breakdown.
 
 :::info For Ages 10–12
 - Introduce the actual numbers: the Earth receives roughly 1,360 watts of solar power per square meter at the top of the atmosphere (the "solar constant"). About half of that reaches the ground.
@@ -278,6 +271,11 @@ Start your Systems Log with this first entry:
 - Can you think of anything on Earth that does *not* run on solar energy?
 - If the sun got 10% brighter for a year, what do you think would happen?
 
+
+## Local Investigation Prompt
+
+Find three things near your home, street, yard, or school that are running on today's sunlight directly or indirectly. Which one is easiest to explain with arrows?
+
 ---
 
 ## Check for Understanding
@@ -316,9 +314,6 @@ For now, hold onto this: **every system has an energy input, a throughput, and o
 
 ---
 
-:::tip Simplify (Ages 8–9)
-If attention is limited, do only the two-cups activity. The single key takeaway — "the sun powers almost everything" — is enough for one week. Drawing pictures counts as Systems Log entries.
-:::
 
 :::tip Extend (Ages 10–12)
 Look up the **solar constant** (about 1,360 W/m² at the top of Earth's atmosphere). Calculate how much energy hits a 10 m × 10 m patch of ground in one minute (assume about 1,000 W/m² reaches the surface on a sunny day). Compare it to the wattage of common appliances. Discuss why solar panels are economically interesting given those numbers.
@@ -331,3 +326,5 @@ Look up the **solar constant** (about 1,360 W/m² at the top of Earth's atmosphe
 ## Preview of Next Week
 
 Next week, we explore two rules that govern *how* the sun's energy moves through Earth's systems — the laws of thermodynamics. We learn why energy always degrades into less useful forms, and why a hawk has to eat so many mice.
+
+

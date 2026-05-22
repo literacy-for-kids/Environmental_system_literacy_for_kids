@@ -53,29 +53,30 @@ The most surprising fact for students: roughly 97% of Earth's water is in the oc
 Lead with that surprise, then unpack the cycle.
 :::
 
-## For Younger Learners (Ages 8–9)
+## Minimum Path for Ages 8–9
 
-:::info Adapting This Week
-**Simplest version of the concept:** "The same water keeps moving around the planet — into the air, into clouds, into rain, into the ground, into rivers, into the ocean, and back into the air again."
-
-**What to shorten or skip:**
-- Skip the percentage breakdown of reservoirs. Just use "most water is in oceans, some is in ice, a little is in lakes and rivers."
-- Skip the discussion of aquifers. Keep it to "underground water" generally.
-
-**Adapting the activities:**
-- The stove-top demonstration works visually. Stand back at a safe distance and watch the steam rise to the cold pot lid and drip back down.
-- Drawings are great Systems Log entries.
-
-**Journal alternatives:** Draw a big loop of water with arrows and pictures of each step.
-
-**What success looks like:** The learner can describe a complete water cycle in their own words, including evaporation, clouds, rain, and runoff back to the ocean.
-:::
+- Core activity: Watch a simple evaporation-condensation demo using a warm-water container and a cool lid, or use the no-stove window version if needed.
+- Core diagram or log task: Draw one loop with ocean, cloud, rain, river, and ocean again.
+- Discussion questions:
+	1. Where is most of Earth's water?
+	2. How does water get from the ground back into the sky?
+	3. Where does sink or shower water go after it leaves your house or school?
+- Success looks like: The learner can describe a full water loop using evaporation, clouds, rain, and runoff.
+- Skip for younger learners: exact reservoir percentages, residence-time figures, detailed aquifer discussion, and the more advanced rerouting examples.
 
 :::info For Ages 10–12
 - Introduce reservoir percentages: ~97.5% ocean (salt), ~1.7% glaciers/ice caps, ~0.75% groundwater, &lt;0.05% lakes and rivers, &lt;0.001% atmosphere.
 - Discuss **residence time**: how long water typically stays in each reservoir. Atmosphere ~9 days. Rivers ~weeks to months. Lakes ~years. Groundwater ~hundreds to tens of thousands of years (depending on depth). Deep ocean ~thousands of years. Glaciers ~tens of thousands of years.
 - Discuss why "running out of water" is really "moving water faster than it can refill" or "moving it to where it's hard to use."
 :::
+
+
+## Safety and Care Notes
+
+- Keep an adult in charge of any stove, hot plate, kettle, or heated water.
+- Stay back from steam and hot lids; steam can burn skin quickly.
+- Let the pot, plate, or lid cool before moving it.
+- If your setting is not safe for heat, use a no-stove version with a warm bowl, clear cover, and sunlight instead.
 
 ---
 
@@ -297,6 +298,11 @@ This is week 1 of terrarium observation. Open the Systems Log and add today's en
 - If a river runs through a city, why is the water at the downstream end usually less clean than at the upstream end?
 - Glaciers store ice that took thousands of years to build up. If they melt, where does that water go? Why does this matter for sea level?
 
+
+## Local Investigation Prompt
+
+Trace one local water path: roof to gutter, faucet to drain, storm drain to creek, or puddle to dry pavement. Where does the water likely go next?
+
 ---
 
 ## Check for Understanding
@@ -323,6 +329,11 @@ This isn't a moral observation. It's a structural one. **The system is closed fo
 **This week's takeaway:** The water cycle is the planet's plumbing. We can't make new water. We can only redirect the existing flow.
 :::
 
+
+## Source Notes
+
+For the reservoir breakdowns and water-distribution figures used in this week, see the central [Source Notes](./source-notes.md). If you refresh the numbers before teaching, keep the lesson language rounded and age-appropriate.
+
 ---
 
 ## Spiral Review
@@ -337,9 +348,6 @@ Ask: "Is your terrarium losing water through the lid? How would you know?"
 
 ---
 
-:::tip Simplify (Ages 8–9)
-Focus on the stovetop demonstration and the full cycle drawing. Skip the reservoir percentages — they can come later. The key takeaway is "water keeps going in a circle."
-:::
 
 :::tip Extend (Ages 10–12)
 Calculate the **residence time** of water in different reservoirs. If the atmosphere holds 12,900 km³ of water and the global precipitation rate is 505,000 km³ per year, what's the average time a water molecule spends in the atmosphere? (~9 days.) Now do the same for the ocean (~1.36 billion km³, with about 425,000 km³ evaporating per year). Why such different residence times?
@@ -352,3 +360,5 @@ Calculate the **residence time** of water in different reservoirs. If the atmosp
 ## Preview of Next Week
 
 Next week we follow another atom: **carbon**. Where it's stored, how it moves, and why pulling carbon out of the ground at high speed is the central engineering issue of our time.
+
+

@@ -56,24 +56,16 @@ The course's overall position, by the end: **these are patches, not fixes.** The
 **"Patch, not fix" is the framing the week builds toward.** Don't impose this conclusion upfront. Let the analysis lead the student there.
 :::
 
-## For Younger Learners (Ages 8–9)
+## Minimum Path for Ages 8–9
 
-:::info Adapting This Week
-**Simplest version of the concept:** "Some scientists are thinking about really big ideas to slow down climate change — like making clouds reflect more sunlight, or building giant machines that pull CO₂ out of the air. We're going to look at three big ideas and think about what could go right and what could go wrong with each one."
-
-**What to shorten or skip:**
-- Skip ocean iron fertilization and enhanced weathering. Focus only on SAI (the "sulfur clouds" idea) and DAC (the "CO₂ vacuum" idea).
-- Skip termination shock, moral hazard, and governance complications.
-- Skip the system-diagram activity. Replace with: "Draw a picture of one of the ideas. Then draw two arrows showing 'good things that could happen' and 'bad things that could happen.'"
-
-**Adapting the activities:**
-- Use the Mount Pinatubo example concretely: "A volcano erupted, lots of dust got into the sky, and the whole planet got a little cooler for a year or two. Some scientists wonder if we could do that on purpose."
-- Keep the discussion concrete: "If you sneezed and made everyone in your room cooler, but you couldn't stop sneezing without everyone suddenly getting hot again, would you start sneezing in the first place?"
-
-**Journal alternatives:** "Pick one big idea. Draw it. Write one sentence about what's good and one sentence about what's risky."
-
-**What success looks like:** The learner can describe one geoengineering proposal and name one thing that could go wrong with it.
-:::
+- Core activity: Look at one big climate-intervention idea and name one possible benefit and one possible risk.
+- Core diagram or log task: Draw the idea and add one arrow for what it is trying to change and one arrow for what else it might affect.
+- Discussion questions:
+       1. What is this idea trying to fix?
+       2. What might go right if it works?
+       3. What might still go wrong even if it works partly?
+- Success looks like: The learner can describe one intervention and one risk without treating it like a simple yes-or-no answer.
+- Skip for younger learners: the full three-category comparison, governance detail, termination-shock analysis, and moral-hazard discussion.
 
 :::info For Ages 10–12
 - All three intervention categories covered.
@@ -81,6 +73,13 @@ The course's overall position, by the end: **these are patches, not fixes.** The
 - Discuss governance: who decides whether to deploy a global thermostat? What are the political consequences of unilateral deployment?
 - Discuss moral hazard explicitly: does the existence of a "fix" reduce pressure to address the underlying linear API?
 :::
+
+## Safety and Care Notes
+
+- Keep this topic at the level of systems analysis only.
+- Do not treat any intervention as a classroom how-to or deployment plan.
+- If the topic starts to feel emotionally heavy, return to mechanism, tradeoffs, and uncertainty.
+- Remind learners that the goal is to evaluate proposals, not to endorse or reject them on command.
 
 ---
 
@@ -137,7 +136,7 @@ The intended mechanism diagram:
 
 **3. The Natural Analog: Mount Pinatubo**
 
-In 1991, Mount Pinatubo in the Philippines erupted and injected approximately 20 million tonnes of sulfur dioxide into the stratosphere. The sulfur dioxide spread globally and formed a reflective haze.
+In 1991, Mount Pinatubo in the Philippines erupted and injected about 15 million tons of sulfur dioxide into the stratosphere. The sulfur dioxide spread globally and formed a reflective haze.
 
 Result: global average surface temperatures dropped by roughly **0.5°C for about 1–2 years**, before the particles settled out of the stratosphere and the cooling effect faded.
 
@@ -455,6 +454,12 @@ The student is not required to take a position. They are required to think clear
 
 ---
 
+## Local Investigation Prompt
+
+Choose one geoengineering idea and ask: who in your community would ask about cost, who would ask about risk, and who would ask who gets to decide?
+
+---
+
 ## Check for Understanding
 
 After this week, check whether the learner can:
@@ -485,6 +490,12 @@ The political and moral questions are separate. They depend on values — how mu
 
 ---
 
+## Source Notes
+
+For Mount Pinatubo, solar-radiation-management, carbon-dioxide-removal, and direct-air-capture references used in this extension, see the central [Source Notes](./source-notes.md).
+
+---
+
 ## Spiral Review
 
 :::tip Connecting to Earlier Weeks
@@ -495,10 +506,6 @@ The political and moral questions are separate. They depend on values — how mu
 :::
 
 ---
-
-:::tip Simplify (Ages 8–9)
-Two big ideas are enough. "Some scientists want to put particles in the sky to reflect sunlight — but if they stopped, things would get worse fast. Other scientists want to build big machines to pull CO₂ out of the air — but the machines use a lot of energy." That's the right level at this age.
-:::
 
 :::tip Extend (Ages 10–12)
 Look up the history of stratospheric aerosol research — including the 1991 Mount Pinatubo natural experiment and modern proposals like SCoPEx (a Harvard research project on SAI feasibility, which was paused in 2024 after pushback from indigenous groups in Sweden). What does this history suggest about how geoengineering research and deployment will actually proceed? Is the engineering question separable from the political question, or are they intertwined from the start?

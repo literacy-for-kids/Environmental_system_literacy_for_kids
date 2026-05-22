@@ -58,22 +58,16 @@ Carrying capacity feels intuitive once students see one good example. The deer-a
 Do *not* lecture about human population. That's a different discussion and tends to derail the engineering frame. Focus on natural ecosystems and on specific industrial systems (a fishery, an aquifer).
 :::
 
-## For Younger Learners (Ages 8–9)
+## Minimum Path for Ages 8–9
 
-:::info Adapting This Week
-**Simplest version of the concept:** "Every place has a maximum number of animals (or people, or fish) it can keep alive. If there are more than that, the place starts to break down, and then there are fewer."
-
-**What to shorten or skip:**
-- Skip the formal math of carrying capacity. Use the deer story and intuition.
-- Skip industrial examples — focus on natural ones.
-
-**Adapting the activities:**
-- Use the candy demonstration: a jar can fit a certain number of candies. After that, candies spill out (the system can't hold more).
-
-**Journal alternatives:** A drawing of a forest with too many deer, then the same forest a year later with fewer deer and no leaves.
-
-**What success looks like:** The learner can say "if too many animals live in one place, they run out of food and a lot of them die."
-:::
+- Core activity: Use one vivid carrying-capacity example, such as too many deer on an island or too many fish in one pond.
+- Core diagram or log task: Draw the system once at a healthy level and once after overshoot, showing less food available the second time.
+- Discussion questions:
+	1. What happens if too many animals share the same food?
+	2. What changes first when the system is overloaded?
+	3. How can the place recover if the load drops?
+- Success looks like: The learner can explain that every system has a limit, and going above it damages the system.
+- Skip for younger learners: the formal math, Liebig's Law, and the more abstract industrial analogies.
 
 :::info For Ages 10–12
 - Calculate: a 100-acre forest can support roughly X deer per year sustainably (depending on the food available). Above X, the deer eat the forest faster than the forest can regenerate. Below X, the population grows.
@@ -114,15 +108,15 @@ The technical name for that limit, when applied to a living system, is **carryin
 
 **2. The Deer-on-an-Island Story**
 
-Tell this story (it's a classic example because the numbers were measured):
+Tell this story as a classic, simplified case study:
 
 Around the turn of the 20th century, in the Kaibab Plateau of Arizona, a deer herd lived in a forested area of about 1 million acres. Predators — wolves, cougars, coyotes — kept the deer population at around 4,000 animals.
 
-Starting around 1907, the U.S. government deliberately killed off most of the predators to "protect" the deer. By 1923, the predators were nearly gone. The deer herd grew rapidly — from 4,000 to about 100,000 animals by 1924.
+Starting around 1907, the U.S. government deliberately killed off most of the predators to "protect" the deer. In the classic retelling, the deer herd then grew rapidly — from about 4,000 to figures often reported near 100,000 by the mid-1920s.
 
-Then disaster. With no predators and no other limits, the deer ate everything they could. They stripped the forest. They ate young saplings. They ate bark off mature trees. In the winters of 1924-1926, with most of the food gone, tens of thousands of deer starved. The population crashed from ~100,000 down to ~20,000, and the forest itself was damaged — fewer young trees, less ground cover, eroded soil.
+Then came the crash. With no predators and no other limits, the deer ate everything they could. They stripped the forest, damaged young growth, and reduced future food supply. In the classic account, tens of thousands of deer starved and the population fell sharply, while the forest itself was damaged — fewer young trees, less ground cover, eroded soil.
 
-The forest's carrying capacity for deer was probably around 30,000. The herd had overshot that by 3x. The crash was not "natural" — it was the system enforcing its own limit.
+The forest's carrying capacity for deer was far lower than the peak herd size reported in the story. The crash illustrates the systems point even if the exact historical numbers vary by source.
 
 > "Carrying capacity isn't a guideline. It's a structural limit. The system pushes back when it's exceeded."
 
@@ -290,6 +284,12 @@ If the learner can do at least 2 of these, they're ready for Week 9.
 
 ---
 
+## Local Investigation Prompt
+
+Find one local system with a real load limit: a garden bed, a bird feeder, a playground, a pantry shelf, or a classroom supply bin. What would overload look like there?
+
+---
+
 ## Pause and Notice
 
 :::note What Matters Here
@@ -314,10 +314,6 @@ This is the engineering view of system limits. Limits are real, measurable, and 
 :::
 
 ---
-
-:::tip Simplify (Ages 8–9)
-Use only the deer story and the simple grass calculation. Skip Liebig's Law. The takeaway: "Every place has a limit on how many living things it can support. Going past the limit breaks the place."
-:::
 
 :::tip Extend (Ages 10–12)
 Read about the **St. Matthew Island reindeer**: in 1944, 29 reindeer were introduced to the previously reindeer-free Alaskan island. By 1963, the herd was 6,000. The island's lichen (their main winter food) was stripped. In one harsh winter (1963-1964), the herd crashed to 42 animals. The carrying capacity, based on lichen regrowth rates, was probably around 1,500. They overshot by 4x.

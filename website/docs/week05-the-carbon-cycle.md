@@ -14,7 +14,7 @@ Carbon is the element that makes up the structural backbone of every living thin
 
 Carbon cycles between these reservoirs constantly. The cycle has been roughly in steady state for thousands of years — atmospheric carbon has stayed within a relatively narrow range.
 
-But over the last ~200 years, humans have been moving carbon from a slow geological reservoir into the fast atmospheric reservoir at a rate the natural cycle was not designed to handle. That mismatch — fast input, slow removal — is what makes the carbon cycle the central engineering issue of our era.
+But over the last ~200 years, humans have been moving carbon from a slow geological reservoir into the fast atmospheric reservoir at a rate much faster than natural removal pathways usually rebalance on human timescales. That mismatch — fast input, slower removal — is what makes the carbon cycle a central engineering issue of our era.
 
 ---
 
@@ -22,7 +22,7 @@ But over the last ~200 years, humans have been moving carbon from a slow geologi
 - The big idea: carbon moves between reservoirs on very different timescales. Plants and the atmosphere trade carbon in days. Geological reservoirs (coal, oil) lock carbon away for hundreds of millions of years.
 - The climate connection: burning fossil fuels takes carbon from the slow geological reservoir and dumps it into the fast atmospheric reservoir. The natural cycle takes thousands of years to absorb it back.
 - Use engineering language: "the rate of input exceeds the rate of removal," not "we are destroying the climate."
-- The science here is well-established. CO₂ traps infrared radiation; more CO₂ traps more heat. This is physics measured in labs for over 150 years.
+- The core physics here is strongly established. CO₂ absorbs infrared radiation; more CO₂ changes how quickly heat escapes to space. This has been measured in labs for well over a century.
 :::
 
 :::tip Quick Navigation
@@ -52,32 +52,26 @@ But over the last ~200 years, humans have been moving carbon from a slow geologi
 :::tip Facilitation Mindset
 The carbon cycle is the most contested topic in this curriculum because of its climate connection. Stay engineering-focused:
 
-- We are not arguing about whether climate change is happening. The physics is settled.
+- We are not debating the core physical mechanism. The greenhouse effect and the warming influence of added CO₂ are strongly established.
 - We are not arguing about what to do politically. That is a separate question outside this course.
 - We *are* describing a measurable mismatch in the rate of input vs. the rate of removal in a planetary system.
 
 That is a fact about systems, not a political statement.
 :::
 
-## For Younger Learners (Ages 8–9)
+## Minimum Path for Ages 8–9
 
-:::info Adapting This Week
-**Simplest version of the concept:** "Carbon is the stuff plants and animals are made of. It keeps moving between the air, plants, animals, soil, and the ground. Right now, humans are taking some out of the ground really fast and putting it into the air."
-
-**What to shorten or skip:**
-- Skip the formal reservoir flow numbers. Use simple language: "atmosphere," "plants and animals," "soil," and "deep in the ground."
-- Skip the residence time discussion.
-
-**Adapting the activities:**
-- Draw the cycle with stick figures and big arrows. Make the arrows different thicknesses to show fast vs. slow flows.
-
-**Journal alternatives:** Draw the carbon cycle. Use cartoon arrows for fast flows and squiggly slow arrows for the geological reservoir.
-
-**What success looks like:** The learner can say "carbon moves between the air, plants, soil, and the ground" and explain that burning coal and gasoline moves carbon from the ground to the air.
-:::
+- Core activity: Trace the carbon in one familiar item, such as bread, an apple, a stick, or a tank of gasoline.
+- Core diagram or log task: Draw a simple carbon loop linking air, plant, animal or person, soil, and one arrow from deep underground to the air for fossil fuel use.
+- Discussion questions:
+	1. What do plants take from the air that helps them grow?
+	2. Where did the carbon in coal or oil come from long ago?
+	3. Why is burning gasoline different from burning a recently cut stick?
+- Success looks like: The learner can say that carbon moves between air, living things, soil, and the ground, and that fossil fuels move old carbon into the air quickly.
+- Skip for younger learners: ppm values, yearly carbon-flow quantities, and the deeper greenhouse-physics explanation.
 
 :::info For Ages 10–12
-- Atmospheric CO₂ pre-industrial was about 280 parts per million (ppm). Today it is about 425 ppm. That is roughly a 50% increase.
+- Atmospheric CO₂ before large-scale fossil fuel use was about 280 parts per million (ppm). As of 2026, current measurements are around 430 ppm, though the exact monthly value continues to change.
 - Photosynthesis pulls about 120 gigatonnes of carbon from the atmosphere into plants each year. Respiration and decomposition release a similar amount. The natural cycle is in rough balance.
 - Human fossil fuel combustion adds about 10 gigatonnes of carbon per year on top of the natural cycle.
 - About half of the added carbon is absorbed by the oceans and land vegetation. The other half stays in the atmosphere.
@@ -109,15 +103,15 @@ Carbon.
 
 Now ask: where is most of the carbon on Earth stored?
 
-| Reservoir | Approximate share of total Earth carbon |
-|-----------|-----------------------------------------|
-| **Sedimentary rocks** (limestone, etc.) | ~99.95% |
-| **Ocean** (dissolved CO₂, carbonate) | ~0.038% |
-| **Fossil fuels** (coal, oil, gas) | ~0.005% |
-| **Soils and biomass** (plants, animals, dead matter) | ~0.005% |
-| **Atmosphere** (CO₂, CH₄) | ~0.001% |
+| Reservoir | Relative size in the whole-Earth carbon inventory |
+|-----------|---------------------------------------------------|
+| **Sedimentary rocks** (limestone, etc.) | Vast majority by far |
+| **Ocean** (dissolved CO₂, carbonate) | Much smaller than rocks, but far larger than the fast-cycle reservoirs |
+| **Fossil fuels** (coal, oil, gas) | Small compared with rocks and oceans |
+| **Soils and biomass** (plants, animals, dead matter) | Small but biologically active |
+| **Atmosphere** (CO₂, CH₄) | Tiny fraction, but climatically important |
 
-(Exact percentages depend on the source, but the point is the *order of magnitude*: nearly all of Earth's carbon is locked in rocks, not in the fast cycle.)
+(Different inventories draw the reservoir boundaries differently. The main systems point is the scale difference: most Earth carbon is not in the fast atmospheric-biological cycle.)
 
 Discussion:
 
@@ -207,11 +201,11 @@ Explain the **greenhouse effect** in three sentences:
 
 More CO₂ = more infrared absorbed = slower heat loss = warmer atmosphere on average.
 
-> "This is the same physics as the glass roof of a greenhouse. Light gets in. Heat has trouble getting out. Even children's science museums have demonstrations of this — it's not in dispute as physics."
+> "This is the same basic idea people use when introducing greenhouses: energy comes in more easily than it escapes. The core atmospheric physics is well-established."
 
-If a student asks "but how do we know it's the CO₂, not just natural variation?", a good honest answer is: scientists know the precise infrared absorption spectrum of CO₂ from lab measurements going back to the 1850s. They know how much CO₂ has been added (it's measured continuously). They can calculate the expected warming from that added CO₂. The observed warming matches the calculation reasonably well. Multiple independent lines of evidence (ice cores, ocean temperature, isotopes) all point the same direction.
+If a student asks "but how do we know it's the CO₂, not just natural variation?", a good honest answer is: scientists know the infrared absorption spectrum of CO₂ from lab measurements, they measure atmospheric CO₂ continuously, and they compare those measurements with temperature, ocean heat, isotopes, and other evidence. Multiple independent lines of evidence point in the same general direction.
 
-What is contested politically is **what to do about it.** What is not contested scientifically is **that it is happening and why.**
+Public disagreement more often centers on **what to do, how fast to act, what it costs, and who is responsible**. The core physical mechanism is much less disputed in mainstream science.
 
 ---
 
@@ -288,6 +282,11 @@ Week 2 of terrarium observation. Open the Systems Log:
 - We dig up coal that was buried 300 million years ago and burn it. How did that change the system? (Net effect: added carbon to the fast cycle that was previously locked in the slow reservoir.)
 - What would it take for the atmosphere's carbon level to drop back to its pre-industrial value? (Either reducing the input, increasing the absorption, or both. And waiting — the natural absorption is slow.)
 
+
+## Local Investigation Prompt
+
+Choose one local food item, wooden object, or fuel-powered trip. Where did its carbon most likely come from, and where will that carbon go next?
+
 ---
 
 ## Check for Understanding
@@ -314,6 +313,11 @@ This is the engineer's view of climate change. Not a moral story about villains.
 **This week's takeaway:** Carbon cycles between reservoirs at vastly different speeds. Move carbon from a slow reservoir to a fast reservoir, and the fast reservoir fills up faster than it can drain.
 :::
 
+
+## Source Notes
+
+For atmospheric CO2 values, the Keeling Curve, and the current climate-evidence references behind this lesson, use the central [Source Notes](./source-notes.md).
+
 ---
 
 ## Spiral Review
@@ -327,9 +331,6 @@ This is the engineer's view of climate change. Not a moral story about villains.
 
 ---
 
-:::tip Simplify (Ages 8–9)
-The takeaway: "Carbon moves around between the air, plants, animals, and the ground. Right now, humans are pulling a lot of it out of deep ground and putting it into the air faster than it can move back." Skip the greenhouse-effect physics.
-:::
 
 :::tip Extend (Ages 10–12)
 Look up the Keeling Curve (graph of atmospheric CO₂ at Mauna Loa, 1958–present). Notice two patterns: (1) the steady annual increase, and (2) the seasonal wiggle (CO₂ drops in northern hemisphere summer when plants photosynthesize most, rises in winter when they don't). Why does the planet "breathe" with the seasons?
@@ -341,4 +342,6 @@ Look up the Keeling Curve (graph of atmospheric CO₂ at Mauna Loa, 1958–prese
 
 ## Preview of Next Week
 
-Next week, we look at the third major biogeochemical cycle: **nitrogen**. It is the limiting nutrient for plant growth almost everywhere on Earth, and humans have built a chemistry-based override that single-handedly feeds about half the planet — with significant downstream consequences.
+Next week, we look at the third major biogeochemical cycle: **nitrogen**. It is the limiting nutrient for plant growth almost everywhere on Earth, and humans have built a chemistry-based override that now supports a very large share of modern food production — with significant downstream consequences.
+
+

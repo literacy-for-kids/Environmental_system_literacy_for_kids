@@ -1,1 +1,5 @@
 node_modules/
+website/node_modules/
+website/.docusaurus/
+website/.cache/
+website/build/

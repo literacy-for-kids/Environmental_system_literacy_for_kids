@@ -2,14 +2,14 @@
 sidebar_position: 1
 sidebar_label: "Curriculum Overview"
 title: "Curriculum Overview"
-description: "An overview of the 18-week Environmental Systems Literacy curriculum structure, units, and learning goals"
+description: "An overview of the 14-week core sequence, 4-week capstone, and optional extensions in Environmental Systems Literacy for Kids"
 ---
 
 # Curriculum Overview
 
-Environmental Systems Literacy is an 18-week curriculum for ages 8–12 that treats the Earth as a closed-loop engineered system and teaches students to analyze it that way.
+Environmental Systems Literacy for Kids is a 14-week core sequence plus a 4-week capstone for ages 8–12. It treats the Earth as a closed-loop engineered system and teaches students to analyze it that way.
 
-The curriculum is organized into five units, each building on the last. By the end, students complete a four-week capstone in which they identify a real open-loop process in their own environment, design a closed-loop redesign, stress-test it, and present it to a real audience.
+The curriculum is organized into five units, each building on the last. The first fourteen weeks establish the core systems models. The final four weeks form a capstone in which students identify a real open-loop process in their own environment, design a closed-loop redesign, stress-test it, and present it to a real audience.
 
 ---
 
@@ -70,11 +70,11 @@ Students learn that every system has a load limit, what happens when limits are 
 
 ### Unit 4 — Re-Engineering the Interface (Weeks 11–14)
 
-Students compare the linear industrial API to the circular natural API, learn circular design principles (cradle-to-cradle, designing for disassembly, right-to-repair), and complete a practice redesign exercise as a warm-up for the capstone.
+Students compare the linear industrial API to the circular natural API, learn circular design principles (cradle-to-cradle, designing for disassembly, Right to Repair), and complete a practice redesign exercise as a warm-up for the capstone.
 
 - **Week 11:** The linear API and why it mismatches natural systems
 - **Week 12:** Circular design, biological vs. technical nutrients
-- **Week 13:** Right-to-repair and product longevity as throughput reduction
+- **Week 13:** Right to Repair and product longevity as throughput reduction
 - **Week 14:** Practice redesign — preview of the capstone
 
 ### Unit 5 — The Redesign Project (Weeks 15–18, capstone)
@@ -96,6 +96,23 @@ Two bonus weeks are available for learners or groups who want to go further:
 - **Optional Week 2: Geoengineering** — planetary-scale interventions (stratospheric aerosol injection, ocean iron fertilization, direct air capture) analyzed as pure engineering tradeoffs, with no advocacy.
 
 These are designed to slot in after Week 9 (feedback loops) and after Week 14 (geoengineering) respectively, but can be used standalone.
+
+---
+
+## Facilitator Resources
+
+The course now includes a supporting resource set intended to make planning, assessment, and artifact production easier without changing the lesson sequence.
+
+- [Materials Master List](./materials-master-list.md)
+- [Systems Log Guide](./systems-log-guide.md)
+- [Assessment and Rubrics](./assessment-and-rubrics.md)
+- [Capstone Rubric](./capstone-rubric.md)
+- [Example Student Work](./example-student-work.md)
+- [Printable Templates](./printable-templates.md)
+- [Source Notes](./source-notes.md)
+- [Standards Alignment](./standards-alignment.md)
+
+Use these as facilitator tools, not as extra student workload.
 
 ---
 
@@ -127,7 +144,7 @@ Whatever pace you choose, do not skip the terrarium in Week 3. It runs as a back
 
 ## How to Use This Curriculum Alongside Other Subjects
 
-Environmental Systems Literacy fits naturally next to:
+Environmental Systems Literacy for Kids fits naturally next to:
 
 - **Science:** Chemistry (cycles), physics (thermodynamics), and biology (ecology) all reinforce the content here.
 - **Math:** Carrying capacity calculations, sustainable yield, and the depletion simulation all involve real arithmetic.
