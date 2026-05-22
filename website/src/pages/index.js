@@ -29,7 +29,7 @@ function HomepageHeader() {
             </Link>
             <Link
               className="button button--outline button--lg"
-              to="https://github.com/literacy-for-kids/environmental_system_literacy">
+              to="https://github.com/literacy-for-kids/Environmental_system_literacy_for_kids">
               View on GitHub
             </Link>
           </div>
