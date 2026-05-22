@@ -59,7 +59,7 @@ const roadmapSections = [
   },
 ];
 
-const currentSiteHref = 'https://literacy-for-kids.github.io/environmental_system_literacy/';
+const currentSiteHref = 'https://literacy-for-kids.github.io/Environmental_system_literacy_for_kids/';
 
 function FeatureCard({title, description}) {
   return (
@@ -179,7 +179,7 @@ export default function HomepageFeatures() {
           </div>
           <p className={styles.feedbackPrompt}>
             Found a mistake or have a suggestion?{' '}
-            <Link to="https://github.com/literacy-for-kids/environmental_system_literacy/issues">
+            <Link to="https://github.com/literacy-for-kids/Environmental_system_literacy_for_kids/issues">
               Open an issue on GitHub.
             </Link>
           </p>
