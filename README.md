@@ -4,7 +4,7 @@
 ![Curriculum Length](https://img.shields.io/badge/program-18%20weeks-orange)
 
 🌐 **View the curriculum website:**  
-https://literacy-for-kids.github.io/environmental_system_literacy/
+https://literacy-for-kids.github.io/Environmental_system_literacy_for_kids/
 
 # Environmental Systems Literacy for Kids
 A curriculum for understanding planetary infrastructure, resource throughput, and the physical constraints of civilization.
