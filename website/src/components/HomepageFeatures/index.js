@@ -15,14 +15,14 @@ const features = [
       'Energy from the sun flows through the system and bleeds off as heat, but physical matter must be continuously recycled through the plumbing of the planet.',
   },
   {
-    title: 'The Linear vs. Circular API',
+    title: 'Straight Lines and Loops',
     description:
-      'Natural systems run on a circular API. Human industrial systems run on a linear one. The environmental crisis is an API mismatch between these two operating systems.',
+      'Nature usually reuses its materials in loops. Many human-made systems run in straight lines: take, make, use, throw away. Students learn to spot the difference — and where a return path is missing.',
   },
   {
     title: 'Carrying Capacity',
     description:
-      'Every environment has a structural limit to the load it can support. Students learn to view resource depletion as demand exceeding the regenerative bandwidth.',
+      'Every system has a limit to how much it can support. Students learn to see resource trouble as demand growing faster than the system can keep up.',
   },
   {
     title: 'Feedback Loops',

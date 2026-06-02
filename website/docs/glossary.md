@@ -21,7 +21,7 @@ All the key terms from this curriculum, written in kid-friendly language first. 
 | **Biological nutrient** | A material that can safely go back into living systems, like food scraps, untreated wood, or paper. | Week 12 |
 | **Carbon cycle** | The Earth loop that moves carbon through air, water, soil, rocks, and living things. Plants pull carbon from the air, and respiration or burning sends it back. | Week 5 |
 | **Carrying capacity** | How much a system can support for a long time before it starts to break down. | Week 8 |
-| **Circular API** | An older learner term for a loop system where one process's output becomes another process's input. Nature often works this way. | Week 11 |
+| **Circular (loop) system** | A loop system where one process's leftover becomes another process's input. Nature often works this way. Sometimes called "circular" by older learners. | Week 11 |
 | **Closed loop** | A system where matter comes back around and gets used again instead of being thrown away. | Week 3 |
 | **Conservation of matter** | Matter does not disappear. It only moves or changes form. Nothing really goes away. | Week 7 |
 | **Cradle-to-cradle** | Designing something so its materials become useful again at the end instead of turning into trash. | Week 12 |
@@ -37,7 +37,7 @@ All the key terms from this curriculum, written in kid-friendly language first. 
 | **Hydrological cycle** | Another name for the water cycle. | Week 4 |
 | **Ice-albedo feedback** | An amplifying loop where melting ice exposes darker ground or water, which absorbs more sunlight and causes more melting. | Optional Week 1 |
 | **Industrial symbiosis** | When one factory's leftover becomes another factory's useful input. | Week 12 |
-| **Linear API** | An older learner term for a straight-line system: take, make, use, and throw away. | Week 11 |
+| **Linear (straight-line) system** | A straight-line system: take, make, use, and throw away. Sometimes called "linear" by older learners. | Week 11 |
 | **Maximum sustainable yield (MSY)** | The biggest amount you can take from a renewable resource each cycle without shrinking it over time. | Week 10 |
 | **Microplastic** | A tiny piece of plastic, smaller than 5 millimeters, that can stay in soil, water, and food chains for a long time. | Week 7 |
 | **Modular design** | Designing something from parts that can be swapped or replaced one at a time. | Week 13 |
