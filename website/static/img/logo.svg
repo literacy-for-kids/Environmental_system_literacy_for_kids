@@ -1,4 +1,69 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
-  <rect width="200" height="200" fill="#166534"/>
-  <text x="100" y="120" font-family="Arial, sans-serif" font-size="72" fill="white" text-anchor="middle">🌍</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Environmental Systems Literacy for Kids Logo</title>
+  <desc id="desc">A compact dark green environmental systems literacy icon showing a globe with connected system nodes and a leaf motif.</desc>
+
+  <!-- Background badge -->
+  <rect x="12" y="12" width="176" height="176" rx="42" fill="#F0FDF4"/>
+  <rect x="12" y="12" width="176" height="176" rx="42" stroke="#166534" stroke-width="8"/>
+
+  <!-- Globe -->
+  <circle cx="100" cy="99" r="55" fill="#BBF7D0" stroke="#166534" stroke-width="8"/>
+
+  <!-- Globe latitude / longitude system lines -->
+  <path d="M51 99H149" stroke="#166534" stroke-width="5" stroke-linecap="round" opacity="0.7"/>
+  <path d="M100 44
+           C84 61 76 79 76 99
+           C76 119 84 137 100 154"
+        stroke="#166534" stroke-width="5" stroke-linecap="round" opacity="0.7"/>
+  <path d="M100 44
+           C116 61 124 79 124 99
+           C124 119 116 137 100 154"
+        stroke="#166534" stroke-width="5" stroke-linecap="round" opacity="0.7"/>
+
+  <!-- Simplified continents -->
+  <path d="M73 69
+           C81 62 94 63 99 72
+           C103 79 97 85 87 84
+           C80 83 75 89 78 96
+           C82 105 73 109 65 104
+           C56 98 56 84 63 77
+           C66 74 69 72 73 69Z"
+        fill="#166534"/>
+
+  <path d="M115 64
+           C127 66 139 76 139 89
+           C139 99 131 103 123 98
+           C117 94 110 97 108 105
+           C105 116 96 119 91 110
+           C86 101 94 91 101 87
+           C110 82 105 70 115 64Z"
+        fill="#166534"/>
+
+  <path d="M104 124
+           C111 119 125 122 130 132
+           C135 143 122 151 111 145
+           C102 140 96 131 104 124Z"
+        fill="#166534"/>
+
+  <!-- Systems nodes around globe -->
+  <circle cx="100" cy="44" r="8" fill="#FFFFFF" stroke="#166534" stroke-width="5"/>
+  <circle cx="149" cy="99" r="8" fill="#FFFFFF" stroke="#166534" stroke-width="5"/>
+  <circle cx="100" cy="154" r="8" fill="#FFFFFF" stroke="#166534" stroke-width="5"/>
+  <circle cx="51" cy="99" r="8" fill="#FFFFFF" stroke="#166534" stroke-width="5"/>
+
+  <!-- Leaf overlay -->
+  <path d="M117 138
+           C136 130 153 138 160 154
+           C143 160 126 154 117 138Z"
+        fill="#86EFAC" stroke="#166534" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M120 140
+           C132 144 143 148 156 154"
+        stroke="#166534" stroke-width="4" stroke-linecap="round"/>
+  <path d="M132 145L132 137M144 150L148 143" stroke="#166534" stroke-width="3.5" stroke-linecap="round"/>
+
+  <!-- Small environmental accents -->
+  <circle cx="51" cy="51" r="6" fill="#86EFAC"/>
+  <circle cx="149" cy="51" r="6" fill="#86EFAC"/>
+  <circle cx="43" cy="146" r="6" fill="#86EFAC"/>
 </svg>
