@@ -1,4 +1,5 @@
 import Link from '@docusaurus/Link';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 import Heading from '@theme/Heading';
 import {hub, curricula} from 'literacy-site-theme/ecosystem';
 import styles from './styles.module.css';
@@ -95,6 +96,7 @@ function LiteracyCard({label, href, description, isCurrent}) {
 }
 
 export default function HomepageFeatures() {
+  const roadmapImageUrl = useBaseUrl('/img/roadmap.png');
   return (
     <div className={styles.pageSections}>
       <section className={styles.section}>
@@ -157,6 +159,13 @@ export default function HomepageFeatures() {
             cycles, system limits, and circular economics, culminating in a real-world
             redesign proposal presented to a community audience.
           </p>
+          <div className={styles.roadmapVisual}>
+            <img
+              className={styles.roadmapImage}
+              src={roadmapImageUrl}
+              alt="Visual roadmap showing the Environmental Systems Literacy curriculum sequence"
+            />
+          </div>
           <div className={styles.roadmapGrid}>
             {roadmapSections.map((section) => (
               <RoadmapCard key={section.title} {...section} />
