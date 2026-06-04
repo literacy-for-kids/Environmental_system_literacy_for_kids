@@ -27,7 +27,7 @@ Water keeps moving from place to place in a loop, even when we cannot see every 
 :::info Grown-up Note
 - Lead with the journey story before using formal cycle terms.
 - Use the no-stove demo as the default for younger learners. Warm water in a bowl plus a clear cover is enough.
-- Sessions are designed for about 20-30 minutes. Use the Short Path when you only have 15-20 minutes.
+- Sessions are designed for about 20 minutes. Use the Short Path when you only have 15-20 minutes. Extra Challenge options can stretch closer to 25-30 minutes.
 
 **Common Kid Misconceptions**
 - Misconception: "Clouds are made of smoke or cottony air." Response: "Clouds are tiny water drops or ice crystals."
@@ -39,7 +39,7 @@ Water keeps moving from place to place in a loop, even when we cannot see every 
 
 | | |
 |---|---|
-| Session length | About 20-30 minutes |
+| Session length | About 20 minutes |
 | Prep time | About 10 minutes |
 | Materials | Bowl or cup, warm water, clear plate or plastic wrap, ice if available, paper, pencil, Systems Log |
 | Safety | Adult handles hot water if used; wipe spills quickly |
@@ -114,7 +114,7 @@ Success looks like: the child can describe water moving through several places a
 
 ## Guided Session 2: Be the Water Drop
 
-**Time:** 20-30 minutes
+**Time:** 20-25 minutes
 
 **Materials:** paper, markers, Systems Log
 
@@ -162,6 +162,42 @@ Helpful prompts for this week:
 - What moved: "The water moved from... to ..."
 - Where it went: "Next the drop could go to..."
 - My drawing: a five-stop loop
+
+## Outdoor And Fieldwork Safety
+
+- stay with a trusted adult or group
+- follow school, library, caregiver, or site rules
+- do not drink untreated water
+- do not touch storm drains, fast-moving water, or unknown waste
+- use indoor bowl models, sink observations, maps, or photos when outdoor water study is not safe
+
+When we study the environment, we observe carefully, stay safe, and respect living things.
+
+## Systems Thinking Move
+
+An environmental system is made of connected parts. Water moves through the system, and built paths such as storm drains can connect to natural paths such as streams and rivers.
+
+- What parts are in this system?
+- What moves through the system?
+- What causes what?
+- What might happen later?
+
+```mermaid
+graph LR
+	Rain --> StormDrain
+	StormDrain --> Stream
+	Stream --> River
+	River --> Bay
+```
+
+## Environmental Data Check
+
+This week can stay simple and still build data habits.
+
+- What does this model or map show?
+- Where was the water observed?
+- What path can I see, and what part is hidden?
+- What should I check before I make a bigger claim about local water?
 
 ## Engineer Corner
 

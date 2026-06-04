@@ -27,7 +27,7 @@ The air is full of nitrogen, but plants need bacteria to unlock it before they c
 :::info Grown-up Note
 - Keep the main analogy front and center: locked treasure, locked warehouse, or locked lunchbox.
 - Use root nodules, plant roots, or simple pictures as the concrete anchor.
-- Sessions are designed for about 20-30 minutes. Use the Short Path when you only have 15-20 minutes.
+- Sessions are designed for about 20 minutes. Use the Short Path when you only have 15-20 minutes. Extra Challenge options can stretch closer to 25-30 minutes.
 
 **Common Kid Misconceptions**
 - Misconception: "Plants breathe nitrogen straight from the air the way we breathe oxygen." Response: "Most plants cannot use nitrogen gas directly. They need it unlocked first."
@@ -39,7 +39,7 @@ The air is full of nitrogen, but plants need bacteria to unlock it before they c
 
 | | |
 |---|---|
-| Session length | About 20-30 minutes |
+| Session length | About 20 minutes |
 | Prep time | About 10 minutes |
 | Materials | Paper, pencil, beans or tokens, plant root photo if available, jar of water pictures or drawings, Systems Log |
 | Safety | Wash hands after handling soil or plant roots |
@@ -113,7 +113,7 @@ Success looks like: the child can explain that bacteria help unlock nitrogen for
 
 ## Guided Session 2: When Too Much Plant Food Reaches Water
 
-**Time:** 20-30 minutes
+**Time:** 20-25 minutes
 
 **Materials:** paper, markers, simple pond drawing
 
@@ -165,6 +165,34 @@ Helpful prompts for this week:
 - What moved: "Nitrogen moved from... to ..."
 - Where it went: "Too much plant food went into..."
 - My drawing: locked treasure or the before-and-after pond
+
+## Systems Thinking Move
+
+This lesson works best when learners see the whole chain, not just one step.
+
+- What parts are in this system?
+- What moves through the system?
+- What happens first?
+- What happens later?
+
+```mermaid
+graph LR
+	Fertilizer --> Runoff
+	Runoff --> Algae
+	Algae --> Decomposers
+	Decomposers --> LowOxygen
+	LowOxygen --> FishStress
+```
+
+## Who Is Affected?
+
+Environmental problems and benefits are not always shared equally. Some communities have easier access to clean water, shade, and protected streams. Some places face more runoff, flooding, heat, or water-quality stress.
+
+- Who is affected if water quality gets worse?
+- Who uses this water or lives nearby?
+- What would make the solution fairer, safer, or easier to use?
+
+Use fictional ponds, school grounds, parks, farms, gardens, or neighborhood examples when possible so learners do not need to share private family details.
 
 ## Engineer Corner
 

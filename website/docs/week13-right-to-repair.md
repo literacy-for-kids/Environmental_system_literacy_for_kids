@@ -27,7 +27,8 @@ An object is easier to keep in use when it is designed to be opened, fixed, and 
 :::info Grown-up Note
 - Use safe, non-powered objects when possible.
 - Keep policy details out of the main path; this week is about design clues, not legal debate.
-- Sessions are designed for about 20-30 minutes. Use the Short Path when you only have 15-20 minutes.
+- Sessions are designed for about 20 minutes. Use the Short Path when you only have 15-20 minutes. Extra Challenge options can stretch closer to 25-30 minutes.
+- Policy details, current laws, and company claims work best as guided or extension-level material for ages 11-13.
 
 **Common Kid Misconceptions**
 - Misconception: "New is always better." Response: "Sometimes repair is the better systems choice because it uses less new material."
@@ -39,7 +40,7 @@ An object is easier to keep in use when it is designed to be opened, fixed, and 
 
 | | |
 |---|---|
-| Session length | About 20-30 minutes |
+| Session length | About 20 minutes |
 | Prep time | About 10 minutes |
 | Materials | Two safe objects to compare, paper, pencil, screwdriver only if needed for a safe non-powered object, Systems Log |
 | Safety | Do not open mains-powered devices, lithium battery products, swollen batteries, or unknown electronics |
@@ -110,7 +111,7 @@ Success looks like: the child can name at least two clues that make repair easie
 
 ## Guided Session 2: Design a Better Fix-It Object
 
-**Time:** 20-30 minutes
+**Time:** 20-25 minutes
 
 **Materials:** paper, markers, Systems Log
 
@@ -134,7 +135,7 @@ Success looks like: the child can name at least two clues that make repair easie
 **Talk About It:**
 
 - Why might a company choose a sealed design?
-- Why might a family want the fixable version instead?
+- Why might a family, school, library, or repair group want the fixable version instead?
 - How does repair change the system path after something breaks?
 
 **What success looks like:** The child can describe one realistic improvement that makes repair easier.
@@ -158,6 +159,38 @@ Helpful prompts for this week:
 - What moved: "The broken part could be replaced by..."
 - Where it went: "If it cannot be repaired, it may go to..."
 - My drawing: a repair-friendly redesign
+
+## Systems Thinking Move
+
+An environmental system is made of connected parts. When one part changes, other parts may change too. Some changes are quick. Some changes take time. Some effects are easy to see, and some are hidden.
+
+Learner questions:
+
+- What parts are in this system?
+- What moves through the system?
+- What happens next when one part breaks?
+- What part of the system could we change safely?
+- What feedback loop might make waste grow or shrink?
+
+## Environmental Checkpoint
+
+Repair claims, product labels, and ads can all be checked carefully.
+
+- Who made this claim?
+- What evidence shows the item is truly repair-friendly?
+- Could a photo, label, review, or screenshot leave out important information?
+- What should I check before I trust a repair or green claim?
+
+Some environmental messages may include AI-generated or AI-edited images, summaries, or product claims. That does not automatically make them false, but it does mean we should check carefully.
+
+## Who Is Affected?
+
+Some people have easier access to tools, repair help, spare parts, transportation, or replacement options. Some do not.
+
+- Who benefits when repair is easy?
+- Who is affected when replacement is the only easy option?
+- Does everyone have the same choices, costs, or access?
+- What would make the system fairer, safer, or easier to use?
 
 ## Engineer Corner
 

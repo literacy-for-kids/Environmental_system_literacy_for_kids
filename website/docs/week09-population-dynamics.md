@@ -27,7 +27,7 @@ Numbers in a system often go up and down because the parts affect each other.
 :::info Grown-up Note
 - Start with rabbits and wolves, birds at a feeder, or cafeteria lines, not formal graph names.
 - Use stickers, tokens, or dots before using neat pencil curves.
-- Sessions are designed for about 20-30 minutes. Use the Short Path when you only have 15-20 minutes.
+- Sessions are designed for about 20 minutes. Use the Short Path when you only have 15-20 minutes. Extra Challenge options can stretch closer to 25-30 minutes.
 
 **Common Kid Misconceptions**
 - Misconception: "If a number is rising, that means everything is going well." Response: "A rise can be healthy or it can be a warning, depending on the rest of the system."
@@ -39,7 +39,7 @@ Numbers in a system often go up and down because the parts affect each other.
 
 | | |
 |---|---|
-| Session length | About 20-30 minutes |
+| Session length | About 20 minutes |
 | Prep time | About 10 minutes |
 | Materials | Stickers or counters, graph paper or plain paper, pencil, Systems Log |
 | Safety | No special safety needs for the main path |
@@ -108,7 +108,7 @@ Success looks like: the child can match a curve shape to a story about what the 
 
 ## Guided Session 2: Rabbits and Wolves
 
-**Time:** 20-30 minutes
+**Time:** 20-25 minutes
 
 **Materials:** paper, markers, Systems Log
 
@@ -157,6 +157,26 @@ Helpful prompts for this week:
 - What moved: "The rabbit or wolf number moved..."
 - Where it went: "The pattern later went..."
 - My drawing: three curve shapes or rabbit and wolf waves
+
+## Systems Thinking Move
+
+An environmental system is made of connected parts. When one part changes, other parts may change too. Some changes are quick. Some changes take time. Some effects are easy to see, and some are hidden.
+
+Learner questions:
+
+- What parts are in this system?
+- What changes over time?
+- What causes what?
+- What happens next?
+- What feedback loop might make the change stronger or weaker?
+
+## Environmental Data Check
+
+- What do these lines or counters measure?
+- When does one line change first?
+- What labels or axes help me read the pattern?
+- What might this graph not show about a real ecosystem?
+- Is another source showing a similar pattern?
 
 ## Engineer Corner
 

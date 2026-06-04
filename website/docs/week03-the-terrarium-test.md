@@ -27,7 +27,7 @@ In a terrarium, most of the stuff stays inside, but sunlight can still come in a
 :::info Grown-up Note
 - Lead with wonder, not architecture vocabulary. "Tiny world" should come before "closed system."
 - Keep the main sentence simple: stuff stays in, sunlight comes in.
-- Sessions are designed for about 20-30 minutes. Use the Short Path when you only have 15-20 minutes.
+- Sessions are designed for about 20 minutes. Use the Short Path when you only have 15-20 minutes. Extra Challenge options can stretch closer to 25-30 minutes.
 
 **Common Kid Misconceptions**
 - Misconception: "A sealed jar means nothing moves." Response: "Things can still move inside. Water, air, and plant growth keep changing places."
@@ -39,7 +39,7 @@ In a terrarium, most of the stuff stays inside, but sunlight can still come in a
 
 | | |
 |---|---|
-| Session length | About 20-30 minutes |
+| Session length | About 20 minutes |
 | Prep time | About 15 minutes |
 | Materials | Clear jar with lid, small rocks, charcoal if available, soil, small plants or moss, spray bottle, spoon, paper, Systems Log |
 | Safety | Use clean materials; wash hands after handling soil; do not seal wild animals in the jar |
@@ -91,7 +91,7 @@ Success looks like: the child can explain that the terrarium keeps reusing water
 
 ## Guided Session 1: Build the Jar
 
-**Time:** 25-30 minutes
+**Time:** 20-25 minutes
 
 **Materials:** jar, rocks, charcoal if available, soil, plants or moss, spoon, spray bottle
 
@@ -183,6 +183,25 @@ Helpful prompts for this week:
 - What moved: "The water moved from... to ..."
 - Where it came from: "The light came from..."
 - My drawing: jar layers and water drops
+
+## Outdoor And Fieldwork Safety
+
+- stay with a trusted adult or group
+- wash hands after touching soil, plants, or shared tools
+- use only known, safe plants and clean materials
+- do not collect living things without permission
+- use photos, drawings, or teacher-provided materials if outdoor collecting is not safe
+
+When we study the environment, we observe carefully, stay safe, and respect living things.
+
+## Systems Thinking Move
+
+This tiny world is still a system with connected parts. Water, air, soil, plants, and sunlight all matter.
+
+- What parts are in this system?
+- What moves through the system?
+- What changes over time?
+- What might happen later if one part changes?
 
 ## Engineer Corner
 

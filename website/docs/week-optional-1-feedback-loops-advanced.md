@@ -27,7 +27,7 @@ Some loops help systems settle down, and some loops make changes grow faster.
 :::info Grown-up Note
 - This week is optional. It is best for ages 10-12, highly interested younger learners, or adult-led groups.
 - Keep the emotional tone steady. Focus on patterns, not fear.
-- Sessions are designed for about 20-30 minutes. Use the Short Path when you only have 15-20 minutes.
+- Sessions are designed for about 20 minutes. Use the Short Path when you only have 15-20 minutes. Extra Challenge options can stretch closer to 25-30 minutes.
 
 **What Kids Should Not Walk Away Thinking**
 - Not "everything is hopeless."
@@ -40,7 +40,7 @@ Some loops help systems settle down, and some loops make changes grow faster.
 
 | | |
 |---|---|
-| Session length | About 20-30 minutes |
+| Session length | About 20 minutes |
 | Prep time | About 10 minutes |
 | Materials | Paper, markers, Systems Log |
 | Safety | If climate examples feel heavy, return to everyday loop examples |
@@ -83,7 +83,7 @@ Some loops help systems settle down, and some loops make changes grow faster.
 
 ## Guided Session 2: Tipping Behavior
 
-**Time:** 20-30 minutes
+**Time:** 20-25 minutes
 
 **Materials:** paper, Systems Log
 
@@ -109,6 +109,23 @@ Where it went:
 My drawing:
 One question I still have:
 ```
+
+## Systems Thinking Move
+
+This optional extension is still about connected parts, not doom stories.
+
+- What parts are in this system?
+- What changes over time?
+- What happens next?
+- What feedback loop might make the change stronger or weaker?
+- What should we check before making a dramatic claim?
+
+## Environmental Data Check
+
+- What do these lines, arrows, or examples measure?
+- What pattern do I notice before and after the threshold?
+- What might this model not show about a real climate or ecosystem system?
+- Is another trusted source showing a similar pattern?
 
 ## Engineer Corner
 

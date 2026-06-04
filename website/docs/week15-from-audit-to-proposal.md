@@ -27,7 +27,8 @@ An idea becomes stronger when you turn it into a clear plan with real steps.
 :::info Grown-up Note
 - Let counts and observations count as real evidence. "10 bottles per week" is a strong start.
 - Keep the tone clear and honest, not formal for its own sake.
-- Sessions are designed for about 20-30 minutes. Use the Short Path when you only have 15-20 minutes.
+- Sessions are designed for about 20 minutes. Use the Short Path when you only have 15-20 minutes. Extra Challenge options can stretch closer to 25-30 minutes.
+- School, library, classroom, community, apartment, and fictional examples are all valid project settings. Learners do not need to share private family details to make a strong plan.
 
 **Common Kid Misconceptions**
 - Misconception: "A plan has to sound fancy to be real." Response: "A plan is stronger when it is clear."
@@ -39,7 +40,7 @@ An idea becomes stronger when you turn it into a clear plan with real steps.
 
 | | |
 |---|---|
-| Session length | About 20-30 minutes |
+| Session length | About 20 minutes |
 | Prep time | About 10 minutes |
 | Materials | Previous redesign sketch, paper, pencil, markers, Systems Log |
 | Safety | Keep projects realistic and adult-approved for the setting |
@@ -114,7 +115,7 @@ Success looks like: the child can explain the plan clearly enough that another p
 
 ## Guided Session 2: Build the Plan Card
 
-**Time:** 20-30 minutes
+**Time:** 20-25 minutes
 
 **Materials:** paper, markers, Systems Log
 
@@ -170,6 +171,60 @@ Helpful prompts for this week:
 - What moved: "The material now goes from... to ..."
 - Where it went: "In my better plan it would go to..."
 - My drawing: plan card and better loop
+
+## Systems Thinking Move
+
+An environmental system is made of connected parts. When one part changes, other parts may change too. Some changes are quick. Some changes take time. Some effects are easy to see, and some are hidden.
+
+Learner questions:
+
+- What parts are in this system?
+- What moves through the system?
+- What changes over time?
+- What causes what?
+- What happens next?
+- What part of the system could we change safely?
+
+## Environmental Checkpoint
+
+Before turning an idea into a plan, learners can ask:
+
+- What system is involved?
+- What claim am I making about this problem or solution?
+- What evidence, observations, data, or examples support my idea?
+- What might be missing or left out?
+- Who or what is affected?
+- What should I check before I share or act on this plan?
+
+## Environmental Data Check
+
+- What does this count, estimate, or observation measure?
+- When was it collected?
+- Where was it collected?
+- What trend or pattern do I notice?
+- What might this data not show yet?
+- What should I ask before I use it as evidence?
+
+## Ways to Help
+
+There are many ways to care for an environmental system. Learners can observe, ask questions, share information, reduce waste, save energy, improve a routine, design a tool or reminder, or suggest a small change.
+
+- Learn and observe
+- Share information
+- Improve a routine
+- Reduce waste
+- Save water or energy
+- Design a tool, sign, map, or reminder
+- Ask a trusted adult or community helper
+- Suggest a fair solution
+
+Sentence frames:
+
+- "I notice ___, and I wonder ___."
+- "This matters because ___."
+- "One realistic action is ___."
+- "One tradeoff is ___."
+- "A person or group who could help is ___."
 
 ## Engineer Corner
 

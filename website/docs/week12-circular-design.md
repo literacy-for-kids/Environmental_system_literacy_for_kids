@@ -27,7 +27,7 @@ Waste is a clue that something may be missing a return path.
 :::info Grown-up Note
 - Keep the redesign tone practical, not moral.
 - Sorting is the main teaching tool this week.
-- Sessions are designed for about 20-30 minutes. Use the Short Path when you only have 15-20 minutes.
+- Sessions are designed for about 20 minutes. Use the Short Path when you only have 15-20 minutes. Extra Challenge options can stretch closer to 25-30 minutes.
 
 **Common Kid Misconceptions**
 - Misconception: "If it goes in a recycling bin, the problem is solved." Response: "A bin is only one step. The whole return path still has to work."
@@ -39,9 +39,9 @@ Waste is a clue that something may be missing a return path.
 
 | | |
 |---|---|
-| Session length | About 20-30 minutes |
+| Session length | About 20 minutes |
 | Prep time | About 10 minutes |
-| Materials | 8-12 clean household objects, paper or signs for three bins, markers, Systems Log |
+| Materials | 8-12 clean sample objects or picture cards, paper or signs for three bins, markers, Systems Log |
 | Safety | Use clean objects only; avoid sharp metal, broken glass, or chemical containers |
 | Core vocabulary | sort, soil loop, factory loop, hard-to-loop, redesign |
 | Older learner words | biological nutrient, technical nutrient, cradle-to-cradle, industrial symbiosis |
@@ -116,7 +116,7 @@ Success looks like: the child can explain why different materials need different
 
 ## Guided Session 2: Redesign One Hard-to-Loop Item
 
-**Time:** 20-30 minutes
+**Time:** 20-25 minutes
 
 **Materials:** paper, markers, Systems Log
 
@@ -164,6 +164,42 @@ Helpful prompts for this week:
 - What moved: "The item could return through..."
 - Where it went: "The better path would send it to..."
 - My drawing: three bins and one redesign
+
+## Systems Thinking Move
+
+An environmental system is made of connected parts. When one part changes, other parts may change too. Some changes are quick. Some changes take time. Some effects are easy to see, and some are hidden.
+
+Learner questions:
+
+- What parts are in this system?
+- What moves through the system?
+- What happens next?
+- What might happen later?
+- What part of the system could we change safely?
+
+Simple examples:
+
+- food scraps -> compost -> soil -> plants
+- litter -> storm drain -> waterway -> habitat
+
+## Environmental Checkpoint
+
+When a package, product label, or recycling message makes a claim, learners can ask:
+
+- What system is involved?
+- What claim is being made?
+- What evidence, observations, or examples are shown?
+- What might be missing or left out?
+- What should I check before I trust or repeat this claim?
+
+## Who Is Affected?
+
+Some communities have composting, refill options, or recycling access. Some do not. Some apartments, schools, libraries, or shared buildings have strong return paths, and some do not.
+
+- Who is affected when a return path is hard to use?
+- Who benefits when the system is simpler and cleaner?
+- Does everyone have the same choices or services?
+- What would make the solution fairer, safer, or easier to use?
 
 ## Engineer Corner
 

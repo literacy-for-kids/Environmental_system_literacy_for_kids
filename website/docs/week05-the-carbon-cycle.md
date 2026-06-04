@@ -27,7 +27,7 @@ Carbon is a building block that keeps moving through living things, the air, and
 :::info Grown-up Note
 - Start with familiar carbon, not climate graphs.
 - Keep the climate connection gentle and precise: the issue is not carbon itself, but how much old stored carbon is moved into the air and how fast.
-- Sessions are designed for about 20-30 minutes. Use the Short Path when you only have 15-20 minutes.
+- Sessions are designed for about 20 minutes. Use the Short Path when you only have 15-20 minutes. Extra Challenge options can stretch closer to 25-30 minutes.
 
 **Common Kid Misconceptions**
 - Misconception: "Carbon dioxide is bad and should not exist." Response: "Plants need carbon dioxide. The issue is amount and speed, not the existence of carbon."
@@ -39,7 +39,7 @@ Carbon is a building block that keeps moving through living things, the air, and
 
 | | |
 |---|---|
-| Session length | About 20-30 minutes |
+| Session length | About 20 minutes |
 | Prep time | About 10 minutes |
 | Materials | Paper, markers, index cards or sticky notes, pencil, Systems Log |
 | Safety | No special safety needs for the main path |
@@ -109,7 +109,7 @@ Success looks like: the child can explain that carbon keeps changing places inst
 
 ## Guided Session 2: Fast Loop and Slow Storage
 
-**Time:** 20-30 minutes
+**Time:** 20-25 minutes
 
 **Materials:** paper, markers, Systems Log
 
@@ -157,6 +157,26 @@ Helpful prompts for this week:
 - What moved: "The carbon moved from... to ..."
 - Where it came from: "The plant got carbon from..."
 - My drawing: fast loop and slow storage
+
+## Systems Thinking Move
+
+Carbon moves through living systems, storage places, and return paths. Timing matters as much as direction.
+
+- What parts are in this system?
+- What moves through the system?
+- Which path is fast, and which is slow?
+- What happens if old stored carbon moves into the air faster than return paths can keep up?
+
+## Environmental Data Check
+
+If you use a chart, climate graph, or source note this week, keep it guided and age-appropriate.
+
+- What does this data measure?
+- When was it collected?
+- What pattern do I notice?
+- What might this chart not show by itself?
+
+Climate graphs, ppm values, and longer-timescale comparisons work best as guided support for ages 10-12 and optional extension for ages 11-13.
 
 ## Engineer Corner
 

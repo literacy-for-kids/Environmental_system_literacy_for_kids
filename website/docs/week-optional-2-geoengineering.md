@@ -27,7 +27,7 @@ A very big tool can help with one problem while also creating new risks and trad
 :::info Grown-up Note
 - This week is optional. It is best for ages 10-12, highly interested younger learners, or adult-led groups.
 - Keep the framing neutral and analytical. Do not turn the lesson into advocacy.
-- Sessions are designed for about 20-30 minutes. Use the Short Path when you only have 15-20 minutes.
+- Sessions are designed for about 20 minutes. Use the Short Path when you only have 15-20 minutes. Extra Challenge options can stretch closer to 25-30 minutes.
 
 **What Kids Should Not Walk Away Thinking**
 - Not "everything is hopeless."
@@ -40,7 +40,7 @@ A very big tool can help with one problem while also creating new risks and trad
 
 | | |
 |---|---|
-| Session length | About 20-30 minutes |
+| Session length | About 20 minutes |
 | Prep time | About 10-15 minutes |
 | Materials | Paper, markers, Systems Log |
 | Safety | Keep the topic at the level of ideas and tradeoffs; do not treat any intervention as a how-to |
@@ -90,7 +90,7 @@ A very big tool can help with one problem while also creating new risks and trad
 
 ## Guided Session 2: Patch or Redesign?
 
-**Time:** 20-30 minutes
+**Time:** 20-25 minutes
 
 **Materials:** paper, Systems Log
 
@@ -116,6 +116,35 @@ Where it went:
 My drawing:
 One question I still have:
 ```
+
+## Systems Thinking Move
+
+An environmental system is made of connected parts. When one part changes, other parts may change too. Planet-sized tools can affect more than one part at the same time.
+
+- What parts are in this system?
+- What is the tool trying to change?
+- What else might change too?
+- What tradeoff or unintended consequence might appear?
+- What should we check before making a strong claim?
+
+## Environmental Checkpoint
+
+This optional week is a good place to practice careful source checking.
+
+- What claim is being made about this tool?
+- What evidence, examples, or data are shown?
+- What might be missing or left out?
+- Could an image, chart, video, or summary be edited or AI-generated?
+- What should be checked with a trusted adult before sharing or acting on this?
+
+## Who Is Affected?
+
+Environmental problems and benefits are not always shared equally. Some communities experience more heat, flooding, pollution, or risk than others. Some may benefit from one change while others carry more of the uncertainty.
+
+- Who is affected by the current system?
+- Who might benefit if the tool works as planned?
+- Who might carry more risk if it does not?
+- What would make the conversation fairer, safer, or more complete?
 
 ## Engineer Corner
 

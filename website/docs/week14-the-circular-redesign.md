@@ -27,7 +27,7 @@ Pick one small straight-line system and sketch a better loop for it.
 :::info Grown-up Note
 - The main teaching move is scale control. Help the child choose a project small enough to understand and improve.
 - Use counts, observations, and visible piles before formal estimates.
-- Sessions are designed for about 20-30 minutes. Use the Short Path when you only have 15-20 minutes.
+- Sessions are designed for about 20 minutes. Use the Short Path when you only have 15-20 minutes. Extra Challenge options can stretch closer to 25-30 minutes.
 
 **Common Kid Misconceptions**
 - Misconception: "I should fix the biggest global problem I can name." Response: "Small, real, traceable systems make better first engineering projects."
@@ -39,10 +39,10 @@ Pick one small straight-line system and sketch a better loop for it.
 
 | | |
 |---|---|
-| Session length | About 20-30 minutes |
+| Session length | About 20 minutes |
 | Prep time | About 10 minutes |
 | Materials | Paper, pencil, markers, Systems Log |
-| Safety | Keep projects observational and age-appropriate; do not make unsafe household changes without an adult |
+| Safety | Keep projects observational and age-appropriate; do not make unsafe changes in any setting without adult approval |
 | Core vocabulary | loop, pile, redesign, tradeoff, small |
 | Older learner words | diagnosis, environmental load, minimum viable loop |
 
@@ -120,14 +120,14 @@ Use this template:
 **Talk About It:**
 
 - Why is this topic just the right size?
-- What part of the path can your family, class, or group actually affect?
+- What part of the path can your class, group, household, library, or community setting actually affect?
 - What information do you still need?
 
 **What success looks like:** The child can point to the specific step that needs redesign.
 
 ## Guided Session 2: Sketch the Better Loop
 
-**Time:** 20-30 minutes
+**Time:** 20-25 minutes
 
 **Materials:** paper, markers, Systems Log
 
@@ -179,6 +179,50 @@ Helpful prompts for this week:
 - What moved: "The material moved from... to ..."
 - Where it went: "In the better loop it would go to..."
 - My drawing: now path and better loop
+
+## Systems Thinking Move
+
+An environmental system is made of connected parts. When one part changes, other parts may change too. Some changes are quick. Some changes take time. Some effects are easy to see, and some are hidden.
+
+Learner questions:
+
+- What parts are in this system?
+- What moves through the system?
+- What causes what?
+- What happens next?
+- What might happen later?
+- What part of the system could we change safely?
+
+## Environmental Checkpoint
+
+Before choosing a project, learners can ask:
+
+- What system is involved?
+- What parts can I name?
+- What evidence, observations, or counts do I already have?
+- Who or what is affected?
+- What tradeoff or unintended consequence might appear?
+- What should I check before I act on this idea?
+
+## Ways to Help
+
+There are many ways to care for an environmental system. Learners can observe, ask questions, share information, reduce waste, save energy, improve a routine, design a sign or reminder, or suggest a small change.
+
+- Learn and observe
+- Share information
+- Improve a routine
+- Reduce waste
+- Save water or energy
+- Design a tool, sign, map, or reminder
+- Ask a trusted adult or community helper
+- Suggest a fair solution
+
+Sentence frames:
+
+- "I notice ___, and I wonder ___."
+- "This matters because ___."
+- "One realistic action is ___."
+- "One tradeoff is ___."
 
 ## Engineer Corner
 

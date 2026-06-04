@@ -27,7 +27,7 @@ Nature often works in loops, but many human-made systems work in straight lines.
 :::info Grown-up Note
 - Lead with the shapes, not the word API.
 - Keep the tone neutral. Straight-line systems are not foolish; they are often simpler and cheaper at first.
-- Sessions are designed for about 20-30 minutes. Use the Short Path when you only have 15-20 minutes.
+- Sessions are designed for about 20 minutes. Use the Short Path when you only have 15-20 minutes. Extra Challenge options can stretch closer to 25-30 minutes.
 
 **Common Kid Misconceptions**
 - Misconception: "Straight-line systems are stupid." Response: "They are often easier to build. The missing part is the return path."
@@ -39,10 +39,10 @@ Nature often works in loops, but many human-made systems work in straight lines.
 
 | | |
 |---|---|
-| Session length | About 20-30 minutes |
+| Session length | About 20 minutes |
 | Prep time | About 10 minutes |
 | Materials | Paper, markers, a leaf or plant picture, a bottle or package, Systems Log |
-| Safety | Use clean household objects only |
+| Safety | Use clean sample objects only |
 | Core vocabulary | loop, line, return path, pileup, fit |
 | Older learner words | linear, circular, API, externality |
 
@@ -114,7 +114,7 @@ Success looks like: the child can explain the difference between a loop system a
 
 ## Guided Session 2: Find Shapes Around You
 
-**Time:** 20-30 minutes
+**Time:** 20-25 minutes
 
 **Materials:** paper, pencil, Systems Log
 
@@ -122,7 +122,7 @@ Success looks like: the child can explain the difference between a loop system a
 
 **Activity steps:**
 
-1. Walk through home, school, or yard examples.
+1. Walk through home, school, library, or community examples.
 2. Sort each example into loop or line.
 3. Mark any hybrid examples that have both shapes.
 4. Pick one straight-line system and sketch a missing return path.
@@ -170,6 +170,28 @@ Helpful prompts for this week:
 - What moved: "The material moved from... to ..."
 - Where it went: "The output ended up..."
 - My drawing: leaf loop and bottle line
+
+## Systems Thinking Move
+
+An environmental system is made of connected parts. When one part changes, other parts may change too. Some changes are quick. Some changes take time. Some effects are easy to see, and some are hidden.
+
+Learner questions:
+
+- What parts are in this system?
+- What moves through the system?
+- What changes over time?
+- What causes what?
+- What happens next?
+- What part of the system could we change safely?
+
+## Who Is Affected?
+
+Environmental problems and benefits are not always shared equally. Some people or places have easier access to refill systems, return paths, safe disposal, or repair options. Some do not.
+
+- Who is affected when a system sends used materials somewhere else?
+- Who benefits from a strong return path?
+- Who might be missing from the conversation?
+- What would make the system fairer, safer, or easier to use?
 
 ## Engineer Corner
 

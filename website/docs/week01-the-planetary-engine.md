@@ -27,7 +27,7 @@ The sun is the main power source for almost everything happening on Earth's surf
 :::info Grown-up Note
 - Main goal: help the learner notice sunlight as an input, meaning something that comes into a system from outside.
 - Keep the mood curious, not grand. The child does not need a full lecture on photosynthesis or climate to succeed this week.
-- Sessions are designed for about 20-30 minutes. Use the Short Path when you only have 15-20 minutes.
+- Sessions are designed for about 20 minutes. Use the Short Path when you only have 15-20 minutes. Extra Challenge options can stretch closer to 25-30 minutes.
 
 **Common Kid Misconceptions**
 - Misconception: "The sun only gives light, not power." Response: "Light is one form of energy. When sunlight warms a cup or helps a plant grow, that is power in action."
@@ -39,7 +39,7 @@ The sun is the main power source for almost everything happening on Earth's surf
 
 | | |
 |---|---|
-| Session length | About 20-30 minutes |
+| Session length | About 20 minutes |
 | Prep time | About 10 minutes |
 | Materials | Two cups, water, sunny spot, dark paper or dark cup, light cup, pencil, paper, Systems Log |
 | Safety | Do not use water near plugs or hot car interiors; avoid staring at the sun |
@@ -115,7 +115,7 @@ Success looks like: the child can explain that sunlight powers many things even 
 
 ## Guided Session 2: Follow the Arrows
 
-**Time:** 20-30 minutes
+**Time:** 20-25 minutes
 
 **Materials:** paper, pencil or markers, Systems Log
 
@@ -144,6 +144,16 @@ Try examples like:
 
 **What success looks like:** The child can use arrows to trace at least one everyday thing back to sunlight.
 
+## Outdoor And Fieldwork Safety
+
+- stay with a trusted adult or group
+- use a sunny window, schoolyard, porch, library window, or photo if outdoor access is limited
+- do not stare at the sun
+- keep water away from plugs and electronics
+- observe without climbing, running into traffic, or handling unknown materials
+
+When we study the environment, we observe carefully, stay safe, and respect living things.
+
 ## Systems Log
 
 Use this simple entry:
@@ -163,6 +173,26 @@ Helpful prompts for this week:
 - What moved: "Heat moved into..."
 - Where it came from: "The energy came from..."
 - My drawing: arrows from the sun to three things
+
+## Systems Thinking Move
+
+An environmental system is made of connected parts. When one part changes, other parts may change too. Some changes are quick. Some changes take time.
+
+- What parts are in this system?
+- What moves through the system?
+- What causes what?
+- What happens next?
+
+Example chain:
+
+```mermaid
+graph LR
+	Sun --> Plant
+	Plant --> Apple
+	Apple --> Person
+```
+
+Learners can draw systems as arrows, loops, maps, flowcharts, or storyboards. The goal is not a perfect diagram. The goal is to show connections.
 
 ## Engineer Corner
 

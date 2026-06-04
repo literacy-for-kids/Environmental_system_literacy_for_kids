@@ -27,7 +27,7 @@ Throwing something away only moves it somewhere else.
 :::info Grown-up Note
 - Keep the tone curious and calm. The goal is tracing, not guilt.
 - Choose clean, safe objects only. Do not inspect dirty trash.
-- Sessions are designed for about 20-30 minutes. Use the Short Path when you only have 15-20 minutes.
+- Sessions are designed for about 20 minutes. Use the Short Path when you only have 15-20 minutes. Extra Challenge options can stretch closer to 25-30 minutes.
 
 **Common Kid Misconceptions**
 - Misconception: "Away is a real place." Response: "Away usually means another place in the system."
@@ -39,12 +39,22 @@ Throwing something away only moves it somewhere else.
 
 | | |
 |---|---|
-| Session length | About 20-30 minutes |
+| Session length | About 20 minutes |
 | Prep time | About 10 minutes |
-| Materials | One clean household object, paper, markers, Systems Log |
+| Materials | One clean object from home, school, library, classroom, or a shared sample set; paper; markers; Systems Log |
 | Safety | Use clean items only; do not sort dirty trash or sharp metal |
 | Core vocabulary | path, trash, recycle, compost, return path |
 | Older learner words | lifecycle, linear system, PET, downcycling |
+
+## Outdoor and Fieldwork Safety
+
+- stay with a trusted adult or group
+- use clean sample items only; do not handle dirty trash, broken glass, needles, chemicals, or sharp metal
+- wash hands after touching packaging or shared sorting tools
+- use photos, drawings, or teacher-provided sample sets when litter or waste handling would be unsafe
+- offer indoor alternatives for learners who cannot safely go outside
+
+When we study the environment, we observe carefully, stay safe, and respect living things.
 
 ## Core Vocabulary
 
@@ -114,7 +124,7 @@ Simple example:
 
 ## Guided Session 2: Sort the Next Place
 
-**Time:** 20-30 minutes
+**Time:** 20-25 minutes
 
 **Materials:** 3-5 clean objects, paper labeled trash, recycling, compost, reuse
 
@@ -162,6 +172,44 @@ Helpful prompts for this week:
 - What moved: "The object moved from... to ..."
 - Where it went: "After use it could go to..."
 - My drawing: a road map with stops
+
+## Systems Thinking Move
+
+An environmental system is made of connected parts. When one part changes, other parts may change too. Some changes are quick. Some changes take time. Some effects are easy to see, and some are hidden.
+
+Learner questions:
+
+- What parts are in this system?
+- What moves through the system?
+- What causes what?
+- What happens next?
+- What might happen later?
+
+Helpful model:
+
+```mermaid
+graph LR
+	Litter --> StormDrain
+	StormDrain --> Waterway
+	Waterway --> Habitat
+```
+
+## Environmental Data Check
+
+- What does this object map or sorting result show?
+- Where did this information come from?
+- What path can I see clearly, and what part is still hidden?
+- What might this example not show about another place?
+- What should I check before making a bigger claim about recycling, compost, or trash?
+
+## Who Is Affected?
+
+Environmental problems and benefits are not always shared equally. Some communities have easier access to recycling, composting, safe collection systems, or clean public spaces. Some do not. Learning about this should help us ask fair questions and look for realistic choices without blaming children or families.
+
+- Who is affected when litter or waste leaks into shared places?
+- Who benefits when a return path is easy to use?
+- Does everyone have the same choices or services?
+- What would make the system fairer, safer, or easier to use?
 
 ## Engineer Corner
 

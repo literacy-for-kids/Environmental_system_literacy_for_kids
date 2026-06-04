@@ -27,7 +27,7 @@ Strong plans get better when you test what could go wrong before you try them.
 :::info Grown-up Note
 - Keep emotional safety explicit: critique the plan, not the person.
 - Younger learners only need 2-3 possible problems, not a long list.
-- Sessions are designed for about 20-30 minutes. Use the Short Path when you only have 15-20 minutes.
+- Sessions are designed for about 20 minutes. Use the Short Path when you only have 15-20 minutes. Extra Challenge options can stretch closer to 25-30 minutes.
 
 **Common Kid Misconceptions**
 - Misconception: "If someone finds a problem, the plan is bad." Response: "Finding problems is how plans improve."
@@ -39,7 +39,7 @@ Strong plans get better when you test what could go wrong before you try them.
 
 | | |
 |---|---|
-| Session length | About 20-30 minutes |
+| Session length | About 20 minutes |
 | Prep time | About 10 minutes |
 | Materials | Week 16 plan card, paper, pencil, Systems Log |
 | Safety | Keep critique respectful and specific |
@@ -117,7 +117,7 @@ Use this simple table:
 
 ## Guided Session 2: Who Is Affected?
 
-**Time:** 20-30 minutes
+**Time:** 20-25 minutes
 
 **Materials:** paper, markers, Systems Log
 
@@ -166,6 +166,26 @@ Helpful prompts for this week:
 - What moved: "The problem would happen when..."
 - Where it went: "My fix would change the path by..."
 - My drawing: plan plus warnings
+
+## Environmental Checkpoint
+
+This week is a good time to pause before presenting.
+
+- What claim am I making?
+- What evidence, observations, data, or examples support it?
+- What might be missing or left out?
+- Who or what is affected?
+- What tradeoff or unintended consequence still needs to be named?
+- What should I check before I trust, share, repeat, or act on this idea?
+
+## Ethical Communication Note
+
+Strong projects do not need exaggeration, blame, shame, or fear. Learners can say:
+
+- "I do not know yet."
+- "This part still needs checking."
+- "One limitation is ___."
+- "One thing I would revise is ___."
 
 ## Engineer Corner
 

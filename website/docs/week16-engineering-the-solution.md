@@ -27,7 +27,7 @@ Good plans get stronger when you add clear details about who does what, how ofte
 :::info Grown-up Note
 - Call it a Plan Card in the main path. The formal language can wait.
 - Keep success metrics simple and reachable.
-- Sessions are designed for about 20-30 minutes. Use the Short Path when you only have 15-20 minutes.
+- Sessions are designed for about 20 minutes. Use the Short Path when you only have 15-20 minutes. Extra Challenge options can stretch closer to 25-30 minutes.
 
 **Common Kid Misconceptions**
 - Misconception: "If the idea is good, details do not matter." Response: "Details are what make an idea usable."
@@ -39,7 +39,7 @@ Good plans get stronger when you add clear details about who does what, how ofte
 
 | | |
 |---|---|
-| Session length | About 20-30 minutes |
+| Session length | About 20 minutes |
 | Prep time | About 10 minutes |
 | Materials | Week 15 plan card, paper, markers, Systems Log |
 | Safety | Keep plans practical and appropriate for the child's setting |
@@ -120,7 +120,7 @@ How will we know it worked?
 
 ## Guided Session 2: Smallest Version That Works
 
-**Time:** 20-30 minutes
+**Time:** 20-25 minutes
 
 **Materials:** plan card, markers, Systems Log
 
@@ -169,6 +169,32 @@ Helpful prompts for this week:
 - What moved: "The material would now move..."
 - Where it went: "The return path would go to..."
 - My drawing: labeled Plan Card
+
+## Environmental Data Check
+
+- What does this success check actually measure?
+- Who will collect the information?
+- When will we check again?
+- What labels, units, or counts will make the result easier to understand?
+- What might this data not show about the whole system?
+
+## Who Is Affected?
+
+As the plan becomes more real, learners should ask:
+
+- Who has to help this plan work?
+- Who benefits if it works well?
+- Who might find it confusing, costly, hard to access, or hard to use?
+- What would make the plan fairer, safer, or easier to use?
+
+## Project Integrity Check
+
+Before moving on, make sure the plan is still honest and respectful.
+
+- Keep facts, observations, data, opinions, feelings, and questions separate.
+- Use evidence, examples, observations, data, or sources to support claims.
+- Plan to give credit for outside facts, images, quotes, ideas, data, sources, or AI help.
+- Make the final share readable and accessible for the audience.
 
 ## Engineer Corner
 

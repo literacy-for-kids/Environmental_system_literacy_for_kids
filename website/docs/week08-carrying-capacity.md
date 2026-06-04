@@ -27,7 +27,7 @@ A system can handle only so much before it starts to get damaged.
 :::info Grown-up Note
 - Say limit before carrying capacity in the main path.
 - Use familiar examples first, then animals or ecosystems.
-- Sessions are designed for about 20-30 minutes. Use the Short Path when you only have 15-20 minutes.
+- Sessions are designed for about 20 minutes. Use the Short Path when you only have 15-20 minutes. Extra Challenge options can stretch closer to 25-30 minutes.
 
 **Common Kid Misconceptions**
 - Misconception: "More living things is always better." Response: "Only if the system can support them."
@@ -39,7 +39,7 @@ A system can handle only so much before it starts to get damaged.
 
 | | |
 |---|---|
-| Session length | About 20-30 minutes |
+| Session length | About 20 minutes |
 | Prep time | About 10 minutes |
 | Materials | Paper, counters or blocks, bowl or small area to represent a habitat, Systems Log |
 | Safety | Keep the examples imaginary or model-based; do not crowd animals for a demonstration |
@@ -108,7 +108,7 @@ Success looks like: the child can explain that every system has a limit.
 
 ## Guided Session 2: The Pond Story
 
-**Time:** 20-30 minutes
+**Time:** 20-25 minutes
 
 **Materials:** paper, markers, Systems Log
 
@@ -156,6 +156,39 @@ Helpful prompts for this week:
 - What moved: "The load increased when..."
 - Where it went: "The system started to lose..."
 - My drawing: healthy pond and overloaded pond
+
+## Systems Thinking Move
+
+An environmental system is made of connected parts. When one part changes, other parts may change too. Some changes are quick. Some changes take time. Some effects are easy to see, and some are hidden.
+
+Learner questions:
+
+- What parts are in this system?
+- What moves through the system?
+- What changes over time?
+- What happens next?
+- What part of the system could we change safely?
+
+Simple examples:
+
+- more shade -> cooler pavement -> safer play area
+- too many fish -> less food -> more stress
+
+## Environmental Data Check
+
+- What does this model count or compare?
+- What labels, units, or arrows help me read it?
+- What pattern do I notice as the load changes?
+- What might this model not show about a real place?
+- What should I ask before using one example as proof for every system?
+
+## Who Is Affected?
+
+Environmental problems and benefits are not always shared equally. Some playgrounds, parks, or streets have more shade, safer sidewalks, cleaner water, or more space. Some communities face more heat, crowding, flooding, or pollution.
+
+- Who is affected when a system is pushed past its limit?
+- Who benefits when the system stays healthy?
+- What would make the setting fairer, safer, or easier to use?
 
 ## Engineer Corner
 

@@ -18,13 +18,15 @@ The main voice of the course speaks to ages 8-12. The technical words are still 
 - Read [How to Use This Curriculum](#how-to-use-this-curriculum) for pacing and setup.
 - Skim [The Big Idea](#the-big-idea) for the systems framing.
 - Use [Course at a Glance](#course-at-a-glance) when you want the full 18-week map.
+- Keep [Caregiver and Facilitator Guidance](./caregiver-and-facilitator-guidance.md) nearby for privacy, safety, and sensitive-topic support.
+- Reuse the [Environmental Checkpoint](./environmental-checkpoint.md) when learners meet a claim, chart, map, sign, video, or project idea.
 - Begin with [Week 1: Sunlight Detective](./week01-the-planetary-engine.md) when you are ready to teach.
 :::
 
 :::info Grown-up Note
 - This curriculum stays neutral and non-guilt-based. It does not teach that humans are villains, and it is not an activism curriculum.
 - The course uses warm, concrete language in the main flow and keeps heavier science and engineering terms in optional sections.
-- Plan for sessions that last about 20-30 minutes. Use the Short Path when you only have 15-20 minutes.
+- Plan for sessions that last about 20 minutes. Extra Challenge options can stretch some sessions closer to 25-30 minutes. Use the Short Path when you only have 15-20 minutes.
 :::
 
 ## What This Curriculum Is
@@ -59,7 +61,7 @@ This curriculum is designed for adults working with kids ages 8-12, including fa
 
 ### Weekly Structure
 
-Each week is built for about 20-30 minutes per session.
+Each week is built for about 20 minutes per session, with optional extensions that can stretch longer when a group wants more depth.
 
 1. Guided Session 1 introduces the big idea through something the child can observe, touch, draw, sort, compare, or play.
 2. Guided Session 2 deepens the idea with one more model, game, or investigation.
@@ -67,18 +69,99 @@ Each week is built for about 20-30 minutes per session.
 
 ### Age Paths
 
-Every week includes two clearly labeled paths.
+Every week includes a clear younger path, a core path, and optional older-learner depth.
 
 - **Short Path for Younger Learners** gives the warm, practical version for ages 8-9 or any short day.
-- **Extra Challenge for Older Learners** adds optional depth for ages 10-12, highly interested younger learners, or facilitators who want more science.
+- **Core Path** keeps the main learning goals centered on ages 10-12 while still working in mixed-age groups.
+- **Extra Challenge for Older Learners** adds guided or optional depth for ages 11-13, highly interested younger learners, or facilitators who want more science.
+
+## Age-Banded Environmental Systems Learning Goals
+
+The main path of this curriculum stays aimed at ages 8-12. These age bands help facilitators decide when to model more, when to simplify, and when to offer guided extension.
+
+### Ages 8-9: Guided foundation
+
+Learners should be able to:
+
+- notice and describe plants, animals, weather, water, soil, sunlight, human-made objects, and local environmental clues
+- name simple parts of an environmental system, such as sun, rain, plant, animal, soil, stream, trash can, or sidewalk
+- describe simple cause-and-effect relationships with support
+- explain that living things need air, water, food, space, and safe conditions
+- draw or talk through a simple cycle such as day/night, rain/puddles, plant growth, or food scraps becoming soil
+- ask questions such as "What do I notice?", "What might happen next?", and "Who or what is affected?"
+- participate in observation, sorting, drawing, or discussion activities with adult support
+
+### Ages 10-12: Core path
+
+Learners should be able to:
+
+- explain how parts of an environmental system connect and affect one another
+- describe basic energy flow, such as sun -> plant -> animal
+- explain basic cycles such as the water cycle, food chains, decomposition, and resource use
+- identify a local environmental issue, such as litter, heat, flooding, water use, school energy use, or habitat loss, and brainstorm realistic responses
+- read simple environmental data such as weather charts, temperature graphs, population counts, water-use tables, or waste-sorting results
+- separate environmental claims from evidence, observations, opinions, and feelings
+- compare two sources about an environmental topic and decide what else should be checked
+- explain one tradeoff or unintended consequence in an environmental decision
+
+### Ages 11-13: Optional extension
+
+Learners may also:
+
+- analyze more complex systems involving climate, energy sources, food systems, land use, water quality, biodiversity, or public policy
+- create diagrams that show feedback loops, delays, tradeoffs, or unintended consequences
+- compare environmental choices using evidence, constraints, benefits, and costs
+- evaluate environmental messages, charts, ads, videos, or claims for source quality and missing context
+- collect or interpret simple field data with guidance, such as temperature, shade, soil moisture, biodiversity counts, or waste audit data
+- build a more detailed environmental project with stakeholders, evidence, tradeoffs, accessibility, attribution, and revision
+
+Advanced topics such as climate change mechanisms, environmental policy, environmental justice, energy economics, pollution regulation, carbon footprints, global supply chains, and independent field research should stay guided, optional, or extension-level rather than baseline expectations for every 8-year-old.
 
 ### Prep Load
 
-Most weeks use ordinary materials: jars, paper, beans, boxes, cups, counters, pencils, or simple household objects. Each page includes a short snapshot so an adult can prepare quickly.
+Most weeks use ordinary materials: jars, paper, beans, boxes, cups, counters, pencils, or simple reused objects. Each page includes a short snapshot so an adult can prepare quickly.
 
 ### Flexibility
 
 Treat the course like a sturdy guide, not a script. Slow down when a child is curious. Skip a demo that does not fit your space. Spend more than one week on the terrarium if it becomes a favorite.
+
+## Choosing Environmental Examples
+
+Rotate examples across home, school, library, neighborhood, community, online, and global contexts. Environmental systems literacy is not only about wilderness, forests, oceans, or faraway problems. It also applies to everyday places, built environments, weather, food, water, energy, waste, transportation, health, and shared community spaces.
+
+Useful examples include:
+
+- classroom plants
+- school recycling or trash stations
+- public library nature displays
+- community garden flyers
+- apartment recycling rooms
+- park, trail, beach, or playground signs
+- public transit schedules
+- school bus idling signs
+- neighborhood trees and shade
+- storm drains and puddles
+- local flooding or heat maps
+- water fountains and refill stations
+- lunch waste sorting
+- food packaging
+- farmers markets
+- grocery labels
+- school energy use
+- weather apps
+- air-quality alerts
+- public health posters
+- emergency alerts
+- educational nature videos
+- community cleanup notices
+- local wildlife observations
+- rural farms, streams, barns, fields, and forests
+- urban nature such as street trees, pigeons, insects, planters, parks, and vacant lots
+- age-appropriate global examples
+
+Facilitator reminder:
+
+When possible, choose examples that reflect different kinds of communities: rural, suburban, urban, multilingual, multigenerational, renters, homeowners, apartment residents, families with different transportation access, people with disabilities, people with different outdoor access, and communities facing different environmental conditions.
 
 ## The Big Idea
 
@@ -159,13 +242,24 @@ Each core week begins with the same child-first support structure:
 - a Systems Log template
 - optional deeper science in an Engineer Corner or similar box
 
+## Facilitator Support Pages
+
+Use these pages as quick supports before you add more explanation.
+
+- [Curriculum Overview](./curriculum-overview.md)
+- [Standards Alignment](./standards-alignment.md)
+- [Caregiver and Facilitator Guidance](./caregiver-and-facilitator-guidance.md)
+- [Environmental Checkpoint](./environmental-checkpoint.md)
+- [Assessment Guide](./assessment-guide.md)
+- [Self-Assessment](./self-assessment.md)
+
 ## Materials You Will Reuse Often
 
 - notebook or paper for the Systems Log
 - pencils, markers, tape, and scissors
 - cups, bowls, jars, and lids
 - beans, counters, or small tokens
-- simple household items for sorting and tracing
+- simple reused items for sorting and tracing
 
 ## The Goal
 
@@ -175,6 +269,8 @@ By the end of the course, students should be able to say and show:
 - where matter goes when it leaves one place
 - whether a process looks more like a loop or a straight line
 - what limit or bottleneck might be shaping the system
-- what small redesign could make the path work better
+- how to check a simple environmental claim, chart, source, or message before sharing it
+- who or what is affected when a system changes
+- what small redesign or stewardship step could make the path work better
 
 The course is rigorous on purpose. It simply takes a child-friendly path to get there.

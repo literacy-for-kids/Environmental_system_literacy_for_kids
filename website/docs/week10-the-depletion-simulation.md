@@ -27,7 +27,7 @@ In a shared system, the rules can decide whether the pool grows back or gets use
 :::info Grown-up Note
 - Keep the emotional tone safe. The point is not who is greedy. The point is how the rules shape choices.
 - Start with talking allowed for the younger path. Silence becomes an optional harder round later.
-- Sessions are designed for about 20-30 minutes. Use the Short Path when you only have 15-20 minutes.
+- Sessions are designed for about 20 minutes. Use the Short Path when you only have 15-20 minutes. Extra Challenge options can stretch closer to 25-30 minutes.
 
 **Common Kid Misconceptions**
 - Misconception: "If the pond empties, it means the players were bad." Response: "The rules may have pushed the group toward that result."
@@ -47,7 +47,7 @@ In a shared system, the rules can decide whether the pool grows back or gets use
 
 | | |
 |---|---|
-| Session length | About 20-30 minutes |
+| Session length | About 20 minutes |
 | Prep time | About 10 minutes |
 | Materials | Tokens, beans, or paper fish; bowl or paper pond; tracking sheet; pencil; Systems Log |
 | Safety | Keep small tokens away from very young siblings who might swallow them |
@@ -127,7 +127,7 @@ Use this simple tracking table:
 
 ## Guided Session 2: Rule Change Round
 
-**Time:** 20-30 minutes
+**Time:** 20-25 minutes
 
 **Materials:** same pond setup, Systems Log
 
@@ -175,6 +175,36 @@ Helpful prompts for this week:
 - What moved: "Fish moved from the pond to..."
 - Where it went: "After the round the fish pool..."
 - My drawing: start pond and end pond
+
+## Systems Thinking Move
+
+An environmental system is made of connected parts. When one part changes, other parts may change too. Some changes are quick. Some changes take time. Some effects are easy to see, and some are hidden.
+
+Learner questions:
+
+- What parts are in this shared system?
+- What moves through the system?
+- What changes over time?
+- What causes what?
+- What feedback loop might make the change stronger or weaker?
+- What part of the system could we change safely?
+
+## Environmental Data Check
+
+- What does this tracker measure?
+- Who collected the numbers?
+- What trend or pattern do I notice across rounds?
+- What might this game not show about a real pond or shared resource?
+- What should I ask before using the game as evidence?
+
+## Who Is Affected?
+
+Environmental problems and benefits are not always shared equally. In shared systems, rules, access, timing, and information can shape who benefits and who carries the burden.
+
+- Who is affected when the shared pool shrinks too fast?
+- Who benefits when the rules help the resource grow back?
+- Who might be missing from the conversation about the rules?
+- What would make the system fairer, safer, or easier to use?
 
 ## Engineer Corner
 

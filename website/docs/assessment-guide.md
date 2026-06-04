@@ -6,243 +6,304 @@ description: "Practical guidance for checking understanding, diagrams, explanati
 
 # Assessment Guide
 
-Use this page as the curriculum's assessment backbone. The goal is not to turn the course into a grading machine. The goal is to make it easier for a facilitator to tell the difference between:
+Use this page as the curriculum's assessment backbone. The goal is not to turn the course into a grading machine. The goal is to help facilitators notice the difference between a learner who has heard the words, a learner who can explain the system, and a learner who can use the model in a new situation.
 
-- a student who has heard the words
-- a student who can explain the system
-- a student who can apply the model somewhere new
+Assessment in this course should stay calm, practical, privacy-safe, and evidence-based. Look for what the learner can show, draw, sort, model, estimate, and explain.
 
-Assessment in this course should stay calm, practical, and evidence-based. Look for what the learner can show, draw, estimate, and explain.
+---
+
+## Assessment Principles
+
+- Keep the work low-stakes. A checkpoint is a planning tool, not a high-pressure event.
+- Accept talking, drawing, pointing, sorting cards, dictation, AAC, brief writing, or model-building as valid evidence.
+- Use fictional, school, library, neighborhood, classroom, or nature-observation examples whenever possible instead of private family disclosure.
+- Reuse the [Environmental Checkpoint](./environmental-checkpoint.md) so learners build one steady thinking routine across the course.
+- Use the same four-level scale throughout: Beginning, Developing, Secure, Extending.
 
 ---
 
 ## What To Collect Each Week
 
-For most weeks, four small pieces of evidence are enough:
+For most weeks, four small pieces of evidence are enough.
 
 | Evidence type | What to collect | What it shows |
 |---|---|---|
-| Systems Log entry | Drawing, notes, or measurement table | Whether the student can observe and record a system clearly |
-| Oral explanation | A 30-90 second explanation in the student's own words | Whether the student actually understands the mechanism |
-| Diagram or model | Box-and-arrow sketch, loop diagram, reservoir map, or table | Whether the student can represent structure, not just repeat vocabulary |
-| Check for Understanding | The lesson's end-of-week questions | Whether the core idea is secure enough to keep moving |
+| Systems Log entry | Drawing, notes, tally, or quick table | Whether the learner can notice and record a system clearly |
+| Oral, AAC, or partner explanation | A 30-90 second explanation in the learner's own words | Whether the learner understands the mechanism, not just the vocabulary |
+| Diagram, model, or sorting task | Arrow sketch, loop map, simple graph, object sort, or card model | Whether the learner can represent parts and relationships |
+| Environmental Checkpoint response | One or two checkpoint questions answered aloud, in writing, or with support | Whether the learner can ask what should be checked next |
 
 Do not wait for polished writing. A rough drawing with correct arrows is often stronger evidence than a neat paragraph copied from the page.
 
 ---
 
-## Ready To Move On
+## Age-Banded Environmental Systems Learning Goals
 
-A learner is usually ready for the next week when they can do all four of these things:
+### Ages 8-9: Guided foundation
 
-1. Name the main parts of the system being studied.
-2. Explain at least one important flow, exchange, or likely trouble spot.
-3. Complete the week's minimum diagram, drawing, or tracking task.
-4. Answer at least two of the three Check for Understanding prompts with mostly correct reasoning.
+Learners should be able to:
 
-If one of these is weak, slow down and repeat the core activity rather than adding more explanation.
+- notice and describe plants, animals, weather, water, soil, sunlight, human-made objects, and local environmental clues
+- name simple parts of an environmental system, such as sun, rain, plant, animal, soil, stream, trash can, or sidewalk
+- describe simple cause-and-effect relationships with support
+- explain that living things need air, water, food, space, and safe conditions
+- draw or talk through a simple cycle such as day/night, rain/puddles, plant growth, or food scraps becoming soil
+- ask questions such as "What do I notice?", "What might happen next?", and "Who or what is affected?"
+- participate in observation, sorting, drawing, or discussion activities with adult support
 
----
+### Ages 10-12: Core path
 
-## Systems Log Rubric
+Learners should be able to:
 
-Use this as a fast weekly check:
+- explain how parts of an environmental system connect and affect one another
+- describe basic energy flow, such as sun -> plant -> animal
+- explain basic cycles such as the water cycle, food chains, decomposition, and resource use
+- identify a local environmental issue, such as litter, heat, flooding, water use, school energy use, or habitat loss, and brainstorm realistic responses
+- read simple environmental data such as weather charts, temperature graphs, population counts, water-use tables, or waste-sorting results
+- separate environmental claims from evidence, observations, opinions, and feelings
+- compare two sources about an environmental topic and decide what else should be checked
+- explain one tradeoff or unintended consequence in an environmental decision
 
-| Level | What it looks like |
-|---|---|
-| Emerging | Observation is present, but the entry is mostly copied words or isolated notes |
-| Secure | Entry includes a real observation, a sketch or table, and at least one correct flow or cause-and-effect statement |
-| Strong | Entry includes observation, model, prediction, and a short revision based on what actually happened |
+### Ages 11-13: Optional extension
 
----
+Learners may also:
 
-## Weekly Check-for-Understanding Rubric
-
-| Level | What it looks like |
-|---|---|
-| Emerging | Student answers less than half of the prompts correctly or answers by repeating vocabulary only |
-| Secure | Student answers at least two of the three prompts with mostly correct reasoning |
-| Strong | Student answers the prompts clearly and can transfer the idea to a new example |
-
----
-
-## Capstone Artifact Rubrics
-
-### Capstone Proposal Draft (Week 15)
-
-| Level | What it looks like |
-|---|---|
-| Emerging | Problem is named, but the current system is still vague |
-| Secure | Current state, open loop, and proposed redesign are all visible and connected |
-| Strong | Proposal is neutral, specific, and supported by a usable diagram and rough load estimate |
-
-### Make-the-Plan-Real Sheet (Week 16)
-
-| Level | What it looks like |
-|---|---|
-| Emerging | Plan details are mostly wishes or labels with few quantities |
-| Secure | Plan details include practical numbers for time, space, materials, and one success check |
-| Strong | Plan details include quantities, review conditions, and a clearly named hard or soft limit |
-
-### Risk and Affected-People Review (Week 17)
-
-| Level | What it looks like |
-|---|---|
-| Emerging | Student can name a risk, but not what to do about it |
-| Secure | Student names realistic ways the plan could go wrong and one reasonable concern from an affected person or group |
-| Strong | Student gives mitigation steps, seriously considers objections, and identifies known limitations honestly |
-
-### Final Pitch (Week 18)
-
-| Level | What it looks like |
-|---|---|
-| Emerging | Audience can tell the topic, but not the logic of the redesign |
-| Secure | Current state, redesign, requirements, and expected outcome are understandable |
-| Strong | Pitch is clear, neutral, evidence-based, and responsive to follow-up questions |
-
-For a fuller four-level capstone score, use the [Capstone Rubric](./capstone-rubric.md).
+- analyze more complex systems involving climate, energy sources, food systems, land use, water quality, biodiversity, or public policy
+- create diagrams that show feedback loops, delays, tradeoffs, or unintended consequences
+- compare environmental choices using evidence, constraints, benefits, and costs
+- evaluate environmental messages, charts, ads, videos, or claims for source quality and missing context
+- collect or interpret simple field data with guidance, such as temperature, shade, soil moisture, biodiversity counts, or waste audit data
+- build a more detailed environmental project with stakeholders, evidence, tradeoffs, accessibility, attribution, and revision
 
 ---
 
-## Assessing Diagrams
+## Systems Log Snapshot
 
-The diagram work in this curriculum matters. A student who can draw the system usually understands it better than a student who can only define terms.
+Use this quick four-level check most weeks.
 
-Look for these features:
-
-| Feature | Emerging | Secure | Strong |
-|---|---|---|---|
-| Boundaries | The student draws isolated objects | The student identifies the main system boundary | The student can explain why the boundary was chosen and what is outside it |
-| Parts | Some important pieces are missing | Most major reservoirs, components, or actors are present | The student includes relevant subparts without clutter |
-| Arrows and direction | Arrows are missing or unclear | Most arrows show correct direction of flow | Arrows are labeled and distinguish material, energy, or information flow |
-| Labels | Labels are vague or absent | Key parts and flows are labeled clearly | Labels are precise and use course vocabulary accurately |
-| Cause and effect | The picture is static | The student shows what moves or changes | The student shows feedbacks, bottlenecks, or trouble spots |
-
-If a learner's diagram is messy but conceptually right, treat it as a success. Clean formatting is secondary.
+| Skill | Beginning | Developing | Secure | Extending |
+|---|---|---|---|---|
+| Observation | Records a detail with heavy support or copies words only | Records one real detail or comparison with support | Records a clear observation in words, drawing, tally, or model | Notices a pattern, change over time, or useful exception |
+| Parts and connections | Names isolated objects only | Names one or two relevant parts | Names several relevant parts and shows at least one connection | Shows multiple connections, a cycle, or a feedback idea |
+| Question or revision | Needs help asking what to check next | Asks a simple next-step question with support | Asks a useful question or revises thinking after evidence | Revises a model or explanation with specific new evidence |
 
 ---
 
-## Assessing Explanations
+## Phase Checkpoint: Observation, Environment, And Local Systems
 
-Ask for short explanations first. Long explanations can hide weak understanding.
+### What this checkpoint is for
 
-Good prompts:
+This checkpoint helps facilitators see whether learners can notice environmental details, name parts of a nearby system, and use arrows, drawings, or short explanations to show simple connections. It is not a test. Learners may answer by talking, drawing, pointing, sorting cards, making a model, writing short notes, using AAC, or explaining their thinking to a partner.
 
-- "Tell me what is moving through this system."
-- "Where is the loop open?"
-- "What happens if that input changes?"
-- "Why is that a load problem instead of a morality problem?"
+### Look-fors
 
-Look for these qualities:
+Learners are working toward this phase when they can:
 
-| Quality | What to listen for |
-|---|---|
-| Accuracy | The explanation does not reverse the direction of the system or confuse core concepts |
-| Causality | The student can say why one change leads to another |
-| Specificity | The student names the actual material, energy source, or limit |
-| Neutral voice | The student can describe the problem without doom language or blame language |
-| Transfer | The student can apply the same model to a new object or setting |
+- make a careful observation about a place, object, or model
+- name parts of a simple environmental system
+- use arrows, labels, or oral explanation to show one connection
+- ask what might happen next
 
----
+### Checkpoint questions
 
-## Assessing Quantitative Reasoning
+- What do you notice in this system?
+- What parts can you name?
+- How are two parts connected?
 
-Not every week requires exact arithmetic, but the course does expect students to reason about quantity.
+### Ready to move on
 
-Look for whether the student can:
+The learner can show a simple local system with at least two named parts, one clear connection, and one reasonable next-step question.
 
-- compare larger and smaller flows
-- estimate reasonable amounts
-- keep units attached to numbers when relevant
-- tell the difference between a stock and a rate
-- explain what a number means inside the system
+### Reteach moves
 
-Examples:
+- Return to one concrete example such as a sunny window, puddle, houseplant, lunch tray, or classroom bin.
+- Model one observation aloud and ask the learner to add one more.
+- Use picture cards or real objects before asking for a full diagram.
+- Let the learner answer with drawing plus dictation instead of full writing.
 
-- Week 4: "Most water is in the oceans; only a tiny fraction is in lakes and rivers."
-- Week 8: "If the meadow can support 30 deer and there are 50, the load is above capacity."
-- Week 10: "If the pool regrows 5 tokens per round, taking more than 5 total cannot last."
-- Week 16: "If the redesign handles 3 kilograms of scraps per week but the household makes 5, the design is undersized."
+### Checkpoint snapshot
+
+| Skill | Beginning | Developing | Secure | Extending |
+|---|---|---|---|---|
+| Makes observations | Notices one detail only with heavy support | Notices a real detail or change with support | Notices and describes several relevant details | Notices patterns, comparisons, or hidden clues |
+| Names system parts | Names isolated objects only | Names one or two useful parts | Names several relevant parts in the system | Groups parts into living, nonliving, and human-made or inside/outside categories |
+| Shows connections | Needs help showing what affects what | Shows one connection with prompting | Clearly shows how two parts connect | Shows multiple connections and what might happen next |
 
 ---
 
-## Assessing Systems Thinking
+## Phase Checkpoint: Ecosystems, Cycles, And Interdependence
 
-Systems thinking is the real target of the course. Use this checklist across the full curriculum.
+### What this checkpoint is for
 
-| Systems habit | Evidence of growth |
-|---|---|
-| Traces flows | Student follows matter or energy from source to destination |
-| Distinguishes reservoirs from flows | Student can say what is stored versus what is moving |
-| Notices open loops | Student identifies where outputs are not routed back into inputs |
-| Notices limits | Student can name limits, bottlenecks, or load capacity |
-| Notices tradeoffs | Student understands that redesigns usually solve one problem while adding another constraint |
-| Thinks about what might go wrong | Student can say how a design or cycle might break |
-| Transfers models | Student applies the same box-and-arrow reasoning to a new case |
+This checkpoint helps facilitators see whether learners can name parts of an environmental system, explain simple connections, and describe how a change in one part may affect another. It is not a test. Learners may answer by talking, drawing, pointing, sorting cards, making a model, writing short notes, using AAC, or explaining their thinking to a partner.
+
+### Look-fors
+
+Learners are ready to move on when they can:
+
+- name parts of a system
+- describe at least one connection
+- explain a simple cause-and-effect relationship
+- use a drawing, arrows, model, or words to show a cycle or flow
+- ask a question about what might happen next
+
+### Checkpoint questions
+
+- What parts are in this system?
+- How are two parts connected?
+- What might happen if one part changes?
+
+### Ready to move on
+
+The learner can explain one cycle or flow with at least one reasonable cause-and-effect statement.
+
+### Reteach moves
+
+- Use picture cards to build a simple food chain.
+- Draw arrows between sun, plant, animal, soil, and water.
+- Use a classroom or playground example instead of a faraway ecosystem.
+- Ask learners to explain the system as a story: first, next, then, later.
+
+### Checkpoint snapshot
+
+| Skill | Beginning | Developing | Secure | Extending |
+|---|---|---|---|---|
+| Names system parts | Needs help naming parts | Names one or two parts with support | Names several relevant parts | Groups parts into living, nonliving, and human-made |
+| Explains connections | Gives isolated facts | Explains one connection with support | Clearly explains how two parts affect each other | Explains multiple connections or a feedback loop |
+| Shows cause and effect | Needs help predicting what happens next | Makes a simple prediction with support | Explains a reasonable cause-and-effect relationship | Explains tradeoffs, delays, or unintended consequences |
 
 ---
 
-## Age-Band Expectations
+## Phase Checkpoint: Resources, Waste, Pollution, And Tradeoffs
 
-### Ages 8-9
+### What this checkpoint is for
 
-Expect learners in this band to:
+This checkpoint helps facilitators see whether learners can trace a shared resource or waste path, explain how rules or design shape outcomes, and notice that one choice can help in one way while creating a different limit or cost elsewhere.
 
-- explain the main idea in plain language
-- complete short drawings with arrows and labels
-- use oral explanations in place of formal writing when needed
-- make simple comparisons such as more/less, faster/slower, open/closed
-- answer concrete questions about one visible example
+### Look-fors
 
-Do not require long written paragraphs or abstract generalization every week.
+Learners are working toward this phase when they can:
 
-### Ages 10-12
+- trace where a material, resource, or output goes next
+- explain how a rule, return path, or missing return path changes the system
+- interpret a simple tracking table, count, or game result
+- name one tradeoff or unintended consequence
 
-Expect learners in this band to:
+### Checkpoint questions
 
-- explain the same idea with more precision and vocabulary
-- include labels, quantities, and cause-and-effect links in diagrams
-- make rough estimates and justify them
-- compare two systems or two redesign options
-- name tradeoffs, limits, and likely trouble spots
+- What is being used, shared, or thrown away in this system?
+- What happens when the rule or return path changes?
+- What tradeoff or unintended consequence do you notice?
 
-Do not require perfect formal science writing. Clear reasoning matters more than polish.
+### Ready to move on
+
+The learner can explain one shared-resource or waste-path problem and suggest one realistic change using evidence from observation, a count, or a simple game result.
+
+### Reteach moves
+
+- Replay one short round of the shared resource game with fewer variables.
+- Trace one clean object from use to next place using a road map.
+- Compare one loop path and one straight-line path side by side.
+- Use sentence frames such as "We gain ___ but pay ___."
+
+### Checkpoint snapshot
+
+| Skill | Beginning | Developing | Secure | Extending |
+|---|---|---|---|---|
+| Traces a path | Names the object or resource only | Traces part of the path with support | Traces the main path from source to next place | Traces multiple possible paths and compares them |
+| Uses evidence or data | Needs help reading counts or tracking results | Reads one result with support | Uses a count, chart, or game result to support an explanation | Compares more than one result and explains what may be missing |
+| Names tradeoffs | Sees one option as all good or all bad | Names one tradeoff with support | Explains one realistic tradeoff or unintended consequence | Explains tradeoffs for different people, places, or time scales |
 
 ---
 
-## A Simple Weekly Routine
+## Phase Checkpoint: Environmental Data, Claims, And Community Impact
 
-Use this routine at the end of almost every week:
+### What this checkpoint is for
 
-1. Ask the student to show the Systems Log page.
-2. Ask for one short oral explanation.
-3. Ask one transfer question using a new example.
-4. Decide whether to repeat, continue, or extend.
+This checkpoint helps facilitators see whether learners can read simple environmental information carefully, separate claim from evidence, and ask who is affected by a design, message, or community choice.
 
-### Repeat
+### Look-fors
 
-Repeat when the learner cannot yet explain the system in their own words.
+Learners are working toward this phase when they can:
 
-### Continue
+- read a simple chart, table, label, or comparison with support
+- distinguish claim, observation, opinion, evidence, and question
+- ask who benefits, who is affected, and what might be missing
+- compare two design or communication choices using evidence
 
-Continue when the learner has the core model, even if the work is brief.
+### Checkpoint questions
 
-### Extend
+- What claim is being made here?
+- What evidence, data, or observations support it?
+- Who is affected, and what might be missing from the message?
 
-Extend when the learner is ready to estimate, compare, quantify, or redesign.
+### Ready to move on
+
+The learner can use a simple piece of evidence to support an environmental explanation and can ask at least one fair community-impact question.
+
+### Reteach moves
+
+- Compare two labels, two product examples, or two simple charts and talk through one row at a time.
+- Use the [Environmental Checkpoint](./environmental-checkpoint.md) with only three questions at first.
+- Replace faraway examples with school, library, apartment, bus stop, park, or classroom examples.
+- Sort statements into claim, evidence, observation, opinion, and question with cards.
+
+### Checkpoint snapshot
+
+| Skill | Beginning | Developing | Secure | Extending |
+|---|---|---|---|---|
+| Reads environmental information | Needs help noticing labels or units | Notices one label, color, or count with support | Explains what a simple chart, label, or table shows | Explains what it shows, what it does not show, and what else to check |
+| Separates claim and evidence | Repeats the message only | Identifies a claim or evidence with support | Separates claim, evidence, observation, opinion, and question | Compares two sources and notices missing context or weak support |
+| Considers community impact | Focuses on self only | Names one person or group affected with support | Explains who is affected and one fair question to ask | Explains different needs, access, or tradeoffs across groups |
+
+---
+
+## Phase Checkpoint: Environmental Systems Project
+
+### What this checkpoint is for
+
+This checkpoint helps facilitators see whether learners can turn environmental systems thinking into an honest, evidence-based project with clear parts, audience awareness, tradeoff thinking, attribution, accessibility, and revision.
+
+### Look-fors
+
+Learners are ready to finish the course when they can:
+
+- describe the environmental issue, question, system, or opportunity clearly
+- show the important parts and connections in a diagram or model
+- use evidence, data, observations, or sources to support claims
+- explain who or what is affected and name one realistic action
+- reflect, revise, and answer questions respectfully
+
+### Checkpoint questions
+
+- What system are you explaining or redesigning?
+- What evidence supports your plan or message?
+- What tradeoff, limitation, or next revision do you want your audience to understand?
+
+### Ready to move on
+
+The learner can share an honest project that explains the system clearly, uses at least one kind of evidence, and names one tradeoff, limitation, or revision.
+
+### Reteach moves
+
+- Return to a smaller project scope, such as one classroom routine or one school/library object.
+- Use sentence frames for audience, evidence, and realistic action.
+- Practice with one supportive listener before a larger share.
+- Separate facts, observations, data, opinions, and questions on sticky notes before final drafting.
+
+### Checkpoint snapshot
+
+| Skill | Beginning | Developing | Secure | Extending |
+|---|---|---|---|---|
+| Defines the system or issue | Topic is broad or unclear | Names the topic but key parts are missing | Clearly explains the issue, question, or system | Frames the issue clearly and includes helpful boundaries or context |
+| Uses evidence honestly | Gives opinions or wishes only | Uses one example or observation with support | Uses evidence, examples, data, or sources to support claims | Uses multiple supports, notes limits honestly, and checks for missing context |
+| Reflects and revises | Has difficulty responding to questions or revision | Adds one revision with support | Responds respectfully and names one realistic revision | Uses questions, feedback, and self-reflection to strengthen the next version |
 
 ---
 
 ## Capstone Assessment
 
-For the final four weeks, switch from weekly quick checks to artifact-based review:
-
-- Week 15: system diagnosis
-- Week 16: plan details and measurable outcomes
-- Week 17: risks and affected-people reasoning
-- Week 18: pitch and revision notes
-
-Use the [Capstone Rubric](./capstone-rubric.md) together with the [Systems Log Guide](./systems-log-guide.md).
+For Weeks 15-18, use the [Capstone Rubric](./capstone-rubric.md), the [Self-Assessment](./self-assessment.md), and the [Environmental Checkpoint](./environmental-checkpoint.md) together. This keeps project assessment focused on clarity, honesty, evidence, accessibility, attribution, and revision rather than polish alone.
 
 ---
 
@@ -252,8 +313,9 @@ Avoid overweighting these things:
 
 - memorized vocabulary without explanation
 - dramatic language that sounds serious but does not identify a mechanism
-- polished design posters with weak system logic
+- polished posters or slides with weak system logic
 - exact arithmetic with weak interpretation
 - guilt language presented as if it were analysis
+- adult-style advocacy pressure presented as if it were a learning goal
 
-The strongest work in this curriculum is usually clear, concrete, and modest.
+The strongest work in this curriculum is usually clear, concrete, honest, and modest.

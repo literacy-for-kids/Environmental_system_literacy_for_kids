@@ -25,6 +25,18 @@ One question I still have:
 
 This is the base format that appears across the weekly pages.
 
+## Add The Environmental Checkpoint When Needed
+
+When a lesson includes a claim, chart, sign, map, video, product label, or project idea, add one or two questions from the [Environmental Checkpoint](./environmental-checkpoint.md):
+
+- What system is involved?
+- What parts are connected?
+- What evidence, observations, or data are shown?
+- Who or what is affected?
+- What should we ask or check next?
+
+The Systems Log does not need every prompt every week. It works best when facilitators choose the smallest useful next question.
+
 ## Why This Works
 
 The log helps children:
@@ -79,8 +91,19 @@ Useful upgrades:
 - quick comparison tables
 - simple before-and-after estimates
 - short notes about tradeoffs, limits, or patterns
+- source notes, attribution reminders, or questions about whether a chart or image might need checking
 
 The goal is still clarity, not fancy formatting.
+
+## Reflection And Self-Assessment
+
+The Systems Log can also support reflection. Every few weeks, ask the learner to circle or answer one short self-check prompt from [Self-Assessment](./self-assessment.md), such as:
+
+- I can name parts of a system.
+- I can show a cycle, flow, or cause-and-effect relationship.
+- I can ask what should be checked before I trust or share a claim.
+
+Keep the tone low-pressure. The log is for noticing growth, not grading effort.
 
 ## Example: Week 3 Terrarium Entry
 
@@ -157,3 +180,5 @@ Which rule would help the pond most next time?
 - [Printable Templates](./printable-templates.md)
 - [Assessment and Rubrics](./assessment-and-rubrics.md)
 - [Example Student Work](./example-student-work.md)
+- [Environmental Checkpoint](./environmental-checkpoint.md)
+- [Self-Assessment](./self-assessment.md)

@@ -13,9 +13,30 @@ This curriculum keeps student-facing pages readable by using a lightweight sourc
 - When a lesson says "about," "roughly," or "approximately," that is deliberate.
 - Current-policy and current-data claims should be checked annually.
 - Classroom heuristics, such as the "10% rule," are presented as teaching models rather than universal constants.
+- Product claims, sponsored eco-friendly messages, before-and-after photos, and viral environmental posts should be checked with the same calm routine used elsewhere in the course.
+- AI-generated or AI-edited images, charts, maps, summaries, wildlife photos, captions, and videos should be treated as checkable information, not as automatic proof.
 - If a figure changes meaningfully over time, update the lesson text and this page together.
 
 Last checked: May 2026.
+
+---
+
+## Environmental Information, Media, And AI Note
+
+Facilitator reminders:
+
+- Some environmental messages use strong emotion, dramatic imagery, or simplified captions to get attention. That does not always make them wrong, but it does mean the message may need more checking.
+- Green product claims often highlight one helpful feature while hiding missing context about packaging, shipping, energy use, durability, or disposal.
+- Before-and-after photos, disaster videos, animal images, maps, and screenshots can be cropped, edited, mislabeled, or AI-generated.
+- AI-written summaries can be useful starting points, but they may leave out uncertainty, tradeoffs, or source quality.
+
+When facilitators model source checking, keep the questions steady:
+
+- Who made this?
+- What evidence or data is shown?
+- Is another trusted source saying something similar?
+- What might be missing?
+- What should be checked before sharing or acting on it?
 
 ---
 
@@ -153,3 +174,4 @@ Check these before each new teaching year:
 2. Any fertilizer-dependence or Right to Repair policy language in Weeks 6 and 13.
 3. Any recycling-rate examples used in Week 7.
 4. Any current-event framing in the optional extension weeks.
+5. Any media, product, AI-generated, or source-checking examples used in project materials or current-event extensions.

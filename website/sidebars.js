@@ -80,7 +80,10 @@ const sidebars = {
       items: [
         'materials-master-list',
         'systems-log-guide',
+        'caregiver-and-facilitator-guidance',
+        'environmental-checkpoint',
         'assessment-guide',
+        'self-assessment',
         'capstone-rubric',
         'example-artifacts',
         'templates-and-worksheets',

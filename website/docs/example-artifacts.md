@@ -8,6 +8,8 @@ description: "Copyable sample artifacts for facilitators, including Systems Log 
 
 These are facilitator examples, not answer keys. Use them to show students what a workable artifact can look like without implying that there is only one correct answer.
 
+Use them flexibly across school, homeschool, library, apartment, neighborhood, community-center, and classroom settings. Swap in fictional or school-based examples when private family details are not needed.
+
 ---
 
 ## Example 1: Systems Log Entry
@@ -130,16 +132,16 @@ Simple redesign direction:
 
 ```text
 Current state:
-Our household sends about 3 kilograms of food scraps to trash each week.
+Our classroom throws away about 40 one-sided practice pages each week.
 
 Problem statement:
-The current configuration routes a biological nutrient into landfill instead of soil.
+The current routine sends reusable paper to trash instead of a second-use system.
 
 Proposed redesign:
-Place a small scrap pail in the kitchen and empty it into a sealed outdoor compost bin twice per week.
+Place a clearly labeled scratch-paper tray beside the printer and add a one-minute end-of-day sorting routine.
 
 Expected outcome:
-Reduce landfill-bound food scraps by at least half within one month.
+Reuse at least half of the one-sided pages within one month.
 ```
 
 ---
@@ -148,12 +150,12 @@ Reduce landfill-bound food scraps by at least half within one month.
 
 | Field | Example entry |
 |---|---|
-| System | Household food scrap handling |
-| Scope | Kitchen and backyard only |
-| Input rate | About 3 kg scraps per week |
-| Operator | One adult, one student helper |
-| Space required | 2 square feet outdoors |
-| Success metric | Food scraps in trash drop below 1.5 kg/week |
+| System | Classroom paper reuse routine |
+| Scope | Printer table and writing station only |
+| Input rate | About 40 one-sided pages per week |
+| Operator | Teacher plus two rotating student helpers |
+| Space required | One paper tray and one sign |
+| Success metric | At least 20 pages reused per week |
 | Review interval | Check weekly for one month |
 
 ---
@@ -162,9 +164,9 @@ Reduce landfill-bound food scraps by at least half within one month.
 
 | Component | Failure mode | Likelihood | Severity | Detection | Recovery |
 |---|---|---|---|---|---|
-| Kitchen pail | not emptied on time | medium | minor | smell, fruit flies | set reminder; reduce pail size |
-| Outdoor bin | too wet | medium | moderate | strong smell, sludge | add dry leaves or torn cardboard |
-| Participation | family stops sorting | medium | serious | scraps show up in trash again | simplify instructions; assign one operator |
+| Reuse tray | fills up too fast | medium | minor | pages spill onto table | empty tray twice a week or add a second tray |
+| Sorting routine | students forget which pages qualify | medium | moderate | tray contains two-sided pages | add a picture example and model the rule again |
+| Teacher routine | tray is not checked regularly | medium | moderate | paper pile grows without reuse | add a weekly reminder and assign rotating helpers |
 
 ---
 
@@ -185,6 +187,25 @@ One tray, one sign, and a two-minute teacher routine at cleanup.
 
 5. Expected outcomes
 Lower paper purchasing over time and less paper entering the classroom trash stream.
+```
+
+---
+
+## Example 11: Attribution And Accessibility Note
+
+```text
+Outside information I used:
+- one school paper-use count from our class cleanup routine
+- one article about paper reuse from a trusted education source
+
+AI help I used:
+- a brainstorming prompt to help me shorten my title
+
+How I checked it:
+- I rewrote the title in my own words and kept only ideas that matched our class evidence
+
+Accessibility step:
+- I used large labels, dark marker, and a simple diagram so the audience could follow the idea quickly
 ```
 
 ---

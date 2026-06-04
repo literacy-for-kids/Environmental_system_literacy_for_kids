@@ -28,7 +28,8 @@ You can share a real plan in a clear, specific, honest voice.
 - One real person is enough. A family member, teacher, librarian, or neighbor works.
 - Younger learners only need a short 2-minute share.
 - Celebrate completion at the end. Finishing the course should feel meaningful.
-- Sessions are designed for about 20-30 minutes. Use the Short Path when you only have 15-20 minutes.
+- Sessions are designed for about 20 minutes. Use the Short Path when you only have 15-20 minutes. Extra Challenge options can stretch closer to 25-30 minutes.
+- There is no requirement for public posting, contacting officials, or online sharing.
 
 **Common Kid Misconceptions**
 - Misconception: "A presentation only counts if it is long and polished." Response: "Clear and real matters more than long and perfect."
@@ -40,7 +41,7 @@ You can share a real plan in a clear, specific, honest voice.
 
 | | |
 |---|---|
-| Session length | About 20-30 minutes |
+| Session length | About 20 minutes |
 | Prep time | About 10-15 minutes |
 | Materials | Plan card, drawing or poster if desired, note card, Systems Log |
 | Safety | Keep the audience supportive and age-appropriate |
@@ -85,7 +86,8 @@ Choose one:
 - one-page plan card
 - show-and-tell with drawing
 - short video
-- family-table presentation
+- audio recording
+- small-group table presentation
 
 ## Guided Session 1: Practice Once
 
@@ -126,7 +128,7 @@ For younger learners, a 2-minute structure is enough:
 
 ## Guided Session 2: Share and Respond
 
-**Time:** 20-30 minutes
+**Time:** 20-25 minutes
 
 **Materials:** final plan card, optional poster or drawing, Systems Log
 
@@ -181,6 +183,51 @@ Helpful prompts for this week:
 - What moved: "Their question moved my thinking from... to ..."
 - Where it went: "Version 2.0 would go toward..."
 - My drawing: my presentation or my improved next version
+
+## Honest Environmental Systems Project Checklist
+
+Before presenting or sharing, check:
+
+- I clearly described the environmental issue, question, system, or opportunity.
+- I named the important parts of the system.
+- I explained how parts of the system connect.
+- I explained who or what is affected.
+- I stated my audience and what I want them to understand, consider, or do.
+- I separated facts, observations, data, opinions, feelings, and questions.
+- I used evidence, examples, observations, data, or sources to support my claims.
+- I considered more than one perspective.
+- I explained at least one tradeoff, limitation, or unintended consequence.
+- I avoided exaggerating, blaming, shaming, or hiding important context.
+- I gave credit for outside facts, images, quotes, ideas, data, sources, or AI help.
+- I made my presentation readable and accessible for my audience.
+- I can answer questions respectfully and revise my idea if needed.
+
+## Final Share Reminder
+
+Some environmental messages may include AI-generated or AI-edited images, voices, videos, comments, maps, charts, summaries, or screenshots. That does not automatically make them false, but it does mean we should check carefully before trusting, sharing, or acting on them.
+
+Learners can ask:
+
+- Who made this?
+- Where did it come from?
+- Does another trusted source say something similar?
+- What evidence or data supports it?
+- What might be missing?
+
+## Ways to Help
+
+Young learners can help in many ways without taking on adult public roles.
+
+- Learn and observe
+- Share information
+- Improve a routine
+- Reduce waste
+- Save water or energy
+- Restore or protect habitat with permission
+- Help with cleanup safely
+- Design a tool, sign, map, or reminder
+- Ask a trusted adult or community helper
+- Suggest a fair solution
 
 ## Celebrate Completion
 

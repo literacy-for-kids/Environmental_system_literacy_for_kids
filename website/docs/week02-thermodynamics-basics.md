@@ -27,7 +27,7 @@ Energy does not disappear; it changes into motion, light, sound, heat, or stored
 :::info Grown-up Note
 - Keep the main path concrete: warm hands, stretched rubber band, flashlight, and bean piles.
 - Save the formal law names for the Older Learner box.
-- Sessions are designed for about 20-30 minutes. Use the Short Path when you only have 15-20 minutes.
+- Sessions are designed for about 20 minutes. Use the Short Path when you only have 15-20 minutes. Extra Challenge options can stretch closer to 25-30 minutes.
 
 **Common Kid Misconceptions**
 - Misconception: "Lost energy is gone forever." Response: "Usually it spread out as heat, so it is harder to use, but it was not destroyed."
@@ -39,7 +39,7 @@ Energy does not disappear; it changes into motion, light, sound, heat, or stored
 
 | | |
 |---|---|
-| Session length | About 20-30 minutes |
+| Session length | About 20 minutes |
 | Prep time | About 10 minutes |
 | Materials | Rubber band, flashlight or phone light, dry beans or counters, paper, pencil, Systems Log |
 | Safety | Do not shine bright lights into eyes; do not snap a rubber band at people |
@@ -111,7 +111,7 @@ Success looks like: the child can explain that energy changes form and often spr
 
 ## Guided Session 2: Why Food Chains Get Smaller
 
-**Time:** 20-30 minutes
+**Time:** 20-25 minutes
 
 **Materials:** 25-40 dry beans or counters, paper, pencil
 
@@ -162,6 +162,29 @@ Helpful prompts for this week:
 - What moved: "Energy moved from..."
 - Where it went: "Some energy became..."
 - My drawing: a shrinking food chain
+
+## Systems Thinking Move
+
+An environmental system is made of connected parts. Energy moves through the system, and some of it spreads out as heat at each step.
+
+- What parts are in this system?
+- What moves through the system?
+- What causes what?
+- What happens next?
+
+Simple examples:
+
+- sun -> plant -> insect -> bird
+- battery -> light + warmth
+
+## Environmental Data Check
+
+Use simple counts, bean piles, or food-chain drawings to ask:
+
+- What does this model measure?
+- What pattern do I notice as the piles get smaller?
+- What might this model not show about a real ecosystem?
+- What should I check before using a number as evidence?
 
 ## Engineer Corner
 
