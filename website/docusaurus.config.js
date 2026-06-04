@@ -18,7 +18,7 @@ const config = {
   organizationName: 'literacy-for-kids',
   projectName: 'Environmental_system_literacy_for_kids',
   deploymentBranch: 'gh-pages',
-  trailingSlash: false,
+  trailingSlash: true,
 
   onBrokenLinks: 'throw',
   markdown: {
