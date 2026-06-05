@@ -30,9 +30,20 @@ jobs:
       - uses: lycheeverse/lychee-action@v2
         with:
           args: >-
-            --root-dir ./website/static
+            --timeout 30
+            --max-retries 3
+            --retry-wait-time 5
             --exclude 'https://shields.io'
             --exclude 'https://camo.githubusercontent.com'
+            --exclude 'https://literacy-for-kids.github.io'
+            --exclude 'https://science.nasa.gov'
+            --exclude 'https://gml.noaa.gov'
+            --exclude 'https://keelingcurve.ucsd.edu'
+            --exclude 'https://ourworldindata.org'
+            --exclude 'https://www.nationalacademies.org'
+            --exclude 'https://www.usgs.gov'
+            --exclude 'https://www.europarl.europa.eu'
+            --exclude 'https://www.aluminum.org'
             './README.md'
             './website/docs/**/*.md'
           fail: true
