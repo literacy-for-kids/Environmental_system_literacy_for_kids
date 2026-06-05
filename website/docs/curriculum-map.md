@@ -1,0 +1,30 @@
+---
+id: curriculum-map
+title: Curriculum Map
+sidebar_label: Curriculum Map
+---
+
+# Curriculum Map -- Environmental Systems Literacy
+
+| Week | Lesson | Core Question | Primary Skill | Key Vocabulary | Check for Understanding | Extension |
+|---|---|---|---|---|---|---|
+| 1 | Sunlight Detective | How does sunlight power Earth's systems? | Energy tracing | solar energy, radiation, photosynthesis, atmosphere | Name three things that would not exist without sunlight | Trace sunlight to one meal you ate today |
+| 2 | Energy Changes Form | What happens to energy as it moves through systems? | Energy conversion analysis | energy, conversion, heat, thermodynamics, efficiency | Describe two forms energy takes in your home | Track energy transformations from a light switch to a lit bulb |
+| 3 | Build a Tiny World in a Jar | How do closed systems recycle matter? | Closed-loop observation | closed system, cycle, terrarium, balance | What is being recycled inside your terrarium? | Record what you observe in your terrarium over two weeks |
+| 4 | The Adventure of a Water Drop | How does the planet move water? | Water cycle tracing | water cycle, evaporation, condensation, groundwater | Trace one water drop through all its journey stages | Find where your local tap water comes from |
+| 5 | Carbon the Shape-Shifter | How does carbon move through living systems? | Carbon cycle analysis | carbon, carbon cycle, atmosphere, fossil fuel, photosynthesis | Name four places carbon is stored on Earth | Trace the carbon in one breath you just exhaled backward through history |
+| 6 | The Locked Food Plants Can't Open | Why do plants need bacteria to use nitrogen? | Nitrogen cycle analysis | nitrogen, nitrogen cycle, bacteria, soil, fertilizer | Why can't plants use nitrogen directly from the air? | Find a product that uses synthetic nitrogen and research how it is made |
+| 7 | There Is No Away | Where does a product actually go when you throw it away? | Product lifecycle tracing | lifecycle, waste, decomposition, recycling, landfill | Trace one piece of trash from your bin to its final destination | Research where your city's recycling actually goes |
+| 8 | How Much Is Too Much? | What happens when a system is overloaded? | Carrying capacity analysis | carrying capacity, overshoot, degradation, limit | Describe what "overshoot" means using a real example | Find a real ecosystem that has experienced overshoot |
+| 9 | Why Numbers Go Up and Down | What keeps population numbers in balance? | Population dynamics analysis | population, predator, prey, balance, dynamics | Explain why removing a predator can cause unexpected problems | Research one invasive species and how it disrupted local population dynamics |
+| 10 | The Shared Fish Pond Game | What happens to shared resources without rules? | Resource game and analysis | commons, overuse, rules, quota, sustainability | What happened in the game when there were no rules? With rules? | Research one real fishery that was managed successfully vs. one that collapsed |
+| 11 | Straight-Line Systems and Loop Systems | What is the difference between a linear and a circular system? | Linear vs. circular analysis | linear system, circular system, input, output, return path | Where in your home can you find linear systems and circular systems? | Find one industrial process and identify where its return path is missing |
+| 12 | Can This Go Back Into a Loop? | How do materials differ in how easily they can be recycled? | Material cycle analysis | recyclable, compostable, downcycling, upcycling, loop | Sort five objects by how easily they return to a useful cycle | Research what the recycling symbol numbers mean for plastics |
+| 13 | Fix-It Detective | How can you tell whether a product was designed to be repaired? | Repairability analysis | repairability, modular design, planned obsolescence, right to repair | What design features make something repairable? | Find one product you own and assess whether it was designed to be repaired |
+| 14 | One Small Loop Challenge | How do I turn one linear process into a circular one? | Circular redesign | circular design, redesign, loop, closed cycle | Describe one specific change that would close a loop in your chosen process | Research one company that redesigned a product to be more circular |
+| 15 | Turn Your Idea Into a Plan | How do I turn a redesign idea into something real? | Proposal planning | proposal, feasibility, stakeholder, impact | What resources does your plan need? Who does it affect? | Research one similar redesign that was successfully implemented |
+| 16 | Make the Plan Real | What specifically needs to happen for this plan to work? | Implementation planning | who, how much, how often, success metric | What would success look like for your plan? How would you measure it? | Find a grant or program that funds community environmental projects |
+| 17 | Test Your Plan Like a Friendly Troublemaker | What could go wrong with my plan, and how would I handle it? | Stress testing | failure mode, contingency, amendment, resilience | What is the most likely thing that could go wrong? What is your plan B? | Get feedback on your plan from someone outside your class |
+| 18 | Share Your Plan With Someone Real | How do I communicate my redesign to a real audience? | Community presentation | pitch, audience, evidence, revision | What feedback did your real audience give you? | Submit your proposal to a real local organization or program |
+| Opt. 1 | Growing Loops and Tipping Points | How do amplifying loops lead to tipping points? | Feedback loop analysis | amplifying loop, balancing loop, tipping point, threshold | Describe one real-world amplifying feedback loop | Research one tipping point that scientists are monitoring |
+| Opt. 2 | Big Planet Tools as Patches | What are geoengineering options and what are their risks? | Geoengineering tradeoff analysis | geoengineering, tradeoff, unintended consequence, scale | What is one risk of a large-scale planetary intervention? | Research one specific geoengineering proposal and its critics |
