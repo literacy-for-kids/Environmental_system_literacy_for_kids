@@ -35,6 +35,10 @@ A system can handle only so much before it starts to get damaged.
 - Misconception: "One more won't matter." Response: "Sometimes a system looks fine until it crosses a threshold."
 :::
 
+:::tip Coping Skill Moment
+Thinking about limits — how much a system can handle — can make a problem feel huge. Big system problems can make your brain say, *"I have to fix everything."* Try asking instead: *"What is one useful action I can take or learn about today?"* (More on the [Coping Skills for Big System Problems](./coping-skills.md) page.)
+:::
+
 ## Week at a Glance
 
 | | |

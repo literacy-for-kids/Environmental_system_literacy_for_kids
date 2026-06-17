@@ -12,6 +12,8 @@ slug: /intro
 
 This course helps children ask good engineering questions about the world around them. Where did this come from? What is moving? Where does it go next? Is it part of a loop, or does it get stuck somewhere?
 
+Big environmental problems can also feel overwhelming. The short [Coping Skills for Big System Problems](./coping-skills.md) page introduces simple tools for settling that overwhelm and turning worry into one useful action.
+
 The main voice of the course speaks to ages 8-12. The technical words are still here, but they come after the concrete idea, not before it. Adults get quick notes, misconceptions to watch for, and optional depth boxes for older learners.
 
 :::tip Start Here

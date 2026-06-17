@@ -10,6 +10,7 @@ const currentSiteHref = 'https://literacy-for-kids.github.io/Environmental_syste
 const sidebars = {
   curriculumSidebar: [
     'intro',
+    'coping-skills',
     {
       type: 'category',
       label: 'The Planetary Engine',

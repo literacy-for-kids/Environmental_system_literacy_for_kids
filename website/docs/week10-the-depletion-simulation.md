@@ -43,6 +43,10 @@ In a shared system, the rules can decide whether the pool grows back or gets use
 4. Let the pond grow back by a small set rule, such as adding back half the fish left, rounded down, or a fixed number chosen ahead of time.
 5. Play several rounds and watch what happens.
 
+:::tip Coping Skill Moment
+Watching a resource run out — even in a simulation — can feel heavy or hopeless. When that happens, sort your thoughts with the circle of control: *What can I control, what can I influence, and what can I only care about?* Putting your attention on the parts you can act on turns helplessness into a next step. (More on the [Coping Skills for Big System Problems](./coping-skills.md) page.)
+:::
+
 ## Week at a Glance
 
 | | |

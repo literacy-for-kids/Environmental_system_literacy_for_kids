@@ -35,6 +35,10 @@ Throwing something away only moves it somewhere else.
 - Misconception: "The bottle is bad." Response: "The object is a clue. We are studying the path it travels."
 :::
 
+:::tip Coping Skill Moment
+Tracking where waste really goes can feel discouraging — there's so much of it. Instead of *"I have to fix all of this,"* try: *"What is one useful action I can take or learn about today?"* One small change you actually do beats a giant change you only worry about. (More on the [Coping Skills for Big System Problems](./coping-skills.md) page.)
+:::
+
 ## Week at a Glance
 
 | | |

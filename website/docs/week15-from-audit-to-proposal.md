@@ -36,6 +36,10 @@ An idea becomes stronger when you turn it into a clear plan with real steps.
 - Misconception: "A plan is just the same as a wish." Response: "A plan says who helps, what changes, and what is needed."
 :::
 
+:::tip Coping Skill Moment
+Turning a big problem into a proposal is exactly the move that beats helplessness: you pick one piece and design a real next step. If the size of the problem feels paralyzing, take a body reset — a breath, some movement — then come back and choose the one part you can actually work on. (More on the [Coping Skills for Big System Problems](./coping-skills.md) page.)
+:::
+
 ## Week at a Glance
 
 | | |

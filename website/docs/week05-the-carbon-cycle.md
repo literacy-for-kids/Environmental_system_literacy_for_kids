@@ -35,6 +35,10 @@ Carbon is a building block that keeps moving through living things, the air, and
 - Misconception: "All burning is exactly the same." Response: "Timescale matters. Recently grown material and fossil carbon are not on the same timeline."
 :::
 
+:::tip Coping Skill Moment
+Learning about climate and the carbon cycle can stir up real worry. If it does, pause and ground yourself — feet on the floor, name three true things. Worry usually means you care. Once you feel steadier, you can think clearly about how the system works. (More on the [Coping Skills for Big System Problems](./coping-skills.md) page.)
+:::
+
 ## Week at a Glance
 
 | | |
