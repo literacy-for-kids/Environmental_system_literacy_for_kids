@@ -22,6 +22,16 @@ Coping skills here do something specific: they help you settle the overwhelm and
 
 A helpful map is the **circle of control, influence, and concern**: some things you can control directly, some you can influence, and some you can only care about. Coping with overwhelm often means gently moving your attention toward the parts you *can* act on.
 
+## When this shows up
+
+These tools come in handy in everyday systems-thinking moments:
+
+- When climate or pollution information feels overwhelming
+- When a problem feels too big for one person
+- When you feel guilty or helpless about it
+- When a redesign project feels stuck
+- When you need to choose just one useful action
+
 ## Tools that help with big problems
 
 - **Grounding after big, scary information** — feet on the floor, name three true things.
