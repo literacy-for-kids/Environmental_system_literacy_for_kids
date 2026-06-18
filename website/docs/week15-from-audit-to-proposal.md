@@ -40,6 +40,10 @@ An idea becomes stronger when you turn it into a clear plan with real steps.
 Turning a big problem into a proposal is exactly the move that beats helplessness: you pick one piece and design a real next step. If the size of the problem feels paralyzing, take a body reset — a breath, some movement — then come back and choose the one part you can actually work on. (More on the [Coping Skills for Big System Problems](./coping-skills.md) page.)
 :::
 
+:::tip Communication Moment
+A proposal only works if people understand it. Lay it out clearly: "Here's the problem, here's my one change, and here's what it would improve." A plan explained in simple, ordered words is one people can actually support. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 ## Week at a Glance
 
 | | |

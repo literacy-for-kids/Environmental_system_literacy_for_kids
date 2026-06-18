@@ -18,6 +18,10 @@ This week the game does the teaching. Children use tokens as fish in a shared po
 
 In a shared system, the rules can decide whether the pool grows back or gets used up.
 
+:::tip Communication Moment
+After each round, explaining *what changed* helps the whole group learn: "Last round there were ___, now there are ___, because ___." Describing the change in clear, ordered words turns a confusing collapse into a pattern everyone can see and talk about. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 ## You'll Discover
 
 - how a shared resource can shrink or recover

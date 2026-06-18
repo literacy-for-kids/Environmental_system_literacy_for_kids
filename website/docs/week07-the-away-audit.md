@@ -39,6 +39,10 @@ Throwing something away only moves it somewhere else.
 Tracking where waste really goes can feel discouraging — there's so much of it. Instead of *"I have to fix all of this,"* try: *"What is one useful action I can take or learn about today?"* One small change you actually do beats a giant change you only worry about. (More on the [Coping Skills for Big System Problems](./coping-skills.md) page.)
 :::
 
+:::tip Communication Moment
+An "away audit" is really one question asked over and over: "Where does this actually go?" Asking clearly — of yourself, a label, or an adult — is how you trace a system. A good question turns a vague "away" into a real place you can see. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 ## Week at a Glance
 
 | | |

@@ -18,6 +18,10 @@ The capstone ends with a real audience, but it does not need to feel like a high
 
 You can share a real plan in a clear, specific, honest voice.
 
+:::tip Communication Moment
+A pitch is a two-way conversation, so invite feedback: "What's one thing that works, and one thing I could make clearer?" Feedback is information for version 2.0, not a grade on you — and asking for it shows your listener you actually want to improve the plan. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 ## You'll Discover
 
 - how to choose a presentation format that fits you

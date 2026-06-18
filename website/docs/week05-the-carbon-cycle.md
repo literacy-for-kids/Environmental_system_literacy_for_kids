@@ -39,6 +39,10 @@ Carbon is a building block that keeps moving through living things, the air, and
 Learning about climate and the carbon cycle can stir up real worry. If it does, pause and ground yourself — feet on the floor, name three true things. Worry usually means you care. Once you feel steadier, you can think clearly about how the system works. (More on the [Coping Skills for Big System Problems](./coping-skills.md) page.)
 :::
 
+:::tip Communication Moment
+The carbon cycle is easier to share when you explain one loop at a time: "Carbon goes here, then this happens, then it ends up there." Walking someone through a loop step by step turns a giant idea into something they can actually follow. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 ## Week at a Glance
 
 | | |
