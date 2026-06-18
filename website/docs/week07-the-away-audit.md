@@ -43,9 +43,6 @@ Tracking where waste really goes can feel discouraging — there's so much of it
 An "away audit" is really one question asked over and over: "Where does this actually go?" Asking clearly — of yourself, a label, or an adult — is how you trace a system. A good question turns a vague "away" into a real place you can see. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
-:::tip Problem Solving Moment
-An audit is the "what do I know?" step. Follow one item: where does it actually go after "away"? Facts about one loop beat guesses about the whole system. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
-:::
 
 ## Week at a Glance
 
@@ -100,6 +97,10 @@ Success looks like: the child can explain that an object has a before path and a
 ## Guided Session 1: Map One Object's Journey
 
 **Time:** 20-25 minutes
+
+:::tip Problem Solving Moment
+An audit is the "what do I know?" step. Follow one item: where does it actually go after "away"? Facts about one loop beat guesses about the whole system. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
 
 **Materials:** one clean bottle, cereal box, old paper, cardboard box, or banana peel; paper; markers
 
