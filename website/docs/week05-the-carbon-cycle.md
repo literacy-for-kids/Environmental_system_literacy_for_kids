@@ -43,6 +43,10 @@ Learning about climate and the carbon cycle can stir up real worry. If it does, 
 The carbon cycle is easier to share when you explain one loop at a time: "Carbon goes here, then this happens, then it ends up there." Walking someone through a loop step by step turns a giant idea into something they can actually follow. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
+:::tip Problem Solving Moment
+A big system becomes easier when you choose one loop: "This goes here, then this happens, then this changes." One loop gives you a place to start. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
+
 ## Week at a Glance
 
 | | |

@@ -44,6 +44,10 @@ Turning a big problem into a proposal is exactly the move that beats helplessnes
 A proposal only works if people understand it. Lay it out clearly: "Here's the problem, here's my one change, and here's what it would improve." A plan explained in simple, ordered words is one people can actually support. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
+:::tip Problem Solving Moment
+Before writing a proposal, name the problem clearly: "The part of this system that isn't working is ___." A clear problem makes a stronger, more focused proposal. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
+
 ## Week at a Glance
 
 | | |

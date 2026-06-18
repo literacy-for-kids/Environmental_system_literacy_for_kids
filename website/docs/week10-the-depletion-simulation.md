@@ -22,6 +22,10 @@ In a shared system, the rules can decide whether the pool grows back or gets use
 After each round, explaining *what changed* helps the whole group learn: "Last round there were ___, now there are ___, because ___." Describing the change in clear, ordered words turns a confusing collapse into a pattern everyone can see and talk about. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
+:::tip Problem Solving Moment
+After running the simulation, observe carefully: what changed, what stayed the same, what surprised you? Results are information for the next design, even when the outcome wasn't what you hoped. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
+
 ## You'll Discover
 
 - how a shared resource can shrink or recover
