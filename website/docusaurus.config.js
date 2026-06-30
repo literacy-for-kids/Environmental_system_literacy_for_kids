@@ -12,8 +12,8 @@ const config = {
   tagline: 'A free, open 18-week curriculum that teaches ages 8–12 how planetary systems work and where human infrastructure fits into them',
   favicon: 'img/favicon.ico',
 
-  url: 'https://literacy-for-kids.github.io',
-  baseUrl: '/Environmental_system_literacy_for_kids/',
+  url: 'https://environmental.literacy-for-kids.com',
+  baseUrl: '/',
 
   organizationName: 'literacy-for-kids',
   projectName: 'Environmental_system_literacy_for_kids',

@@ -10,7 +10,7 @@ slug: /communication-skills
 
 This curriculum is about big systems — water, carbon, energy, waste, and the way they loop together. Big systems are hard to *see*, which makes them hard to talk about. Being able to explain a system clearly, ask good questions, and present an idea is what turns "this is overwhelming" into "here's something we can do."
 
-This page is the local doorway into the Literacy for Kids [Communication Toolkit](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/communication), connected to the systems thinking this curriculum builds.
+This page is the local doorway into the Literacy for Kids [Communication Toolkit](https://www.literacy-for-kids.com/docs/toolkits/communication), connected to the systems thinking this curriculum builds.
 
 ## A few core ideas
 
@@ -47,4 +47,4 @@ These are everyday communication and self-management tools, not therapy or medic
 
 The full toolkit has short lessons on active listening, clarifying questions, explaining your thinking, disagreeing without attacking, asking for help, using feedback, and repairing misunderstandings:
 
-- [Communication Toolkit (hub)](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/communication)
+- [Communication Toolkit (hub)](https://www.literacy-for-kids.com/docs/toolkits/communication)

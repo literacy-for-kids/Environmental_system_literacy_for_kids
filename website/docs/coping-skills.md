@@ -10,7 +10,7 @@ slug: /coping-skills
 
 This curriculum is about tracing how Earth's systems work and imagining how to redesign better ones. Looking honestly at big problems — climate, pollution, waste, vanishing resources — can bring up **big feelings**: worry, sadness, and sometimes the heavy sense that it's all too much to fix.
 
-This page is the local doorway into the Literacy for Kids [Coping Skills Toolkit](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/coping-skills), connected to the systems thinking this curriculum builds.
+This page is the local doorway into the Literacy for Kids [Coping Skills Toolkit](https://www.literacy-for-kids.com/docs/toolkits/coping-skills), connected to the systems thinking this curriculum builds.
 
 ## Big problems can feel overwhelming
 
@@ -52,4 +52,4 @@ These are everyday coping and self-management tools, not therapy or medical advi
 
 The full toolkit has short lessons on noticing signals, pausing, grounding, breathing, body resets, checking your thoughts, asking for help, and building a personal coping menu:
 
-- [Coping Skills Toolkit (hub)](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/coping-skills)
+- [Coping Skills Toolkit (hub)](https://www.literacy-for-kids.com/docs/toolkits/coping-skills)
