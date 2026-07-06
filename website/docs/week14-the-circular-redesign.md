@@ -92,6 +92,12 @@ Success looks like: the child can draw a current path and a better loop for one 
 
 ## Guided Session 1: Draw the Current Path
 
+:::tip Information Organization Moment
+Before redesigning, organize what you know as a cause-and-effect map: this material comes from ___, becomes ___, and ends up ___. Seeing the current path clearly is what makes a better loop possible.
+(More on the [Information Organization Skills](./information-organization.md) page.)
+:::
+
+
 **Time:** 20-25 minutes
 
 **Materials:** paper, pencil, markers
@@ -194,6 +200,12 @@ Learner questions:
 - What part of the system could we change safely?
 
 ## Environmental Checkpoint
+
+:::tip Learning Moment
+A mistake in a redesign shows what to revise, not that you failed. Fix one part of the model at a time, check what changed, and revisit the next part later.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 
 Before choosing a project, learners can ask:
 

@@ -117,6 +117,12 @@ Use this simple table:
 
 ## Guided Session 2: Who Is Affected?
 
+:::tip Collaboration Moment
+Refining a proposal with others means disagreeing without attacking. Try: "My concern is ___ because our goal is ___." Concerns aimed at the proposal make it stronger; concerns aimed at people make the group weaker.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
+
 **Time:** 20-25 minutes
 
 **Materials:** paper, markers, Systems Log
@@ -168,6 +174,12 @@ Helpful prompts for this week:
 - My drawing: plan plus warnings
 
 ## Environmental Checkpoint
+
+:::tip Executive Function Moment
+Refining can go forever without a done-enough check. Ask: what was the purpose, what parts matter most, and what can wait? Then build a clear Version 2 instead of chasing perfect.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
 
 This week is a good time to pause before presenting.
 

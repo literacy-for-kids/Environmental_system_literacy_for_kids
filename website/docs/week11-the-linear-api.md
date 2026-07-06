@@ -114,6 +114,12 @@ Success looks like: the child can explain the difference between a loop system a
 
 ## Guided Session 2: Find Shapes Around You
 
+:::tip Collaboration Moment
+A production chain is collaboration at giant scale: miners, makers, movers, and sellers each doing a visible job. When your group hunts for linear shapes, borrow the move — split the searching into roles and combine what each person finds.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
+
 **Time:** 20-25 minutes
 
 **Materials:** paper, pencil, Systems Log

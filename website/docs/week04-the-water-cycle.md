@@ -192,6 +192,12 @@ graph LR
 
 ## Environmental Data Check
 
+:::tip Executive Function Moment
+A big cycle is easier to handle one loop at a time. Pick one part of the water cycle to focus on first, instead of trying to hold the whole system at once.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
+
 This week can stay simple and still build data habits.
 
 - What does this model or map show?

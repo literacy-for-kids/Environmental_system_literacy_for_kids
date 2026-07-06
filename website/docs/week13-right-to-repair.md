@@ -174,6 +174,12 @@ Learner questions:
 
 ## Environmental Checkpoint
 
+:::tip Executive Function Moment
+A big systems project needs a restart point. Before stopping, write: "I stopped at ___, and the next step is ___." That bookmark helps future-you return to the same loop instead of starting over.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
+
 Repair claims, product labels, and ads can all be checked carefully.
 
 - Who made this claim?

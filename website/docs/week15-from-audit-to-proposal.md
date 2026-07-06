@@ -40,10 +40,6 @@ An idea becomes stronger when you turn it into a clear plan with real steps.
 Turning a big problem into a proposal is exactly the move that beats helplessness: you pick one piece and design a real next step. If the size of the problem feels paralyzing, take a body reset — a breath, some movement — then come back and choose the one part you can actually work on. (More on the [Coping Skills for Big System Problems](./coping-skills.md) page.)
 :::
 
-:::tip Communication Moment
-A proposal only works if people understand it. Lay it out clearly: "Here's the problem, here's my one change, and here's what it would improve." A plan explained in simple, ordered words is one people can actually support. (More on the [Communication Skills](./communication-skills.md) page.)
-:::
-
 
 ## Week at a Glance
 
@@ -128,6 +124,10 @@ Before writing a proposal, name the problem clearly: "The part of this system th
 
 ## Guided Session 2: Build the Plan Card
 
+:::tip Communication Moment
+A proposal only works if people understand it. Lay it out clearly: "Here's the problem, here's my one change, and here's what it would improve." A plan explained in simple, ordered words is one people can actually support. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 **Time:** 20-25 minutes
 
 **Materials:** paper, markers, Systems Log
@@ -199,6 +199,12 @@ Learner questions:
 - What part of the system could we change safely?
 
 ## Environmental Checkpoint
+
+:::tip Learning Moment
+Feedback improves a proposal. Ask for one specific change: "Which part of the plan was unclear?" Then build a stronger Version 2 instead of trying to make Version 1 perfect.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 
 Before turning an idea into a plan, learners can ask:
 

@@ -39,10 +39,6 @@ Throwing something away only moves it somewhere else.
 Tracking where waste really goes can feel discouraging — there's so much of it. Instead of *"I have to fix all of this,"* try: *"What is one useful action I can take or learn about today?"* One small change you actually do beats a giant change you only worry about. (More on the [Coping Skills for Big System Problems](./coping-skills.md) page.)
 :::
 
-:::tip Communication Moment
-An "away audit" is really one question asked over and over: "Where does this actually go?" Asking clearly — of yourself, a label, or an adult — is how you trace a system. A good question turns a vague "away" into a real place you can see. (More on the [Communication Skills](./communication-skills.md) page.)
-:::
-
 
 ## Week at a Glance
 
@@ -137,6 +133,10 @@ Simple example:
 
 ## Guided Session 2: Sort the Next Place
 
+:::tip Communication Moment
+An "away audit" is really one question asked over and over: "Where does this actually go?" Asking clearly — of yourself, a label, or an adult — is how you trace a system. A good question turns a vague "away" into a real place you can see. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 **Time:** 20-25 minutes
 
 **Materials:** 3-5 clean objects, paper labeled trash, recycling, compost, reuse
@@ -208,6 +208,12 @@ graph LR
 ```
 
 ## Environmental Data Check
+
+:::tip Learning Moment
+Teaching a path back helps it stick: "When I throw this away, it goes to ___, and then ___." The step where your explanation gets stuck is the part to look at again.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 
 - What does this object map or sorting result show?
 - Where did this information come from?

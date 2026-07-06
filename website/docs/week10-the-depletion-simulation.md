@@ -22,10 +22,6 @@ In a shared system, the rules can decide whether the pool grows back or gets use
 After each round, explaining *what changed* helps the whole group learn: "Last round there were ___, now there are ___, because ___." Describing the change in clear, ordered words turns a confusing collapse into a pattern everyone can see and talk about. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
-:::tip Problem Solving Moment
-After running the simulation, observe carefully: what changed, what stayed the same, what surprised you? Results are information for the next design, even when the outcome wasn't what you hoped. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
-:::
-
 ## You'll Discover
 
 - how a shared resource can shrink or recover
@@ -96,6 +92,10 @@ Success looks like: the child can explain why the fish pool stayed healthy or go
 "Today we are going to share a fish pond. The pond can grow back, but only if enough fish remain. You are not trying to be a hero or a villain. You are trying to notice what the rules make likely."
 
 ## Guided Session 1: Talking Round
+
+:::tip Problem Solving Moment
+After running the simulation, observe carefully: what changed, what stayed the same, what surprised you? Results are information for the next design, even when the outcome wasn't what you hoped. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
 
 **Time:** 20-25 minutes
 
@@ -202,6 +202,12 @@ Learner questions:
 - What part of the system could we change safely?
 
 ## Environmental Data Check
+
+:::tip Learning Moment
+A model's result is feedback, not a grade. Ask: "What did this run teach me, and what should the next version change?" Learning from a model happens when you revise and run it again.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 
 - What does this tracker measure?
 - Who collected the numbers?

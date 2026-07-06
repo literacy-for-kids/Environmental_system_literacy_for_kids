@@ -22,10 +22,6 @@ You can share a real plan in a clear, specific, honest voice.
 A pitch is a two-way conversation, so invite feedback: "What's one thing that works, and one thing I could make clearer?" Feedback is information for version 2.0, not a grade on you — and asking for it shows your listener you actually want to improve the plan. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
-:::tip Problem Solving Moment
-A pitch is a Version 1. Get feedback, observe what confused people, and revise. Adjusting after feedback is part of solving, not a sign you got it wrong. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
-:::
-
 ## You'll Discover
 
 - how to choose a presentation format that fits you
@@ -99,6 +95,10 @@ Choose one:
 
 ## Guided Session 1: Practice Once
 
+:::tip Problem Solving Moment
+A pitch is a Version 1. Get feedback, observe what confused people, and revise. Adjusting after feedback is part of solving, not a sign you got it wrong. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
+
 **Time:** 20-25 minutes
 
 **Materials:** plan card, note card, optional drawing or poster
@@ -135,6 +135,12 @@ For younger learners, a 2-minute structure is enough:
 **What success looks like:** The child has a short, clear practice version ready.
 
 ## Guided Session 2: Share and Respond
+
+:::tip Learning Moment
+A first model or proposal does not have to be perfect. Use feedback to make Version 2 clearer: "What part of the system did people understand, and what part needs a better explanation?"
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 
 **Time:** 20-25 minutes
 

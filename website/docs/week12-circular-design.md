@@ -116,6 +116,12 @@ Success looks like: the child can explain why different materials need different
 
 ## Guided Session 2: Redesign One Hard-to-Loop Item
 
+:::tip Collaboration Moment
+A group redesign needs check-ins. Partway through, ask: "What is done, what is stuck, and what help is needed?" Catching a stuck part early keeps the whole redesign moving.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
+
 **Time:** 20-25 minutes
 
 **Materials:** paper, markers, Systems Log
@@ -183,6 +189,12 @@ Simple examples:
 - litter -> storm drain -> waterway -> habitat
 
 ## Environmental Checkpoint
+
+:::tip Executive Function Moment
+A redesign is easier when it is broken into next steps with owners. Write what changes, who does it, and by when, so a big idea becomes doable work.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
 
 When a package, product label, or recycling message makes a claim, learners can ask:
 

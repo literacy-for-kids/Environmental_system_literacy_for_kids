@@ -91,6 +91,12 @@ Success looks like: the child can explain that the terrarium keeps reusing water
 
 ## Guided Session 1: Build the Jar
 
+:::tip Collaboration Moment
+Building an experiment together works better with visible roles. One person can layer materials, one can record the setup, one can ask questions, and one can check the plan. Shared roles keep the jar from becoming one person's project.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
+
 **Time:** 20-25 minutes
 
 **Materials:** jar, rocks, charcoal if available, soil, plants or moss, spoon, spray bottle

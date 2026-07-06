@@ -113,6 +113,12 @@ Success looks like: the child can explain that bacteria help unlock nitrogen for
 
 ## Guided Session 2: When Too Much Plant Food Reaches Water
 
+:::tip Information Organization Moment
+The nitrogen cycle is a loop, so draw it as one: boxes for the stops, arrows for the moves. A loop diagram holds the whole cycle on one page — which is exactly what a paragraph cannot do.
+(More on the [Information Organization Skills](./information-organization.md) page.)
+:::
+
+
 **Time:** 20-25 minutes
 
 **Materials:** paper, markers, simple pond drawing

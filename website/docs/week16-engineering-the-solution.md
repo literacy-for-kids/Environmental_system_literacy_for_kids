@@ -120,6 +120,12 @@ How will we know it worked?
 
 ## Guided Session 2: Smallest Version That Works
 
+:::tip Information Organization Moment
+A proposal is only as strong as its organized evidence. Keep each claim next to its source and observation — a proposal row with an empty evidence box shows exactly what to collect next.
+(More on the [Information Organization Skills](./information-organization.md) page.)
+:::
+
+
 **Time:** 20-25 minutes
 
 **Materials:** plan card, markers, Systems Log
@@ -171,6 +177,12 @@ Helpful prompts for this week:
 - My drawing: labeled Plan Card
 
 ## Environmental Data Check
+
+:::tip Executive Function Moment
+A solution project needs visible roles and next steps. Before building, write who is doing what, and by when, so the work does not stall.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
 
 - What does this success check actually measure?
 - Who will collect the information?

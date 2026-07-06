@@ -108,6 +108,12 @@ Success looks like: the child can match a curve shape to a story about what the 
 
 ## Guided Session 2: Rabbits and Wolves
 
+:::tip Information Organization Moment
+Simulation results are data, and data needs a home. A simple table — round, rabbits, wolves — turns a pile of numbers into a pattern you can actually see rise and fall.
+(More on the [Information Organization Skills](./information-organization.md) page.)
+:::
+
+
 **Time:** 20-25 minutes
 
 **Materials:** paper, markers, Systems Log
@@ -171,6 +177,12 @@ Learner questions:
 - What feedback loop might make the change stronger or weaker?
 
 ## Environmental Data Check
+
+:::tip Executive Function Moment
+Before a simulation, use a quick materials-and-setup checklist. Gathering what you need first means fewer interruptions once you start.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
 
 - What do these lines or counters measure?
 - When does one line change first?
