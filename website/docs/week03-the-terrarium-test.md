@@ -81,6 +81,12 @@ Success looks like: the child can explain that the terrarium keeps reusing water
 
 ![Labeled cross-section of a jar terrarium: rocks, then charcoal, then soil, then plants, with mist and a lid on top and indirect light — water cycles inside the closed jar](/img/diagrams/terrarium-cutaway.svg)
 
+And here is a real, working bottle garden — look closely at the leaves and you can see water droplets. That is the tiny water cycle already running!
+
+![A real closed bottle garden seen from above: green plants growing inside a sealed glass bottle, with condensation droplets visible on the leaves](/img/photos/bottle-garden.jpg)
+
+*Photo: Anne-Lise Heinrichs, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bottle_garden.jpg)*
+
 ## What Each Layer Does
 
 - **Rocks:** a tiny basement where extra water can collect
