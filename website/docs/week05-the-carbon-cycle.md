@@ -65,6 +65,8 @@ Learning about climate and the carbon cycle can stir up real worry. If it does, 
 
 - Find five everyday things that contain carbon.
 - Act out one carbon path: `air -> leaf -> apple -> person -> breath -> air`.
+
+![A simple carbon cycle loop: carbon in the air enters a leaf, becomes part of an apple, a person eats the apple, and breathing returns the carbon to the air](/img/diagrams/carbon-cycle.svg)
 - Draw one fast carbon loop and one slow underground storage path.
 - Add one Systems Log entry with a question.
 

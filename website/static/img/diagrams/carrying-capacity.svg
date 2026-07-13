@@ -1,0 +1,30 @@
+<svg viewBox="0 0 860 460" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="cpTitle">
+  <title id="cpTitle">Population curve leveling off at carrying capacity: a rabbit population grows quickly at first, then levels off near the dashed line showing how many the meadow can feed</title>
+  <rect x="1" y="1" width="858" height="458" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="430" y="42" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="700" fill="#1e293b">Carrying Capacity: The Meadow Sets a Limit</text>
+  <text x="430" y="66" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" fill="#64748b">Rabbits in a meadow: the population grows fast&#8230; until food and space push back.</text>
+
+  <!-- axes -->
+  <g stroke="#94a3b8" stroke-width="2">
+    <line x1="100" y1="390" x2="800" y2="390"/>
+    <line x1="100" y1="390" x2="100" y2="95"/>
+  </g>
+  <text x="450" y="424" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#64748b">time</text>
+  <text x="58" y="245" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#64748b" transform="rotate(-90 58 245)">number of rabbits</text>
+
+  <!-- carrying capacity line -->
+  <line x1="100" y1="150" x2="800" y2="150" stroke="#dc2626" stroke-width="3" stroke-dasharray="10 8"/>
+  <text x="790" y="135" text-anchor="end" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" font-weight="700" fill="#991b1b">carrying capacity &#8212; how many the meadow can feed</text>
+
+  <!-- S-curve -->
+  <path d="M100,385 C260,380 300,340 380,260 C450,190 520,165 640,157 C700,154 760,153 795,153" fill="none" stroke="#166534" stroke-width="5"/>
+
+  <!-- annotations -->
+  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="13" text-anchor="middle">
+    <text x="240" y="345" fill="#166534" font-weight="700">slow start</text>
+    <text x="415" y="300" fill="#166534" font-weight="700">boom! plenty of food</text>
+    <text x="650" y="200" fill="#166534" font-weight="700">leveling off &#8212; food gets scarce</text>
+  </g>
+
+  <text x="430" y="440" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#64748b">Every habitat has a limit. The curve flattens where the system pushes back.</text>
+</svg>

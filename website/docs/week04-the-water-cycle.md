@@ -79,6 +79,8 @@ Success looks like: the child can describe water moving through several places a
 
 `Ocean or lake -> water vapor -> cloud -> rain or snow -> river or ground -> ocean or lake`
 
+![The water cycle: the sun warms the ocean, water rises as vapor, forms clouds, falls as rain or snow, and flows back to the ocean through rivers and the ground](/img/diagrams/water-cycle.svg)
+
 ## Guided Session 1: Make a Cloud on a Bowl
 
 **Time:** 20-25 minutes

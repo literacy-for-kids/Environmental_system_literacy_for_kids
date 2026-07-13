@@ -81,6 +81,8 @@ Success looks like: the child can explain the difference between a loop system a
 
 **Bottle line:** `oil -> bottle -> use -> trash`
 
+![Loop system versus straight-line system: a leaf cycles from tree to soil and back forever, while a plastic bottle moves from ground to factory to store to use and then gets stuck — the line has no return path](/img/diagrams/loop-vs-line.svg)
+
 ## Guided Session 1: Spot the Shape
 
 **Time:** 20-25 minutes

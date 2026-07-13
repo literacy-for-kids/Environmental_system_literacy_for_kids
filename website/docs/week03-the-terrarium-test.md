@@ -79,6 +79,8 @@ Success looks like: the child can explain that the terrarium keeps reusing water
 
 `Rocks -> charcoal -> soil -> plants -> mist -> lid -> indirect light`
 
+![Labeled cross-section of a jar terrarium: rocks, then charcoal, then soil, then plants, with mist and a lid on top and indirect light — water cycles inside the closed jar](/img/diagrams/terrarium-cutaway.svg)
+
 ## What Each Layer Does
 
 - **Rocks:** a tiny basement where extra water can collect

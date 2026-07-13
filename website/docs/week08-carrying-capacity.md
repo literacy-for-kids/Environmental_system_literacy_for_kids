@@ -199,5 +199,7 @@ Environmental problems and benefits are not always shared equally. Some playgrou
 Older learners and facilitators can keep the formal terms here.
 
 - Carrying capacity is the formal term for how much a system can support over time.
+
+![Population curve leveling off at carrying capacity: a rabbit population grows quickly at first, then levels off near the dashed line showing how many the meadow can feed](/img/diagrams/carrying-capacity.svg)
 - Logistic growth, limiting factors, and Liebig's Law belong here instead of the main kid path.
 - Historical deer or reindeer case studies can be useful stories, but exact numbers are sometimes debated.

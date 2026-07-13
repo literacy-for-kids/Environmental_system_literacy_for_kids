@@ -115,6 +115,8 @@ Simple example:
 
 `ground -> factory -> store -> use -> recycling or trash -> next place`
 
+![The journey of an everyday object: materials from the ground go to a factory, then a store, then get used, then go to recycling or trash — and then to a next place, because away is always somewhere](/img/diagrams/object-journey.svg)
+
 **What to ask:**
 
 - What was this object before it was this object?

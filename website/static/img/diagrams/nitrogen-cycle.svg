@@ -1,0 +1,49 @@
+<svg viewBox="0 0 760 560" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="ncTitle">
+  <title id="ncTitle">A simple nitrogen cycle: nitrogen in the air is captured by soil bacteria, plants take it up from the soil, animals eat the plants, and waste and decay return nitrogen to the soil and air</title>
+  <defs>
+    <marker id="ncA" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#166534"/>
+    </marker>
+  </defs>
+  <rect x="1" y="1" width="758" height="558" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="380" y="40" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="700" fill="#1e293b">The Nitrogen Cycle (kid version)</text>
+  <text x="380" y="64" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#64748b">The air is mostly nitrogen &#8212; but living things need tiny helpers to use it.</text>
+
+  <!-- loop arrows -->
+  <g stroke="#166534" stroke-width="3.5" fill="none">
+    <path d="M455,150 A200,150 0 0 1 565,295" marker-end="url(#ncA)"/>
+    <path d="M555,340 A200,150 0 0 1 450,458" marker-end="url(#ncA)"/>
+    <path d="M310,458 A200,150 0 0 1 205,340" marker-end="url(#ncA)"/>
+    <path d="M195,295 A200,150 0 0 1 305,150" marker-end="url(#ncA)"/>
+  </g>
+
+  <g font-family="'Segoe UI', system-ui, sans-serif" text-anchor="middle">
+    <g transform="translate(380 122)">
+      <ellipse rx="110" ry="42" fill="#e0f2fe" stroke="#0369a1" stroke-width="2.5"/>
+      <text y="-4" font-size="15" font-weight="700" fill="#0369a1">NITROGEN IN THE AIR</text>
+      <text y="16" font-size="12.5" fill="#475569">most of every breath you take</text>
+    </g>
+    <g transform="translate(600 318)">
+      <ellipse rx="98" ry="46" fill="#fef9c3" stroke="#a16207" stroke-width="2.5"/>
+      <text y="-10" font-size="15" font-weight="700" fill="#a16207">SOIL BACTERIA</text>
+      <text y="10" font-size="12.5" fill="#475569">tiny helpers &#8220;fix&#8221; nitrogen</text>
+      <text y="27" font-size="12.5" fill="#475569">into plant food</text>
+    </g>
+    <g transform="translate(380 485)">
+      <ellipse rx="110" ry="42" fill="#dcfce7" stroke="#166534" stroke-width="2.5"/>
+      <text y="-4" font-size="15" font-weight="700" fill="#166534">PLANTS &#8594; ANIMALS</text>
+      <text y="16" font-size="12.5" fill="#475569">roots take it up; animals eat plants</text>
+    </g>
+    <g transform="translate(160 318)">
+      <ellipse rx="98" ry="46" fill="#f5f5f4" stroke="#57534e" stroke-width="2.5"/>
+      <text y="-10" font-size="15" font-weight="700" fill="#57534e">WASTE &#38; DECAY</text>
+      <text y="10" font-size="12.5" fill="#475569">returns nitrogen to the</text>
+      <text y="27" font-size="12.5" fill="#475569">soil &#8212; and some to the air</text>
+    </g>
+  </g>
+
+  <text x="380" y="282" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" font-weight="700" fill="#166534">air &#8594; bacteria &#8594; soil &#8594;</text>
+  <text x="380" y="303" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" font-weight="700" fill="#166534">plants &#38; animals &#8594; soil or air</text>
+  <text x="380" y="330" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="12.5" fill="#64748b">no bacteria, no cycle &#8212; the smallest</text>
+  <text x="380" y="348" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="12.5" fill="#64748b">living things run the whole system</text>
+</svg>

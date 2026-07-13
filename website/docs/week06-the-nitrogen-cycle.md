@@ -79,6 +79,8 @@ Success looks like: the child can explain that bacteria help unlock nitrogen for
 
 `Air -> bacteria -> soil -> plants and animals -> soil or air`
 
+![A simple nitrogen cycle: nitrogen in the air is captured by soil bacteria, plants take it up, animals eat the plants, and waste and decay return nitrogen to the soil and air](/img/diagrams/nitrogen-cycle.svg)
+
 ## Guided Session 1: The Tiny Key Story
 
 **Time:** 20-25 minutes

@@ -183,14 +183,9 @@ An environmental system is made of connected parts. When one part changes, other
 - What causes what?
 - What happens next?
 
-Example chain:
+Example chains:
 
-```mermaid
-graph LR
-	Sun --> Plant
-	Plant --> Apple
-	Apple --> Person
-```
+![Two sun-energy chains: sun to plant to apple to you, and sun to warm ground to moving air to wind](/img/diagrams/energy-flow.svg)
 
 Learners can draw systems as arrows, loops, maps, flowcharts, or storyboards. The goal is not a perfect diagram. The goal is to show connections.
 

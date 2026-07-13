@@ -1,0 +1,47 @@
+<svg viewBox="0 0 860 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="efTitle">
+  <title id="efTitle">Two sun-energy chains: sun to plant to apple to you, and sun to warm ground to moving air to wind</title>
+  <defs>
+    <marker id="efA" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#166534"/>
+    </marker>
+  </defs>
+  <rect x="1" y="1" width="858" height="298" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="430" y="42" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="700" fill="#1e293b">Almost Everything Starts at the Sun</text>
+
+  <!-- sun -->
+  <g transform="translate(110 165)">
+    <circle r="38" fill="#fde047"/>
+    <g stroke="#fde047" stroke-width="5" stroke-linecap="round">
+      <line x1="48" y1="0" x2="66" y2="0"/><line x1="34" y1="34" x2="47" y2="47"/><line x1="0" y1="48" x2="0" y2="66"/><line x1="34" y1="-34" x2="47" y2="-47"/><line x1="0" y1="-48" x2="0" y2="-66"/>
+    </g>
+    <text y="6" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="15" font-weight="800" fill="#854d0e">SUN</text>
+  </g>
+
+  <!-- chain 1 -->
+  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="14" text-anchor="middle">
+    <g><rect x="230" y="85" width="130" height="46" rx="23" fill="#dcfce7" stroke="#166534" stroke-width="2"/><text x="295" y="114" fill="#166534" font-weight="600">plant &#127807;</text></g>
+    <g><rect x="420" y="85" width="130" height="46" rx="23" fill="#dcfce7" stroke="#166534" stroke-width="2"/><text x="485" y="114" fill="#166534" font-weight="600">apple &#127822;</text></g>
+    <g><rect x="610" y="85" width="130" height="46" rx="23" fill="#dcfce7" stroke="#166534" stroke-width="2"/><text x="675" y="114" fill="#166534" font-weight="600">you! &#9889;</text></g>
+  </g>
+
+  <!-- chain 2 -->
+  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="14" text-anchor="middle">
+    <g><rect x="230" y="195" width="130" height="46" rx="23" fill="#fef9c3" stroke="#a16207" stroke-width="2"/><text x="295" y="224" fill="#a16207" font-weight="600">warm ground</text></g>
+    <g><rect x="420" y="195" width="130" height="46" rx="23" fill="#fef9c3" stroke="#a16207" stroke-width="2"/><text x="485" y="224" fill="#a16207" font-weight="600">moving air</text></g>
+    <g><rect x="610" y="195" width="130" height="46" rx="23" fill="#fef9c3" stroke="#a16207" stroke-width="2"/><text x="675" y="224" fill="#a16207" font-weight="600">wind &#127788;&#65039;</text></g>
+  </g>
+
+  <!-- arrows -->
+  <g stroke="#166534" stroke-width="3">
+    <line x1="152" y1="140" x2="224" y2="112" marker-end="url(#efA)"/>
+    <line x1="360" y1="108" x2="414" y2="108" marker-end="url(#efA)"/>
+    <line x1="550" y1="108" x2="604" y2="108" marker-end="url(#efA)"/>
+  </g>
+  <g stroke="#a16207" stroke-width="3">
+    <line x1="152" y1="190" x2="224" y2="218" marker-end="url(#efA)"/>
+    <line x1="360" y1="218" x2="414" y2="218" marker-end="url(#efA)"/>
+    <line x1="550" y1="218" x2="604" y2="218" marker-end="url(#efA)"/>
+  </g>
+
+  <text x="430" y="278" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#64748b">Try tracing your own chain: start at the sun and end at something from your day.</text>
+</svg>
