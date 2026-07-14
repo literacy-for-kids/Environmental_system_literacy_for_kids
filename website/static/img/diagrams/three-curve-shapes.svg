@@ -1,0 +1,37 @@
+<svg viewBox="0 0 820 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="tcsTitle">
+  <title id="tcsTitle">Three population curve shapes: a rocket curve that shoots upward fast, a leveling-off curve that rises and then flattens, and a crash curve that goes too far and drops fast</title>
+  <rect x="1" y="1" width="818" height="298" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="410" y="40" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="20" font-weight="700" fill="#1e293b">Three Number-Story Shapes</text>
+
+  <g font-family="'Segoe UI', system-ui, sans-serif">
+    <!-- panel 1: rocket -->
+    <g>
+      <rect x="30" y="62" width="240" height="170" rx="12" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1.5"/>
+      <line x1="55" y1="210" x2="250" y2="210" stroke="#94a3b8" stroke-width="2"/>
+      <line x1="55" y1="210" x2="55" y2="80" stroke="#94a3b8" stroke-width="2"/>
+      <path d="M60 205 Q140 195 185 150 Q225 108 240 85" stroke="#166534" stroke-width="4" fill="none"/>
+      <text x="150" y="256" text-anchor="middle" font-size="15" font-weight="700" fill="#166534">Rocket curve</text>
+      <text x="150" y="276" text-anchor="middle" font-size="12.5" fill="#64748b">shoots upward fast</text>
+    </g>
+    <!-- panel 2: leveling-off -->
+    <g>
+      <rect x="290" y="62" width="240" height="170" rx="12" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1.5"/>
+      <line x1="315" y1="210" x2="510" y2="210" stroke="#94a3b8" stroke-width="2"/>
+      <line x1="315" y1="210" x2="315" y2="80" stroke="#94a3b8" stroke-width="2"/>
+      <line x1="315" y1="110" x2="510" y2="110" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="6 5"/>
+      <path d="M320 205 Q380 195 410 155 Q440 118 505 112" stroke="#166534" stroke-width="4" fill="none"/>
+      <text x="410" y="256" text-anchor="middle" font-size="15" font-weight="700" fill="#166534">Leveling-off curve</text>
+      <text x="410" y="276" text-anchor="middle" font-size="12.5" fill="#64748b">rises, then flattens</text>
+    </g>
+    <!-- panel 3: crash -->
+    <g>
+      <rect x="550" y="62" width="240" height="170" rx="12" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1.5"/>
+      <line x1="575" y1="210" x2="770" y2="210" stroke="#94a3b8" stroke-width="2"/>
+      <line x1="575" y1="210" x2="575" y2="80" stroke="#94a3b8" stroke-width="2"/>
+      <line x1="575" y1="130" x2="770" y2="130" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="6 5"/>
+      <path d="M580 205 Q640 190 668 140 Q690 100 706 92 Q724 92 736 130 Q748 168 762 185" stroke="#b91c1c" stroke-width="4" fill="none"/>
+      <text x="670" y="256" text-anchor="middle" font-size="15" font-weight="700" fill="#b91c1c">Crash</text>
+      <text x="670" y="276" text-anchor="middle" font-size="12.5" fill="#64748b">goes too far, then drops fast</text>
+    </g>
+  </g>
+</svg>

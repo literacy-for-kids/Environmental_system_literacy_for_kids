@@ -75,6 +75,8 @@ Success looks like: the child can match a curve shape to a story about what the 
 
 "Today we are looking at number stories. Sometimes a system grows like a rocket. Sometimes it rises and then levels off. Sometimes it goes too far and crashes. We are going to use animals, stickers, and simple shapes to see why."
 
+![Three population curve shapes side by side: a rocket curve that shoots upward fast, a leveling-off curve that rises and then flattens near a dashed line, and a crash curve that goes too far and then drops fast](/img/diagrams/three-curve-shapes.svg)
+
 ## Guided Session 1: Build the Shape With Tokens
 
 **Time:** 20-25 minutes
