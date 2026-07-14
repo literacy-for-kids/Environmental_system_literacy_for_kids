@@ -24,7 +24,7 @@
   </g>
 
   <path d="M750,190 C750,235 720,245 690,248" fill="none" stroke="#dc2626" stroke-width="3" stroke-dasharray="8 7" marker-end="url(#ojA)"/>
-  <text x="530" y="252" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" font-weight="700" fill="#991b1b">the next place: a landfill, a recycling plant, or somewhere it shouldn&#8217;t be</text>
+  <text x="530" y="252" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" font-weight="700" fill="#991b1b" stroke="#ffffff" stroke-width="4" paint-order="stroke" stroke-linejoin="round">the next place: a landfill, a recycling plant, or somewhere it shouldn&#8217;t be</text>
 
   <text x="430" y="284" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#64748b">&#8220;Away&#8221; is always a real place. The audit this week finds out which one.</text>
 </svg>
