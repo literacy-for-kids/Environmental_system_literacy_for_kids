@@ -28,3 +28,12 @@ sidebar_label: Curriculum Map
 | 18 | Share Your Plan With Someone Real | How do I communicate my redesign to a real audience? | Community presentation | pitch, audience, evidence, revision | What feedback did your real audience give you? | Submit your proposal to a real local organization or program |
 | Opt. 1 | Growing Loops and Tipping Points | How do amplifying loops lead to tipping points? | Feedback loop analysis | amplifying loop, balancing loop, tipping point, threshold | Describe one real-world amplifying feedback loop | Research one tipping point that scientists are monitoring |
 | Opt. 2 | Big Planet Tools as Patches | What are geoengineering options and what are their risks? | Geoengineering tradeoff analysis | geoengineering, tradeoff, unintended consequence, scale | What is one risk of a large-scale planetary intervention? | Research one specific geoengineering proposal and its critics |
+
+## Practical Core Activities
+
+These activities are integrated into the existing weeks. Use the lesson's suggested substitution or add a meeting; they do not add new curriculum weeks.
+
+| Week | Added core skill | Evidence to collect |
+|---|---|---|
+| 5 | Carbon and warming | Separate carbon flow from the infrared energy mechanism |
+| 8 | Biodiversity and habitat | Trace habitat needs and indirect food dependencies |

@@ -141,6 +141,31 @@ Success looks like: the child can explain that every system has a limit.
 
 **What success looks like:** The child can explain why the second pond is under too much load.
 
+## Core Practice: A Habitat Supports More Than One Kind of Life
+
+**Time:** 20–25 minutes; use as a second version of The Pond Story. **Goal:** explain how habitat changes affect different organisms and their relationships. **Materials:** paper habitat cards and organism cards. All requirements below are simplified, invented classroom rules — not habitat-management advice or real population estimates.
+
+**Biodiversity** means variety in living systems, including different species, differences within species, and different ecosystems. Counting species is one useful measure, not the whole meaning. A **habitat** is the place and conditions that support an organism. More individuals of just one species does not necessarily mean more biodiversity.
+
+Set out four habitat cards: **flowers**, **leaf litter**, **pond**, and **connected shrubs**. Add one card for each fictional organism type:
+
+| Organism card | Needs in this classroom model |
+|---|---|
+| Bee | Flowers |
+| Beetle | Leaf litter |
+| Frog | Pond AND leaf litter |
+| Bird | Connected shrubs AND beetles as food |
+
+1. With every habitat card present, check each need. All **4 organism types** are supported. Draw a food link from beetle to bird and habitat links to the organisms that need them.
+2. Imagine paving over the leaf litter. Remove that card. Beetles lose habitat, frogs lose one requirement, and birds lose their modeled food even though shrubs remain. Only **bees** have all modeled needs: **1 type** supported. This is a dependency model, not a claim that real organisms vanish instantly.
+3. Compare two repair plans: **Plan A:** add more flowers; **Plan B:** restore leaf litter while keeping the pond and connected shrubs. Which repairs more missing needs? **B supports all 4 types again in the model. A still supports only the bee type**, however many flowers or bees it adds.
+4. Explain a limit: real organisms may use other food or habitat, and recovery takes time and depends on many conditions. Restoring one patch does not guarantee every population returns.
+5. Make a proposal drawing with the habitat change, affected organisms, one indirect effect, and an observation that would help check improvement. An optional adult-led observation can count habitat features from a safe path; do not capture, feed, disturb wildlife, alter habitats, or use species counts as a competition.
+
+**Check:** "Why did the bird card lose support when shrubs stayed?" Its food link was affected. "Do twenty bees necessarily mean more species than four different organism types?" No. **Simplify:** use two organism cards and picture needs. **Extend:** add an alternative food link and show how it changes the model's result. **Artifact:** before/after habitat map and a reasoned repair choice.
+
+**Reference, checked 2026-10-01:** [National Park Service: What is biodiversity?](https://www.nps.gov/subjects/biodiversity/what-is-biodiversity.htm). The card rules and counts are teaching inventions.
+
 ## Systems Log
 
 Use this simple entry:

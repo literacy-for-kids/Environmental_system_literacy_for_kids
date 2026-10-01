@@ -250,3 +250,7 @@ Use these pages as support tools, not as extra student workload.
 - [Example Student Work](./example-student-work.md)
 - [Source Notes](./source-notes.md)
 - [Standards Alignment](./standards-alignment.md)
+
+## Practical Core Skills
+
+Connect [carbon movement to warming in Week 5](./week05-the-carbon-cycle.md#core-practice-how-carbon-in-air-connects-to-warming), then trace [biodiversity and habitat dependencies in Week 8](./week08-carrying-capacity.md#core-practice-a-habitat-supports-more-than-one-kind-of-life). Each activity includes materials, timing, a worked example, and a learning check. Follow the suggested substitution or add a meeting rather than fitting every activity into one short session.

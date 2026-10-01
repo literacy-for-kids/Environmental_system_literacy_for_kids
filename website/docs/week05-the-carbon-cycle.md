@@ -153,6 +153,25 @@ The carbon cycle is easier to share when you explain one loop at a time: "Carbon
 
 **What success looks like:** The child can compare a fast carbon loop with a slow storage path.
 
+## Core Practice: How Carbon in Air Connects to Warming
+
+**Time:** 15–20 minutes; use as the second half of Fast Loop and Slow Storage, or spread the week across another meeting. **Materials:** paper and two colors of arrows. **Goal:** connect fossil carbon entering the air with Earth's energy balance.
+
+Sunlight brings energy to Earth. The surface warms and sends energy outward as **infrared radiation** — a kind of light our eyes cannot see. Greenhouse gases, including carbon dioxide, absorb and emit some infrared energy. The natural greenhouse effect helps keep Earth warm enough for life. Adding more carbon dioxide changes how energy escapes; Earth gains energy until warming increases outgoing energy toward a new balance. It does not create extra energy from nothing.
+
+Burning fossil fuels moves carbon from long-term underground storage into the atmosphere as carbon dioxide. When additions exceed removals, atmospheric carbon dioxide builds up. **Carbon movement and heat movement are connected, but they are different things.** Carbon is matter; warming concerns energy. Current global warming is driven mainly by human increases in greenhouse gases, especially from fossil-fuel use.
+
+1. Draw the Sun, Earth, atmosphere, and space. Use yellow arrows for incoming sunlight and red arrows for outgoing infrared energy. Show some infrared energy absorbed and emitted by greenhouse gases, including toward the surface and toward space.
+2. On a separate carbon path, draw fossil fuel → burning → atmospheric carbon dioxide. Explain how faster additions than removals increase the amount in the air.
+3. Tell the two-part story: **more stored carbon burned → more carbon dioxide in air → changed escape of infrared energy → warming**. Do not use the carbon arrow as if it were a heat arrow.
+4. Sort claims: "Carbon is bad" (**incorrect: carbon is essential to life**); "More CO₂ can change Earth's energy balance" (**supported**); "One cold day disproves long-term global warming" (**incorrect: one local day's weather is not a global long-term average**).
+
+**Check and answer guide:** "Does warming mean energy was created?" No, the balance of incoming and outgoing energy changed. "Does a tree immediately cancel any amount of burning?" No; uptake rates, storage, and time matter. **Simplify:** narrate with three picture cards: burning fuel, CO₂ in air, changed energy escape. **Stretch:** connect the carbon stock/flow calculation in Engineer Corner to this energy explanation without treating stock units as temperature units.
+
+**Model limits:** the drawing is a mechanism sketch, not a temperature forecast. CO₂ is not a solid lid; energy still escapes. A sealed-jar temperature demonstration also changes airflow and does not isolate this atmospheric mechanism.
+
+**Reference, checked 2026-10-01:** [NASA: Causes of climate change](https://science.nasa.gov/climate-change/causes/).
+
 ## Systems Log
 
 Use this simple entry:

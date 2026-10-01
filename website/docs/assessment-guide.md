@@ -276,3 +276,8 @@ Avoid overweighting these things:
 - adult-style advocacy pressure presented as if it were a learning goal
 
 The strongest work in this curriculum is usually clear, concrete, honest, and modest.
+
+## Added Core Checks: Climate Connection and Habitat Dependencies
+
+- **Unit 2, Week 5:** use the [carbon-and-warming drawing](./week05-the-carbon-cycle.md#core-practice-how-carbon-in-air-connects-to-warming). Look for fossil carbon → CO₂ increase, plus a separate explanation of changed infrared energy escape. Reteach matter vs energy if the learner says carbon "creates heat" or draws CO₂ as a solid lid.
+- **Unit 3, Week 8:** use the [habitat cards](./week08-carrying-capacity.md#core-practice-a-habitat-supports-more-than-one-kind-of-life). Expected support counts: 4 types initially, 1 after losing leaf litter, 4 after Plan B under the fictional rules. Look for the indirect beetle-to-bird effect and a model limitation; do not infer real population predictions from the cards.
