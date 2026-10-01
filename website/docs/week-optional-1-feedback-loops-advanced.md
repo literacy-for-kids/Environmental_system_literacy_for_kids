@@ -129,6 +129,21 @@ This optional extension is still about connected parts, not doom stories.
 
 ## Engineer Corner
 
-- Balancing loop and amplifying loop are the preferred main terms.
-- Positive and negative feedback can stay here as older learner vocabulary because the names are easy to misread.
-- Hysteresis belongs here as an optional deeper idea about systems that do not simply snap back.
+Optional depth for older learners and facilitators. The main lesson can be completed without these terms or calculations.
+
+### Feedback signs, delays, and hysteresis
+
+**Explanation:** Amplifying feedback reinforces a change; balancing feedback opposes it. “Positive” and “negative” describe the direction of feedback, not good and bad. Delays can cause oscillation because a correction arrives after conditions change. Hysteresis means a system's current state depends on its history: the switch-back point can differ from the switch-on point.
+
+**Worked example:** A fictional pond model switches to a cloudy state when nutrient input rises above 8 model units. Once cloudy, it returns to clear only below 3 units because its internal conditions have changed. At 5 units it could be clear or cloudy depending on history. These invented thresholds illustrate hysteresis; they are not pond-management rules.
+
+```mermaid
+flowchart TD
+  A[Nutrient input rises] --> B[Algae and cloudiness increase]
+  B --> C[Internal conditions sustain cloudiness]
+  C --> B
+  D[Input reduced sufficiently] --> E[Recovery becomes possible]
+  E --> F[Clearer state]
+```
+
+**Check:** Why might reversing an input change not immediately reverse the state? **Answer:** Delays, internal feedback, or different transition thresholds can retain effects of the past. A single arrow diagram does not establish actual thresholds.

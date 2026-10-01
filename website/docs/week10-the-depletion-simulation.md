@@ -226,9 +226,22 @@ Environmental problems and benefits are not always shared equally. In shared sys
 
 ## Engineer Corner
 
-Older learners and facilitators can keep the formal resource-language here.
+Optional depth for older learners and facilitators. The main lesson can be completed without these terms or calculations.
 
-- Common-pool resource is the formal name for a shared pool that many users draw from.
-- Regeneration rate describes how fast the pool grows back.
-- Maximum sustainable yield means the most a group can take while the pool still grows back.
-- Tragedy of the commons belongs here as an optional label, not the main kid-facing frame.
+### Shared stocks and regeneration
+
+**Explanation:** A common-pool resource is a shared stock that can be reduced by users' withdrawals. Regeneration is the rate of replacement. Sustainability depends on stock size and future regeneration, not only the amount taken today. Maximum sustainable yield is a model-dependent estimate of a harvest that can be sustained; it is not a universal number or a license to take everything above a line.
+
+**Worked example:** A fictional pond starts with 20 fish tokens. Remove 8 and add 4 from the game's regeneration rule: 20 − 8 + 4 = 16. If the next round follows the same rule, the stock falls again. Taking 4 instead gives 20 under this fixed-rate model, but real reproduction can fall when the breeding stock shrinks.
+
+```mermaid
+flowchart TD
+  A[Fish stock] --> B[Regeneration]
+  B --> A
+  A --> C[Users take fish]
+  C --> D[Remaining breeding stock]
+  D --> B
+  E[Shared harvest rule] --> C
+```
+
+**Check:** Why might a fixed harvest fail during a drought? **Answer:** Regeneration or the support limit may change. A shared rule must respond to the actual resource, not last week's arithmetic alone.

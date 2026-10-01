@@ -210,7 +210,22 @@ Before moving on, make sure the plan is still honest and respectful.
 
 ## Engineer Corner
 
-Older learners and facilitators can keep the formal engineering terms here.
+Optional depth for older learners and facilitators. The main lesson can be completed without these terms or calculations.
 
-- Specification, hard and soft constraint, operating parameter, success metric, and minimum viable loop all belong here.
-- The child-facing version stays simpler: make the plan clear enough to try and clear enough to judge.
+### Specifications and acceptance checks
+
+**Explanation:** A specification names the required behavior. Hard constraints must be met, such as safe access or a budget limit. Soft preferences can be traded off, such as a favorite color. An operating parameter describes the test setting; a success metric describes the outcome to measure. A plan needs both so another person can try and judge it.
+
+**Worked example:** A fictional paper-return station must fit a 40 cm shelf, cost no more than 10 pretend budget units, and allow everyone to reach it safely. Blue is a preference. A five-day pilot counts suitable sheets actually reused. “Collect 30 sheets” measures collection; “reuse at least 20 suitable sheets” measures the intended return function.
+
+```mermaid
+flowchart TD
+  A[Needs and constraints] --> B[Candidate design]
+  B --> C{Meets hard constraints?}
+  C -->|No| B
+  C -->|Yes| D[Pilot under named conditions]
+  D --> E[Compare success metric]
+  E --> B
+```
+
+**Check:** Is a beautiful station that blocks a walkway successful? **Answer:** No; it fails a hard constraint before its reuse performance matters.

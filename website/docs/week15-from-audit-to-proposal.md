@@ -247,7 +247,21 @@ Sentence frames:
 
 ## Engineer Corner
 
-Older learners and facilitators can keep the formal planning language here.
+Optional depth for older learners and facilitators. The main lesson can be completed without these terms or calculations.
 
-- Proposal, baseline, environmental load estimate, kilograms, and percentages belong here.
-- The important main-path habit is still the same: count, weigh, estimate, or observe something real before claiming a change.
+### Baseline, denominator, and proposal
+
+**Explanation:** A baseline describes the starting system using a named quantity and period. A proposal states a change and what evidence would show improvement. Percent change needs the correct denominator: change divided by the starting amount. Counts, kilograms, and estimates are different forms of evidence; label which you used.
+
+**Worked example:** In an invented five-day baseline, a class discards 50 paper sheets. A comparable five-day pilot discards 30. Reduction = (50 − 30)/50 × 100 = 40%. If fewer learners attended the pilot, raw totals may mislead; compare sheets per learner-day or explain the changed conditions. These values do not prove the proposal caused every difference.
+
+```mermaid
+flowchart TD
+  A[Define quantity and period] --> B[Baseline observation]
+  A --> C[Comparable pilot observation]
+  B --> D[Compare with same denominator]
+  C --> D
+  D --> E[Estimate change and limits]
+```
+
+**Check:** Why is 20/30 the wrong reduction fraction here? **Answer:** The reduction is relative to the original 50. Keep forecasts separate from observations.

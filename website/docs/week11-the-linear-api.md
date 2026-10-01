@@ -203,8 +203,21 @@ Environmental problems and benefits are not always shared equally. Some people o
 
 ## Engineer Corner
 
-Older learners and facilitators can place the formal language here.
+Optional depth for older learners and facilitators. The main lesson can be completed without these terms or calculations.
 
-- Linear and circular are formal names for the two patterns.
-- API can stay here as an optional analogy about how system parts connect.
-- Externality can also stay here as the idea that someone else bears a hidden cost.
+### Interfaces and hidden costs
+
+**Explanation:** Linear systems take resources, make products, and send used material onward as waste. Circular designs add return paths. An interface is where two parts connect; API is a software analogy for an agreed way to exchange information, not a literal material-recovery mechanism. An externality is a cost or benefit experienced by someone outside the immediate transaction.
+
+**Worked example:** A fictional lunch vendor sells 30 cups. The buyer's price does not by itself describe collection work or litter cleanup. A reusable cup system needs an interface between users, return bins, washing, and the vendor. A cup called “reusable” will still move along a waste path if nobody can return it.
+
+```mermaid
+flowchart TD
+  A[Vendor] --> B[User]
+  B --> C[Return point]
+  C --> D[Cleaning]
+  D --> A
+  B --> E[Unreturned cups and cleanup]
+```
+
+**Check:** What extra link turns a reusable object into a working reuse system? **Answer:** A usable return and preparation path, with someone responsible for it.

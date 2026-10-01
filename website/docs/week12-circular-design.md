@@ -215,8 +215,22 @@ Some communities have composting, refill options, or recycling access. Some do n
 
 ## Engineer Corner
 
-Older learners and facilitators can place the design language here.
+Optional depth for older learners and facilitators. The main lesson can be completed without these terms or calculations.
 
-- Biological nutrient and technical nutrient belong here as formal terms.
-- Cradle-to-cradle, industrial symbiosis, and detailed recycling-rate comparisons also belong here.
-- A strong return path is easy to understand, easy to use, and matched to the material.
+### Match the loop to the material
+
+**Explanation:** Biological-nutrient loops return suitable materials through biological processes, such as well-managed composting. Technical-nutrient loops keep metals, plastics, and other manufactured materials in use through repair, reuse, and recovery. These labels describe designed pathways, not a rule that anything “natural” is safe to compost. Industrial symbiosis means one operation uses another's byproduct, subject to quality and safety requirements.
+
+**Worked example:** A fictional lunch system produces food scraps, clean metal containers, and mixed-material wrappers. Accepted scraps can go to its compost system; metal containers can be washed for reuse; wrappers need a verified local route. Coating, contamination, and mixtures can change what works. The loop must include collection and losses.
+
+```mermaid
+flowchart TD
+  A[Used materials] --> B[Identify and separate]
+  B --> C[Accepted biological route]
+  B --> D[Technical reuse or recovery]
+  B --> E[No verified return route]
+  C --> F[Useful output with losses]
+  D --> F
+```
+
+**Check:** Does a compostable label prove the item breaks down in a home pile? **Answer:** No; check the required conditions and what the receiving system accepts.

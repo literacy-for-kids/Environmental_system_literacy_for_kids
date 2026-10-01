@@ -201,8 +201,21 @@ Climate graphs, ppm values, and longer-timescale comparisons work best as guided
 
 ## Engineer Corner
 
-Older learners and facilitators can place the technical depth here.
+Optional depth for older learners and facilitators. The main lesson can be completed without these terms or calculations.
 
-- Carbon dioxide is one common way carbon travels in air.
-- The Keeling Curve, ppm values, gigaton totals, and detailed greenhouse physics belong here.
-- A useful systems sentence: life needs carbon, but fast release of old stored carbon can outpace the system's return paths.
+### Carbon stocks and flow imbalance
+
+**Explanation:** Carbon atoms move among air, organisms, soils, water, and longer-term stores. A stock is an amount held in a place; a flow is a transfer per unit time. Atmospheric carbon dioxide absorbs and emits infrared radiation, affecting how energy leaves Earth. Carbon cycling and energy flow are connected but describe different quantities.
+
+**Worked example:** A fictional carbon store starts at 100 units. Add 8 units and remove 5 in one step: the new stock is 103. A return path can exist and still fail to keep pace with additions. Parts per million (ppm) express concentration; they are not the same as total carbon mass. The Keeling Curve records atmospheric CO₂, including a seasonal pattern and a longer-term rise.
+
+```mermaid
+flowchart TD
+  A[Atmospheric carbon dioxide] -->|photosynthesis| B[Living plants]
+  B --> C[Animals and soil]
+  B -->|respiration| A
+  C -->|respiration and decomposition| A
+  D[Long-term fossil carbon] -->|combustion| A
+```
+
+**Check:** Does finding a carbon-removal path prove the atmospheric stock cannot rise? **Answer:** No; compare input and removal rates. Use [Source Notes](./source-notes.md) for measurements rather than treating this model as real data.

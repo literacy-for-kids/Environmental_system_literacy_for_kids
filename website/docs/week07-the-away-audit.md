@@ -234,8 +234,23 @@ Environmental problems and benefits are not always shared equally. Some communit
 
 ## Engineer Corner
 
-Older learners and facilitators can keep the deeper supply-chain details here.
+Optional depth for older learners and facilitators. The main lesson can be completed without these terms or calculations.
 
-- PET chemistry, exact recycling rates, and downcycling complexity belong here.
-- A useful systems insight: recycling helps, but a loop still has costs, losses, and limits.
-- A return path is stronger when the material is clean, sorted, and easy to process.
+### Collection is not the same as recovery
+
+**Explanation:** PET is a plastic used in many bottles. Recovering a bottle as material requires collection, sorting, cleaning, and processing. Contamination and processing losses reduce what returns. Downcycling means a material becomes a different or lower-performance product; it may not replace another bottle. A recycling symbol alone does not establish a local return route.
+
+**Worked example:** An invented batch contains 100 bottles. Collect 80; 60 of those are suitable after sorting; recover material equivalent to 50 after processing. The batch-level recovery is 50/100 = 50%, not the 80% collection rate. The numbers illustrate different denominators, not a current recycling statistic.
+
+```mermaid
+flowchart TD
+  A[100 used bottles] --> B[80 collected]
+  B --> C[60 suitable after sorting]
+  C --> D[50 recovered equivalents]
+  D --> E[New material use]
+  A --> F[Losses and other destinations]
+  B --> F
+  C --> F
+```
+
+**Check:** What would you need to support “this becomes another bottle”? **Answer:** Evidence of the actual processing route and resulting use, not just a collection bin.

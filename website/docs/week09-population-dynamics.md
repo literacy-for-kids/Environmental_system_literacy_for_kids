@@ -194,9 +194,21 @@ Before a simulation, use a quick materials-and-setup checklist. Gathering what y
 
 ## Engineer Corner
 
-Older learners and facilitators can add the formal labels here.
+Optional depth for older learners and facilitators. The main lesson can be completed without these terms or calculations.
 
-- Rocket curve can be called a J-curve or exponential growth.
-- Leveling-off curve can be called an S-curve.
-- Up-too-far-and-crash is often called overshoot and collapse.
-- Lotka-Volterra math and more formal feedback analysis belong here, not in the main path.
+### Growth, delay, and overshoot
+
+**Explanation:** A J-curve represents exponential growth when the growth rate is proportional to population. An S-curve represents growth that slows with constraints. Overshoot and decline can occur when demand exceeds support before births, deaths, or behavior adjust. Delays matter. Predator–prey models such as Lotka–Volterra explore interactions, but actual ecosystems include more influences than two populations.
+
+**Worked example:** Start with 10 fictional organisms. Doubling each step gives 10, 20, 40, 80. If food supports only 50, the doubling assumption cannot remain valid. It tells us about the assumed growth rule, not what must happen next. Adding a delay can make population pass a support limit before falling.
+
+```mermaid
+flowchart TD
+  A[Population rises] --> B[Food demand rises]
+  B --> C[Food available per organism falls]
+  C --> D[Delayed birth and survival changes]
+  D --> A
+  E[Weather or habitat change] --> C
+```
+
+**Check:** Does seeing 10, 20, 40 prove the next value must be 80? **Answer:** No; that prediction assumes unchanged growth conditions. State the assumption before extending the pattern.

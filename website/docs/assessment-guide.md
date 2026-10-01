@@ -89,217 +89,174 @@ Use this quick four-level check most weeks.
 
 ---
 
-## Phase Checkpoint: Observation, Environment, And Local Systems
+## Checkpoint Timing and Scope
 
-### What this checkpoint is for
+Use the checkpoint after its listed lessons, or after those lessons in a flexible schedule. The prompts below assess taught core content; unrelated health, civic, media, or social topics and optional extensions are discussion opportunities, not advancement requirements. Accept drawings, speech, AAC, dictation, or model demonstrations.
 
-This checkpoint helps facilitators see whether learners can notice environmental details, name parts of a nearby system, and use arrows, drawings, or short explanations to show simple connections. It is not a test. Learners may answer by talking, drawing, pointing, sorting cards, making a model, writing short notes, using AAC, or explaining their thinking to a partner.
+| After lessons | Unit |
+|---|---|
+| Weeks 1–3 | The Planetary Engine |
+| Weeks 4–7 | The Planet's Plumbing |
+| Weeks 8–10 | Limits and Patterns |
+| Weeks 11–14 | Better System Shapes |
+| Weeks 15–18 | The Redesign Project |
 
-### Look-fors
+Fictional or supplied examples are sufficient; personal records and private experiences are never necessary to demonstrate a concept. Use a later or alternate check if a learner passes.
 
-Learners are working toward this phase when they can:
+### Shared Progress Scale
 
-- make a careful observation about a place, object, or model
-- name parts of a simple environmental system
-- use arrows, labels, or oral explanation to show one connection
-- ask what might happen next
+- **Beginning:** Needs the concept modeled with a concrete example.
+- **Developing:** Explains part of the mechanism with prompts.
+- **Secure:** Explains the core relationship using the selected accessible response format.
+- **Extending:** Applies it to a new example and names assumptions or limits.
 
-### Checkpoint questions
+Use the phase-specific answer guidance below. Extension vocabulary, polished writing, and speed are not readiness criteria.
 
-- What do you notice in this system?
-- What parts can you name?
-- How are two parts connected?
+## Phase Checkpoint: The Planetary Engine (Weeks 1–3)
 
-### Ready to move on
+### Lessons Assessed
 
-The learner can show a simple local system with at least two named parts, one clear connection, and one reasonable next-step question.
+- [Week 1: Sunlight Detective (How Solar Energy Drives Everything)](./week01-the-planetary-engine.md)
+- [Week 2: Energy Changes Form (Energy Cannot Be Created or Destroyed)](./week02-thermodynamics-basics.md)
+- [Week 3: Build a Tiny World in a Jar (A Closed-Loop Micro-Ecosystem)](./week03-the-terrarium-test.md)
 
-### Reteach moves
+### Evidence to Use
 
-- Return to one concrete example such as a sunny window, puddle, houseplant, lunch tray, or classroom bin.
-- Model one observation aloud and ask the learner to add one more.
-- Use picture cards or real objects before asking for a full diagram.
-- Let the learner answer with drawing plus dictation instead of full writing.
+A labeled energy-flow picture and a terrarium boundary map.
 
-### Checkpoint snapshot
+### Checkpoint Questions and Look-Fors
 
-| Skill | Beginning | Developing | Secure | Extending |
-|---|---|---|---|---|
-| Makes observations | Notices one detail only with heavy support | Notices a real detail or change with support | Notices and describes several relevant details | Notices patterns, comparisons, or hidden clues |
-| Names system parts | Names isolated objects only | Names one or two useful parts | Names several relevant parts in the system | Groups parts into living, nonliving, and human-made or inside/outside categories |
-| Shows connections | Needs help showing what affects what | Shows one connection with prompting | Clearly shows how two parts connect | Shows multiple connections and what might happen next |
+| Taught in | Prompt | Expected core reasoning |
+|---|---|---|
+| Week 1 | Name an energy input and output for a sunlit plant system. | Sunlight enters; chemical energy is stored and heat is released. The learner follows a transfer rather than treating energy as created. |
+| Week 2 | If an invented lamp uses 100 units and emits 20 as light and 80 as heat, did energy disappear? | No; all outputs total the input. Calculation and entropy terminology are optional depth. |
+| Week 3 | What crosses the terrarium boundary, and what cycles inside? | Light and heat cross; water cycles inside an approximately sealed jar. Matter cycling is not a source of endless energy. |
 
----
+### Ready to Move On
 
-## Phase Checkpoint: Ecosystems, Cycles, And Interdependence
+The learner explains the main relationships shown in the prompts, using the named example or artifact and available supports. If a key relationship remains unclear, model that lesson again and offer a new example; this is a formative decision, not a requirement to disclose or perform perfectly.
 
-### What this checkpoint is for
+### Reteach Moves
 
-This checkpoint helps facilitators see whether learners can name parts of an environmental system, explain simple connections, and describe how a change in one part may affect another. It is not a test. Learners may answer by talking, drawing, pointing, sorting cards, making a model, writing short notes, using AAC, or explaining their thinking to a partner.
+Draw the jar boundary and use input/output cards. Reteach the physical story without requiring Engineer Corner terminology.
 
-### Look-fors
+## Phase Checkpoint: The Planet's Plumbing (Weeks 4–7)
 
-Learners are ready to move on when they can:
+### Lessons Assessed
 
-- name parts of a system
-- describe at least one connection
-- explain a simple cause-and-effect relationship
-- use a drawing, arrows, model, or words to show a cycle or flow
-- ask a question about what might happen next
+- [Week 4: The Adventure of a Water Drop (How the Planet Moves Water)](./week04-the-water-cycle.md)
+- [Week 5: Carbon the Shape-Shifter (How Carbon Moves Through Living Systems)](./week05-the-carbon-cycle.md)
+- [Week 6: The Locked Food Plants Can't Open (The Nitrogen Cycle)](./week06-the-nitrogen-cycle.md)
+- [Week 7: There Is No Away (Tracing a Product's Complete Physical Journey)](./week07-the-away-audit.md)
 
-### Checkpoint questions
+### Evidence to Use
 
-- What parts are in this system?
-- How are two parts connected?
-- What might happen if one part changes?
+A simple cycle drawing and one object-journey audit.
 
-### Ready to move on
+### Checkpoint Questions and Look-Fors
 
-The learner can explain one cycle or flow with at least one reasonable cause-and-effect statement.
+| Taught in | Prompt | Expected core reasoning |
+|---|---|---|
+| Week 4 | How can water move from ground to air and back? | Describe evaporation and return through condensation/precipitation; the learner connects storage places and flows. |
+| Week 5 | How does carbon move between air and living things? | Plants take in carbon through photosynthesis and respiration/decomposition return carbon; a simple cycle is enough. |
+| Week 6 | Why do plants need helpers to use much of the nitrogen around them? | Most plants cannot use atmospheric nitrogen gas directly; conversion makes usable forms available. |
+| Week 7 | Where does a discarded object go after a bin? | Trace a plausible collection and processing or disposal path and mark what needs verification; a bin does not make matter vanish. |
 
-### Reteach moves
+### Ready to Move On
 
-- Use picture cards to build a simple food chain.
-- Draw arrows between sun, plant, animal, soil, and water.
-- Use a classroom or playground example instead of a faraway ecosystem.
-- Ask learners to explain the system as a story: first, next, then, later.
+The learner explains the main relationships shown in the prompts, using the named example or artifact and available supports. If a key relationship remains unclear, model that lesson again and offer a new example; this is a formative decision, not a requirement to disclose or perform perfectly.
 
-### Checkpoint snapshot
+### Reteach Moves
 
-| Skill | Beginning | Developing | Secure | Extending |
-|---|---|---|---|---|
-| Names system parts | Needs help naming parts | Names one or two parts with support | Names several relevant parts | Groups parts into living, nonliving, and human-made |
-| Explains connections | Gives isolated facts | Explains one connection with support | Clearly explains how two parts affect each other | Explains multiple connections or a feedback loop |
-| Shows cause and effect | Needs help predicting what happens next | Makes a simple prediction with support | Explains a reasonable cause-and-effect relationship | Explains tradeoffs, delays, or unintended consequences |
+Move a token through one taught cycle and trace an object with the Week 7 audit before adding chemical formulas or exact percentages.
 
----
+## Phase Checkpoint: Limits and Patterns (Weeks 8–10)
 
-## Phase Checkpoint: Resources, Waste, Pollution, And Tradeoffs
+### Lessons Assessed
 
-### What this checkpoint is for
+- [Week 8: How Much Is Too Much? (How Much Load Can a System Handle?)](./week08-carrying-capacity.md)
+- [Week 9: Why Numbers Go Up and Down (What Happens When Demand Exceeds Supply)](./week09-population-dynamics.md)
+- [Week 10: The Shared Fish Pond Game (The Resource Pool Game)](./week10-the-depletion-simulation.md)
 
-This checkpoint helps facilitators see whether learners can trace a shared resource or waste path, explain how rules or design shape outcomes, and notice that one choice can help in one way while creating a different limit or cost elsewhere.
+### Evidence to Use
 
-### Look-fors
+A population-pattern comparison and the shared-pond game record.
 
-Learners are working toward this phase when they can:
+### Checkpoint Questions and Look-Fors
 
-- trace where a material, resource, or output goes next
-- explain how a rule, return path, or missing return path changes the system
-- interpret a simple tracking table, count, or game result
-- name one tradeoff or unintended consequence
+| Taught in | Prompt | Expected core reasoning |
+|---|---|---|
+| Week 8 | What limits the number a habitat can support? | Food, water, space, and conditions can limit support; that limit may change. |
+| Week 9 | Why might rapid growth slow or overshoot? | Demand rises while support is limited; responses can be delayed. Curves are models, not promises. |
+| Week 10 | A pond starts with 20 tokens, 8 are removed, and 4 return. What changes? | The remaining stock is 16. Repeated withdrawals above replacement reduce the stock under this game rule; younger learners may show it with counters. |
 
-### Checkpoint questions
+### Ready to Move On
 
-- What is being used, shared, or thrown away in this system?
-- What happens when the rule or return path changes?
-- What tradeoff or unintended consequence do you notice?
+The learner explains the main relationships shown in the prompts, using the named example or artifact and available supports. If a key relationship remains unclear, model that lesson again and offer a new example; this is a formative decision, not a requirement to disclose or perform perfectly.
 
-### Ready to move on
+### Reteach Moves
 
-The learner can explain one shared-resource or waste-path problem and suggest one realistic change using evidence from observation, a count, or a simple game result.
+Replay one pond round with visible counters and compare it to a growth curve. Separate starting stock from regeneration.
 
-### Reteach moves
+## Phase Checkpoint: Better System Shapes (Weeks 11–14)
 
-- Replay one short round of the shared resource game with fewer variables.
-- Trace one clean object from use to next place using a road map.
-- Compare one loop path and one straight-line path side by side.
-- Use sentence frames such as "We gain ___ but pay ___."
+### Lessons Assessed
 
-### Checkpoint snapshot
+- [Week 11: Straight-Line Systems and Loop Systems](./week11-the-linear-api.md)
+- [Week 12: Can This Go Back Into a Loop? (How to Close an Open Loop)](./week12-circular-design.md)
+- [Week 13: Fix-It Detective (Designing for Disassembly and Reuse)](./week13-right-to-repair.md)
+- [Week 14: One Small Loop Challenge (Identifying and Fixing One Linear Process)](./week14-the-circular-redesign.md)
 
-| Skill | Beginning | Developing | Secure | Extending |
-|---|---|---|---|---|
-| Traces a path | Names the object or resource only | Traces part of the path with support | Traces the main path from source to next place | Traces multiple possible paths and compares them |
-| Uses evidence or data | Needs help reading counts or tracking results | Reads one result with support | Uses a count, chart, or game result to support an explanation | Compares more than one result and explains what may be missing |
-| Names tradeoffs | Sees one option as all good or all bad | Names one tradeoff with support | Explains one realistic tradeoff or unintended consequence | Explains tradeoffs for different people, places, or time scales |
+### Evidence to Use
 
----
+A return-path sketch, repairability comparison, and small loop redesign.
 
-## Phase Checkpoint: Environmental Data, Claims, And Community Impact
+### Checkpoint Questions and Look-Fors
 
-### What this checkpoint is for
+| Taught in | Prompt | Expected core reasoning |
+|---|---|---|
+| Week 11 | What does a return path add to a straight-line system? | A route back into use or recovery; name who handles it rather than drawing an unexplained circular arrow. |
+| Week 12 | Can every material use the same return route? | No; the route must match material and receiving conditions, with losses and limits. |
+| Week 13 | What design features make a safe repair path possible? | Accessible parts, suitable replacements, and instructions can help; inspect pictures or approved objects, not hazardous devices. |
+| Week 14 | What is the weakest link in this small loop and how could you test a change? | Name one missing collection, sorting, reuse, or responsibility link and a small safe trial. |
 
-This checkpoint helps facilitators see whether learners can read simple environmental information carefully, separate claim from evidence, and ask who is affected by a design, message, or community choice.
+### Ready to Move On
 
-### Look-fors
+The learner explains the main relationships shown in the prompts, using the named example or artifact and available supports. If a key relationship remains unclear, model that lesson again and offer a new example; this is a formative decision, not a requirement to disclose or perform perfectly.
 
-Learners are working toward this phase when they can:
+### Reteach Moves
 
-- read a simple chart, table, label, or comparison with support
-- distinguish claim, observation, opinion, evidence, and question
-- ask who benefits, who is affected, and what might be missing
-- compare two design or communication choices using evidence
+Sort materials into verified routes and trace one return from user to next use. Use a repair picture when real disassembly is unsuitable.
 
-### Checkpoint questions
+## Phase Checkpoint: The Redesign Project (Weeks 15–18)
 
-- What claim is being made here?
-- What evidence, data, or observations support it?
-- Who is affected, and what might be missing from the message?
+### Lessons Assessed
 
-### Ready to move on
+- [Week 15: Turn Your Idea Into a Plan Someone Could Try](./week15-from-audit-to-proposal.md)
+- [Week 16: Make the Plan Real (What It Needs and What Gets in the Way)](./week16-engineering-the-solution.md)
+- [Week 17: Test Your Plan Like a Friendly Troublemaker](./week17-proposal-refinement.md)
+- [Week 18: Share Your Plan With Someone Real](./week18-the-community-pitch.md)
 
-The learner can use a simple piece of evidence to support an environmental explanation and can ask at least one fair community-impact question.
+### Evidence to Use
 
-### Reteach moves
+A baseline, specification, stress-test notes, and evidence-based proposal.
 
-- Compare two labels, two product examples, or two simple charts and talk through one row at a time.
-- Use the [Environmental Checkpoint](./environmental-checkpoint.md) with only three questions at first.
-- Replace faraway examples with school, library, apartment, bus stop, park, or classroom examples.
-- Sort statements into claim, evidence, observation, opinion, and question with cards.
+### Checkpoint Questions and Look-Fors
 
-### Checkpoint snapshot
+| Taught in | Prompt | Expected core reasoning |
+|---|---|---|
+| Week 15 | What quantity and period describe the current system? | Name the baseline quantity, units, source, and period; label estimates rather than presenting them as measurements. |
+| Week 16 | What must the proposed solution do, and what constrains it? | Name an actionable design, safety/access requirements, needed resources, and a success measure. |
+| Week 17 | Who is affected and what could fail? | Identify a plausible failure, stakeholder, tradeoff, and revision. |
+| Week 18 | Which results were observed, and which are forecasts? | Keep pilot results distinct from expected outcomes and request a realistic next action without guarantees. |
 
-| Skill | Beginning | Developing | Secure | Extending |
-|---|---|---|---|---|
-| Reads environmental information | Needs help noticing labels or units | Notices one label, color, or count with support | Explains what a simple chart, label, or table shows | Explains what it shows, what it does not show, and what else to check |
-| Separates claim and evidence | Repeats the message only | Identifies a claim or evidence with support | Separates claim, evidence, observation, opinion, and question | Compares two sources and notices missing context or weak support |
-| Considers community impact | Focuses on self only | Names one person or group affected with support | Explains who is affected and one fair question to ask | Explains different needs, access, or tradeoffs across groups |
+### Ready to Move On
 
----
+The learner explains the main relationships shown in the prompts, using the named example or artifact and available supports. If a key relationship remains unclear, model that lesson again and offer a new example; this is a formative decision, not a requirement to disclose or perform perfectly.
 
-## Phase Checkpoint: Environmental Systems Project
+### Reteach Moves
 
-### What this checkpoint is for
-
-This checkpoint helps facilitators see whether learners can turn environmental systems thinking into an honest, evidence-based project with clear parts, audience awareness, tradeoff thinking, attribution, accessibility, and revision.
-
-### Look-fors
-
-Learners are ready to finish the course when they can:
-
-- describe the environmental issue, question, system, or opportunity clearly
-- show the important parts and connections in a diagram or model
-- use evidence, data, observations, or sources to support claims
-- explain who or what is affected and name one realistic action
-- reflect, revise, and answer questions respectfully
-
-### Checkpoint questions
-
-- What system are you explaining or redesigning?
-- What evidence supports your plan or message?
-- What tradeoff, limitation, or next revision do you want your audience to understand?
-
-### Ready to move on
-
-The learner can share an honest project that explains the system clearly, uses at least one kind of evidence, and names one tradeoff, limitation, or revision.
-
-### Reteach moves
-
-- Return to a smaller project scope, such as one classroom routine or one school/library object.
-- Use sentence frames for audience, evidence, and realistic action.
-- Practice with one supportive listener before a larger share.
-- Separate facts, observations, data, opinions, and questions on sticky notes before final drafting.
-
-### Checkpoint snapshot
-
-| Skill | Beginning | Developing | Secure | Extending |
-|---|---|---|---|---|
-| Defines the system or issue | Topic is broad or unclear | Names the topic but key parts are missing | Clearly explains the issue, question, or system | Frames the issue clearly and includes helpful boundaries or context |
-| Uses evidence honestly | Gives opinions or wishes only | Uses one example or observation with support | Uses evidence, examples, data, or sources to support claims | Uses multiple supports, notes limits honestly, and checks for missing context |
-| Reflects and revises | Has difficulty responding to questions or revision | Adds one revision with support | Responds respectfully and names one realistic revision | Uses questions, feedback, and self-reflection to strengthen the next version |
-
----
+Reduce scope to one return path and one metric. Compare the same quantity and period, then add one limit or failure response.
 
 ## Capstone Assessment
 

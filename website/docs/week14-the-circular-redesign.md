@@ -238,8 +238,21 @@ Sentence frames:
 
 ## Engineer Corner
 
-Older learners and facilitators can keep the formal planning language here.
+Optional depth for older learners and facilitators. The main lesson can be completed without these terms or calculations.
 
-- Environmental load can stay here as a formal way to name the growing pile or burden.
-- Diagnosis and minimum viable loop also belong here as older learner terms.
-- The core child-facing idea stays simple: choose one small system, trace it clearly, and improve one return path.
+### Diagnose the weakest return link
+
+**Explanation:** A diagnosis identifies where a system fails. A minimum viable loop is the smallest complete return path worth testing: users can find it, someone handles returns, and the material actually reaches a useful destination. Environmental load names a burden such as waste mass; the quantity and boundary must be specified before comparing designs.
+
+**Worked example:** A fictional class uses 20 paper sheets daily. A scrap tray collects 12, but only 7 are reused; 5 sit unused. Replacing the tray label may help, but counting collection alone would overstate success. A five-day pilot tracks sheets used, collected, and reused with the same definitions each day.
+
+```mermaid
+flowchart TD
+  A[Sheets used] --> B[Scrap tray]
+  B --> C[Someone sorts usable sheets]
+  C --> D[Next activity reuses sheets]
+  D --> A
+  B --> E[Unusable or unused remainder]
+```
+
+**Check:** What number best supports “we replaced new paper with scraps”? **Answer:** Actual suitable reuse, not just collected paper. Also check whether the activity or number of learners changed.

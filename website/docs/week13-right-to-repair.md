@@ -200,8 +200,22 @@ Some people have easier access to tools, repair help, spare parts, transportatio
 
 ## Engineer Corner
 
-Older learners and facilitators can park the policy and design-language here.
+Optional depth for older learners and facilitators. The main lesson can be completed without these terms or calculations.
 
-- Designed obsolescence and Right to Repair belong here, since laws and details change.
-- A useful systems point: repair can reduce throughput by lowering how many new products need to be made.
-- Manuals, parts access, standard fasteners, and replaceable batteries all strengthen the repair path.
+### Design for a repair route
+
+**Explanation:** Repairability depends on finding the fault, reaching the part, obtaining a suitable replacement, and putting the product back safely. Standard fasteners, manuals, replaceable modules, and parts access can strengthen that path. Designed obsolescence describes design choices intended to shorten useful life; an early failure alone does not prove that intention. Right-to-repair laws differ by place and change, so policy claims need current sources.
+
+**Worked example:** Compare two fictional flashlights: one has accessible screws and a replaceable switch; the other has a glued shell. The first offers an easier access path, but repair still depends on a correct part and safe procedure. Learners inspect pictures or adult-approved, unpowered objects; batteries, mains equipment, and hazardous parts are not student disassembly tasks.
+
+```mermaid
+flowchart TD
+  A[Fault noticed] --> B[Identify part safely]
+  B --> C[Access and replacement available]
+  C --> D[Adult repair and verification]
+  D --> E[Product returns to use]
+  B --> F[Missing access or parts]
+  F --> G[Different safe next step]
+```
+
+**Check:** What evidence supports “easy to repair”? **Answer:** A reachable replaceable part, suitable parts/instructions, and a safe verification path, not just a marketing label.

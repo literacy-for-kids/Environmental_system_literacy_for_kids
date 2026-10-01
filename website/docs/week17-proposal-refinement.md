@@ -201,7 +201,21 @@ Strong projects do not need exaggeration, blame, shame, or fear. Learners can sa
 
 ## Engineer Corner
 
-Older learners and facilitators can keep the formal stress-test language here.
+Optional depth for older learners and facilitators. The main lesson can be completed without these terms or calculations.
 
-- Failure mode, edge case, stakeholder, and second-order effect belong here.
-- The kid-facing version stays plain: what could go wrong, who is affected, and what change would help.
+### Failure modes and second-order effects
+
+**Explanation:** A failure mode is a way the plan could stop doing its job. An edge case is an unusual but plausible condition. A stakeholder is someone affected, including people doing the work. A second-order effect follows the immediate change, such as moving cleanup effort to another person. Stress testing is structured “what if” reasoning, not damaging the prototype.
+
+**Worked example:** A fictional bottle-return station works on ordinary days but overflows on event day. Overflow is a failure mode; the larger crowd is a test condition. Adding a bigger bin might help, but it could make lifting unsafe. A safer revision could pair more frequent adult collection with a smaller container.
+
+```mermaid
+flowchart TD
+  A[Busy-day input] --> B[Container fills]
+  B --> C[Overflow or extra collection]
+  C --> D[Cleanup and access effects]
+  D --> E[Revise size and collection plan]
+  E --> B
+```
+
+**Check:** Why ask who empties the bin before recommending a larger one? **Answer:** A change can shift work and risk to a stakeholder. Record the risk and mitigation, not just “works/doesn't work.”

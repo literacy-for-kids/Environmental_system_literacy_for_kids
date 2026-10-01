@@ -148,5 +148,20 @@ Environmental problems and benefits are not always shared equally. Some communit
 
 ## Engineer Corner
 
-- Solar Radiation Management, Carbon Dioxide Removal, enhanced weathering, and termination shock belong here as older learner terms.
-- Keep the core lesson simple: large interventions should be studied with the same careful tradeoff thinking used everywhere else in the course.
+Optional depth for older learners and facilitators. The main lesson can be completed without these terms or calculations.
+
+### Different climate interventions, different mechanisms
+
+**Explanation:** Solar radiation management (SRM) seeks to change Earth's energy balance by reflecting more incoming sunlight; it does not remove atmospheric CO₂. Carbon dioxide removal (CDR) seeks to remove CO₂ and store it durably. Enhanced weathering is a proposed CDR route that accelerates reactions between CO₂ and certain minerals. Each approach requires checking actual effectiveness, energy use, storage duration, side effects, governance, and who bears risks.
+
+**Worked comparison:** In a hypothetical model, reducing absorbed sunlight changes energy input while leaving the carbon stock unchanged. Removing and durably storing carbon changes that stock. If sustained SRM offsetting substantial warming stops abruptly while greenhouse gases remain elevated, rapid warming could follow: this is termination risk. Neither approach replaces emissions reduction.
+
+```mermaid
+flowchart TD
+  A[Emissions reduction] --> B[Less new greenhouse gas input]
+  C[Carbon dioxide removal] --> D[Lower carbon stock if storage persists]
+  E[Solar reflection intervention] --> F[Less absorbed sunlight]
+  F --> G[Carbon stock remains a separate problem]
+```
+
+**Check:** Does reflecting sunlight solve ocean acidification from added CO₂? **Answer:** No. Ask which quantity an intervention changes before judging the claim. These are research and policy comparisons, not classroom intervention instructions.

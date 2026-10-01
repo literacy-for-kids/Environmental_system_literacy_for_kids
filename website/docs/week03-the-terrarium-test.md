@@ -219,9 +219,22 @@ This tiny world is still a system with connected parts. Water, air, soil, plants
 
 ## Engineer Corner
 
-Older learners and facilitators can connect the jar to formal systems language.
+Optional depth for older learners and facilitators. The main lesson can be completed without these terms or calculations.
 
-- The terrarium is mostly closed for matter: water and plant material stay in the jar unless you open it.
-- It is still open for energy because sunlight enters.
-- Plants use light to build sugars. Microbes help break old material down so it can be reused.
-- Keep the carbon and oxygen details here as optional background, not as the main kid-facing path.
+### Closed for matter, open for energy
+
+**Explanation:** A sealed terrarium can be approximately closed for matter while remaining open for energy: light enters and heat leaves. Water evaporates and condenses inside. Photosynthesis uses light energy, carbon dioxide, and water to build sugars and releases oxygen. Plants and decomposers also respire, using stored chemical energy. These processes exchange materials rather than creating unlimited resources.
+
+**Worked example:** Draw a boundary around the jar. Light crossing the glass is an input; heat leaving is an output. Water moving from soil to vapor to droplets crosses internal boundaries, not the jar boundary. Opening the lid adds an air exchange, changing the system description.
+
+```mermaid
+flowchart TD
+  A[Sunlight outside] --> B[Plants inside jar]
+  B --> C[Plant material]
+  C --> D[Decomposers]
+  D --> E[Reused nutrients and carbon dioxide]
+  E --> B
+  B --> F[Heat leaving jar]
+```
+
+**Check:** Can the jar cycle water and nutrients without receiving light forever? **Answer:** Cycling matter does not supply new usable energy; sustained photosynthesis needs an energy input. The diagram omits many organisms and exchanges.

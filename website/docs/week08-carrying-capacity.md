@@ -196,10 +196,23 @@ Environmental problems and benefits are not always shared equally. Some playgrou
 
 ## Engineer Corner
 
-Older learners and facilitators can keep the formal terms here.
-
-- Carrying capacity is the formal term for how much a system can support over time.
+Optional depth for older learners and facilitators. The main lesson can be completed without these terms or calculations.
 
 ![Population curve leveling off at carrying capacity: a rabbit population grows quickly at first, then levels off near the dashed line showing how many the meadow can feed](/img/diagrams/carrying-capacity.svg)
-- Logistic growth, limiting factors, and Liebig's Law belong here instead of the main kid path.
-- Historical deer or reindeer case studies can be useful stories, but exact numbers are sometimes debated.
+
+### A changing carrying capacity
+
+**Explanation:** Carrying capacity describes the population a setting can support over time under particular conditions. It changes with water, food, shelter, disease, and other limits. Logistic growth is a simplified model in which growth slows as population approaches a capacity, often written K. A limiting factor constrains growth even when another resource is plentiful; adding sunlight will not fix a lack of water.
+
+**Worked example:** A fictional meadow supports roughly 40 rabbits during a wet season. In a drought, available food may support only 25. A population of 35 can then exceed the new capacity. Capacity is not a wall that instantly removes animals, so overshoot is possible.
+
+```mermaid
+flowchart TD
+  A[Rain and plant growth] --> B[Food availability]
+  B --> C[Population support limit]
+  C --> D[Births and deaths]
+  D --> E[Rabbit population]
+  E -->|food demand| B
+```
+
+**Check:** Is K a permanent species number? **Answer:** No; it depends on the setting and conditions. Compare this loop with the population graph above it; a curve is a model, not a promise.

@@ -175,3 +175,18 @@ Check these before each new teaching year:
 3. Any recycling-rate examples used in Week 7.
 4. Any current-event framing in the optional extension weeks.
 5. Any media, product, AI-generated, or source-checking examples used in project materials or current-event extensions.
+
+
+## Engineer Corner References and Model Labels
+
+The completed Engineer Corners distinguish formal concepts from core child-facing expectations. All worked-example token counts, budgets, thresholds, and percentages computed from classroom examples are invented teaching models, not field measurements. Existing current-data notes above retain their own check dates.
+
+- [NASA: Climate and Earth's Energy Budget](https://science.nasa.gov/earth/earth-observatory/climate-and-earths-energy-budget/) — Week 1 solar geometry and energy balance.
+- [OpenStax Physics: Second Law and Entropy](https://openstax.org/books/physics/pages/12-3-second-law-of-thermodynamics-entropy) — Week 2 conservation versus usable energy.
+- [NOAA: What Is the Carbon Cycle?](https://oceanservice.noaa.gov/facts/carbon-cycle.html) — Week 5 carbon reservoirs and transfers.
+- [USGS: Animated Nitrogen Fixation](https://www.usgs.gov/media/videos/animated-nitrogen-fixation) — Week 6 biological and industrial nitrogen conversion.
+- [EPA: National Recycling Strategy](https://www.epa.gov/circulareconomy/national-recycling-strategy) — Weeks 7 and 11–14: recovery is one part of a broader reuse and redesign system.
+- [National Academies: Reflecting Sunlight](https://www.nationalacademies.org/read/25762/chapter/2) — optional geoengineering: solar reflection differs from carbon removal and does not address added-CO₂ ocean acidification.
+- [National Academies: Climate Intervention and Reliable Sequestration](https://www.nationalacademies.org/read/18805/chapter/2) — optional geoengineering: carbon storage and risks from abrupt termination of sunlight-reflection interventions.
+
+New reference links and mechanism descriptions checked October 1, 2026. Policy examples still require local, current verification; these additions do not assert a universal right-to-repair law.

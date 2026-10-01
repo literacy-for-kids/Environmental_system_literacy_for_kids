@@ -191,9 +191,21 @@ Learners can draw systems as arrows, loops, maps, flowcharts, or storyboards. Th
 
 ## Engineer Corner
 
-Older learners and facilitators can go one step deeper here.
+Optional depth for older learners and facilitators. The main lesson can be completed without these terms or calculations.
 
-- At the top of Earth's atmosphere, the sun provides about 1,360 watts per square meter. This is often called the solar constant.
-- The ground receives less because some sunlight reflects away or gets absorbed by the atmosphere.
-- A useful systems idea for later: energy keeps moving through Earth. Older learners may hear this called throughput, meaning how much moves through a system over time.
-- A few Earth systems do not trace mainly to sunlight, such as geothermal heat and tides. Those are interesting exceptions, not the main pattern.
+### Energy throughput and system boundaries
+
+**Explanation:** Throughput means the rate at which something passes through a system. For energy, watts measure joules per second. Sunlight arrives, some is reflected, some is absorbed, and Earth emits thermal radiation to space. Matter can circulate while energy keeps passing through. A boundary tells us which inputs and outputs we are counting.
+
+**Worked example:** An invented classroom surface receives 100 energy units in a time step. It reflects 30 and absorbs 70. If it emits 65 during that step, its stored energy increases by 5. These are model values, not Earth's measured budget. At Earth's distance, sunlight perpendicular to the rays at the top of the atmosphere is about 1,360 W/m²; the whole-sphere average is about one quarter of that because a sphere's surface area is four times its cross-sectional area.
+
+```mermaid
+flowchart TD
+  A[Incoming sunlight] --> B[Surface and atmosphere]
+  B --> C[Reflected sunlight]
+  B --> D[Absorbed energy]
+  D --> E[Stored energy]
+  D --> F[Thermal radiation to space]
+```
+
+**Check:** Where did the model's extra 5 units go? **Answer:** Into storage, not out of existence. Why is the global average different from sunlight on a perpendicular surface? **Answer:** The same intercepted input is averaged over the entire spherical surface.

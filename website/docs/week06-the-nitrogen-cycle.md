@@ -204,9 +204,21 @@ Use fictional ponds, school grounds, parks, farms, gardens, or neighborhood exam
 
 ## Engineer Corner
 
-Older learners and facilitators can keep the chemistry here.
+Optional depth for older learners and facilitators. The main lesson can be completed without these terms or calculations.
 
-- Nitrogen gas is written as N2.
-- Plants often use nitrogen after bacteria convert it into forms such as ammonia or nitrate.
-- Haber-Bosch is the industrial process that unlocks nitrogen for fertilizer at large scale.
-- Exact formulas, reaction conditions, and global energy-use estimates belong here, not in the main path.
+### Nitrogen changes chemical form
+
+**Explanation:** Most plants cannot directly use atmospheric nitrogen gas, N₂. Fixation converts it into reactive forms such as ammonia; microbes, lightning, and industrial processes provide routes. Other microbes transform ammonium into nitrite and nitrate through nitrification. Plants take up usable nitrogen; animals obtain it through food. Decomposition returns nitrogen to soil, and denitrification can return it to the atmosphere.
+
+**Worked example:** A fictional garden receives 10 usable-nitrogen tokens. Plants take up 6, soil retains 2, and runoff carries 2 into a pond. The leftover nitrogen did not disappear. Too much nutrient input can support excessive algae growth; decomposition can then consume dissolved oxygen. The industrial Haber–Bosch process makes ammonia from nitrogen and hydrogen using energy; it is an additional input path, not a closed loop.
+
+```mermaid
+flowchart TD
+  A[Nitrogen gas in air] -->|fixation| B[Usable nitrogen in soil]
+  B --> C[Plants and food web]
+  C -->|decomposition| B
+  B -->|denitrification| A
+  B -->|runoff| D[Downstream water]
+```
+
+**Check:** Why can adding plant nutrients affect a pond? **Answer:** A flow can carry them outside the garden boundary. The diagram groups several chemical transformations; it is not a reaction equation.

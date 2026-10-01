@@ -254,7 +254,21 @@ End the course in a way that feels real for a child.
 
 ## Engineer Corner
 
-Older learners and facilitators can keep the more formal structure here.
+Optional depth for older learners and facilitators. The main lesson can be completed without these terms or calculations.
 
-- Older learners may still use a five-part pitch: current state, why it matters, proposed solution, what it requires, expected outcomes.
-- The child-facing version stays simpler: clear, specific, honest voice first.
+### A pitch with evidence and limits
+
+**Explanation:** A five-part engineering pitch separates current state, why it matters, proposed solution, requirements, and expected outcomes. Expected outcomes are forecasts; pilot results are observations. Use the same units and period in a comparison. An honest pitch names uncertainty, the person responsible for each task, and a decision the audience can actually make.
+
+**Worked example:** “Our fictional class discarded 50 sheets in five days. A scrap tray pilot discarded 30 over five comparable days. We propose a labeled tray and adult-supported sorting. We need shelf space and two minutes of sorting time daily. A future 40% reduction is an estimate based on the pilot, not a guarantee.”
+
+```mermaid
+flowchart TD
+  A[Baseline and pilot evidence] --> B[Proposal]
+  C[Needs and constraints] --> B
+  B --> D[Audience questions and decision]
+  D --> E[Next test or revision]
+  E --> A
+```
+
+**Check:** Which sentence changes if the class has not run a pilot? **Answer:** Report the reduction as a prediction with assumptions, not as something achieved. A small supported claim is stronger than an impressive unsupported one.

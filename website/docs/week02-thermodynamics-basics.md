@@ -188,11 +188,21 @@ Use simple counts, bean piles, or food-chain drawings to ask:
 
 ## Engineer Corner
 
-Older learners and facilitators can add the formal language here.
+Optional depth for older learners and facilitators. The main lesson can be completed without these terms or calculations.
 
-- The First Law of Thermodynamics says energy cannot be created or destroyed.
-- The Second Law says every energy change spreads some energy into less useful forms, usually heat.
-- The technical word entropy belongs here, not in the main kid path.
-- Food webs often use a rough 10% transfer rule, but real ecosystems vary.
+### Conservation, useful energy, and entropy
 
-The core systems idea stays simple: energy is conserved, but it does not stay equally useful at every step.
+**Explanation:** The First Law is an accounting rule: include energy entering, leaving, and stored. The Second Law limits how completely energy can be converted into useful work. In real processes, energy spreads into forms such as dispersed heat. Entropy is a formal measure related to that spreading; the total entropy of an isolated system does not decrease. A local system can become more ordered if energy flows through it.
+
+**Worked example:** In an invented lamp model, 100 electrical-energy units become 20 light units and 80 heat units. Efficiency for the chosen job, making light, is 20/100 = 20%. All 100 units still exist. A lamp's heat might help warm a room, but it is not equally useful for making light. The food-web “10% rule” is another rough transfer model, not a constant for every organism.
+
+```mermaid
+flowchart TD
+  A[100 electrical units] --> B[Lamp]
+  B --> C[20 light units]
+  B --> D[80 heat units]
+  C --> E[Useful for lighting]
+  D --> F[Energy still present]
+```
+
+**Check:** Does 20% lighting efficiency mean 80% of the energy vanished? **Answer:** No; it became other outputs. Changing the job changes which outputs count as useful.

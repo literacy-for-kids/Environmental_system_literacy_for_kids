@@ -209,9 +209,22 @@ This week can stay simple and still build data habits.
 
 ## Engineer Corner
 
-Older learners and facilitators can park the formal details here.
+Optional depth for older learners and facilitators. The main lesson can be completed without these terms or calculations.
 
-- Reservoir is the formal word for a storage place.
-- Residence time means how long water tends to stay in one place.
-- Aquifer is a groundwater storage zone in rock or sediment.
-- Exact percentages for oceans, ice, groundwater, lakes, and the atmosphere belong here instead of the main path.
+### Reservoirs, flows, and residence time
+
+**Explanation:** A reservoir is a storage place. A flow moves water between reservoirs. An aquifer stores groundwater in connected spaces in rock or sediment; it is not always an underground lake. Residence time estimates how long water stays in a reservoir. For a steady reservoir, a rough mean is storage divided by outflow, with compatible units.
+
+**Worked example:** An invented tank holds 100 liters and releases 10 liters per day while an equal input maintains its level. Its mean residence-time estimate is 100/10 = 10 days. That does not mean every drop spends exactly 10 days there; real reservoirs mix and have different routes.
+
+```mermaid
+flowchart TD
+  A[Rain] --> B[Surface water]
+  A --> C[Infiltration]
+  C --> D[Groundwater storage]
+  D --> B
+  B --> E[Evaporation to air]
+  E --> A
+```
+
+**Check:** If outflow doubles while steady storage stays at 100 liters, what happens to the estimate? **Answer:** It halves to 5 days. Earth percentages and precise reservoir sizes are optional reference work, not prerequisites.
