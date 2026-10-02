@@ -20,9 +20,13 @@ Parents, teachers, homeschool families, nature centers, libraries, and any adult
 
 ## How to Run a 10-20 Minute Lesson
 
-**Before the session (5 min):** Read the lesson and gather any simple materials needed (many lessons have hands-on components).
+This is a short adaptation: select one discussion or manageable activity, rather than compressing a whole weekly module. Full guided sessions, independent practice, and projects need the time stated on the week’s page. Check prior concepts before using a week out of sequence; see [pacing and preparation](https://www.literacy-for-kids.com/docs/using-the-curricula/#pacing-and-preparation).
 
-**During the session:**
+**Before the session (time varies):** Read the lesson and gather any simple materials needed (many lessons have hands-on components).
+
+Check the selected activity’s answer notes, safety/access options, materials, and tool setup before learners arrive. A brief read-through may be enough for a discussion; practical activities need additional preparation.
+
+**During the short session:**
 1. Open with the week's central question or observation (1-2 min)
 2. Explain the main concept or system (3-5 min)
 3. Work through the hands-on or discussion activity (5-10 min)
