@@ -281,3 +281,7 @@ The strongest work in this curriculum is usually clear, concrete, honest, and mo
 
 - **Unit 2, Week 5:** use the [carbon-and-warming drawing](./week05-the-carbon-cycle.md#core-practice-how-carbon-in-air-connects-to-warming). Look for fossil carbon → CO₂ increase, plus a separate explanation of changed infrared energy escape. Reteach matter vs energy if the learner says carbon "creates heat" or draws CO₂ as a solid lid.
 - **Unit 3, Week 8:** use the [habitat cards](./week08-carrying-capacity.md#core-practice-a-habitat-supports-more-than-one-kind-of-life). Expected support counts: 4 types initially, 1 after losing leaf litter, 4 after Plan B under the fictional rules. Look for the indirect beetle-to-bird effect and a model limitation; do not infer real population predictions from the cards.
+
+## Using Worked Responses Without Expanding the Core Assessment
+
+The [worked-example cards](./worked-examples-and-optional-depth.md) offer an illustrative response for each core week. Use the scenario to check the already taught idea and reasoning; sample wording is not a scoring key. Additional depth questions, technical vocabulary, and optional modules are enrichment, not requirements for moving to the next core week. External research, a new account, real-world contact, private disclosure, or public presentation is not required by these practice cards. If a core idea remains unclear, reteach it before adding depth. Accept oral, drawn, sorted, or written evidence appropriate to the learner.

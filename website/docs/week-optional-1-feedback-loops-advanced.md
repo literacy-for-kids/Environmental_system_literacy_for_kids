@@ -8,6 +8,24 @@ description: "An optional older-learner extension on balancing loops, amplifying
 # Optional Week 1: Growing Loops and Tipping Points
 *Optional Extension - Best for older learners or adult-led groups*
 
+## Optional Module Plan and Supplied Case
+
+**Status:** Optional depth, separate from the 18 core weeks and their checkpoint requirements. Choose by readiness and interest rather than age alone.
+
+**Prior learning:** After Weeks 2 and 9: energy and population/feedback models.
+
+**Time and materials:** About 20 minutes for the supplied paper case below, with paper and pencil; calculator optional. This is one practice activity, not the completion time for every guided session on the page. Use the existing session timings if teaching the full module. Read the case and response before the session.
+
+**Supplied case — Feedback history:** Use the existing fictional pond model: it becomes cloudy above 8 input units, and returns clear only below 3. Begin clear. Inputs are 6, 9, 5, 2 in that order. Trace the state and explain the difference between a threshold and a reversible change.
+
+**Illustrative response and reasoning:** States: clear, cloudy, cloudy, clear. At 5 the history matters: falling from 9 does not reverse the state yet. These invented thresholds illustrate hysteresis, not actual pond advice.
+
+**Optional depth question:** Start cloudy at 6 and compare the result with starting clear at 6. Explain why a model needs a starting state as well as a current input.
+
+**Facilitator check:** Look for a reason tied to the supplied evidence and one stated limit. Model that connection if it is missing; accept an oral, drawn, or written response rather than requiring exact wording.
+
+**Open research prompts:** Any enrichment request to locate or construct missing external sources, real-case materials, media sets, tool activities, or interview records requires adult preparation, verification, and additional time. That request is an optional research suggestion, not supplied instruction. A tool activity with complete supplied steps remains instruction and may also need adult setup. The paper case can be completed without it, without a new account, real-world contact, or personal disclosure.
+
 ## This Week's Big Question
 
 What happens when a loop makes a change grow instead of calming it down?

@@ -107,3 +107,13 @@ All the key terms from this curriculum, written in kid-friendly language first. 
 | **Water quality** | How clean, safe, and healthy water is for people and living things. | Week 4 |
 | **Watershed** | The land area where water drains to the same stream, river, lake, or bay. | Week 4 |
 | **Weather** | What the air and sky are doing right now or over a short time, such as sunny, rainy, windy, hot, or cold. | Week 1 |
+
+## Practical and Optional-Depth Vocabulary
+
+These entries align the worked examples and added practical activities with the core lessons. Optional-module vocabulary is not required for core progression.
+
+| Term | Meaning and limit | Taught in |
+|---|---|---|
+| **Infrared radiation** | Energy carried by a form of light the eyes cannot see. Earth emits infrared energy; greenhouse gases affect its passage through the atmosphere. | Week 5 |
+| **Greenhouse effect** | The warming influence of gases that absorb and emit infrared radiation. More greenhouse gas changes energy balance; energy is not created. | Week 5 |
+| **Habitat dependency** | A need for a place, condition, or food link; a change can affect an organism indirectly through another organism. | Week 8 |

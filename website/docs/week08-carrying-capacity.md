@@ -47,7 +47,7 @@ Thinking about limits — how much a system can handle — can make a problem fe
 | Prep time | About 10 minutes |
 | Materials | Paper, counters or blocks, bowl or small area to represent a habitat, Systems Log |
 | Safety | Keep the examples imaginary or model-based; do not crowd animals for a demonstration |
-| Core vocabulary | limit, load, crowding, grow back, damage |
+| Core vocabulary | limit, load, crowding, grow back, damage, biodiversity, habitat |
 | Older learner words | carrying capacity, regeneration, logistic growth, limiting factor |
 
 ## Core Vocabulary
@@ -59,6 +59,8 @@ Thinking about limits — how much a system can handle — can make a problem fe
 | crowding | Too many things in one place |
 | grow back | To return over time after being used |
 | damage | Harm that makes the system work worse |
+
+**Additional core words:** Biodiversity means variety in living systems; habitat means the place and conditions that support an organism. The supplied habitat card model adds these ideas without requiring real wildlife observations.
 
 ## Short Path for Younger Learners
 
@@ -165,6 +167,13 @@ Set out four habitat cards: **flowers**, **leaf litter**, **pond**, and **connec
 **Check:** "Why did the bird card lose support when shrubs stayed?" Its food link was affected. "Do twenty bees necessarily mean more species than four different organism types?" No. **Simplify:** use two organism cards and picture needs. **Extend:** add an alternative food link and show how it changes the model's result. **Artifact:** before/after habitat map and a reasoned repair choice.
 
 **Reference, checked 2026-10-01:** [National Park Service: What is biodiversity?](https://www.nps.gov/subjects/biodiversity/what-is-biodiversity.htm). The card rules and counts are teaching inventions.
+
+
+## Optional Depth and Worked Response
+
+**Supplied practice, about 15–20 minutes:** [Week 8's fictional scenario, illustrative response, and depth question](./worked-examples-and-optional-depth.md#week-8) are ready to use after this week's core teaching. Choose the depth question by readiness and interest; it is not a prerequisite or core assessment requirement.
+
+**Open research prompts:** Enrichment suggestions that ask you to locate sources, investigate a real case, choose a tool, or contact someone **without supplying the teaching material** need adult preparation and verified materials. Such suggestions are optional, not a supplied packet. A tool activity with provided instructions remains supplied instruction, though adult setup may be needed. Use the linked fictional practice when outside preparation or access is unavailable.
 
 ## Systems Log
 

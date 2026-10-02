@@ -48,8 +48,8 @@ Learning about climate and the carbon cycle can stir up real worry. If it does, 
 | Prep time | About 10 minutes |
 | Materials | Paper, markers, index cards or sticky notes, pencil, Systems Log |
 | Safety | No special safety needs for the main path |
-| Core vocabulary | carbon, breath, loop, storage, fuel |
-| Older learner words | carbon cycle, carbon dioxide, fossil fuel, greenhouse effect, ppm |
+| Core vocabulary | carbon, carbon dioxide, breath, loop, storage, fuel, greenhouse effect, infrared energy |
+| Optional technical depth | carbon stocks and flows, fossil-carbon storage time, ppm |
 
 ## Core Vocabulary
 
@@ -60,6 +60,9 @@ Learning about climate and the carbon cycle can stir up real worry. If it does, 
 | loop | A path that comes back around |
 | storage | A place where something stays for a while |
 | fuel | A material that can release stored energy |
+| carbon dioxide | A gas containing carbon that moves through the carbon cycle |
+| greenhouse effect | The warming influence of gases that absorb and emit infrared energy |
+| infrared energy | Energy carried by a kind of light our eyes cannot see |
 
 ## Short Path for Younger Learners
 
@@ -171,6 +174,13 @@ Burning fossil fuels moves carbon from long-term underground storage into the at
 **Model limits:** the drawing is a mechanism sketch, not a temperature forecast. CO₂ is not a solid lid; energy still escapes. A sealed-jar temperature demonstration also changes airflow and does not isolate this atmospheric mechanism.
 
 **Reference, checked 2026-10-01:** [NASA: Causes of climate change](https://science.nasa.gov/climate-change/causes/).
+
+
+## Optional Depth and Worked Response
+
+**Supplied practice, about 15–20 minutes:** [Week 5's fictional scenario, illustrative response, and depth question](./worked-examples-and-optional-depth.md#week-5) are ready to use after this week's core teaching. Choose the depth question by readiness and interest; it is not a prerequisite or core assessment requirement.
+
+**Open research prompts:** Enrichment suggestions that ask you to locate sources, investigate a real case, choose a tool, or contact someone **without supplying the teaching material** need adult preparation and verified materials. Such suggestions are optional, not a supplied packet. A tool activity with provided instructions remains supplied instruction, though adult setup may be needed. Use the linked fictional practice when outside preparation or access is unavailable.
 
 ## Systems Log
 

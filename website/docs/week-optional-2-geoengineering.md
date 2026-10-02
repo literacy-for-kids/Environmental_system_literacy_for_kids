@@ -8,6 +8,24 @@ description: "An optional older-learner extension on intentional planetary-scale
 # Optional Week 2: Big Planet Tools as Patches
 *Optional Extension - Best for older learners or adult-led groups*
 
+## Optional Module Plan and Supplied Case
+
+**Status:** Optional depth, separate from the 18 core weeks and their checkpoint requirements. Choose by readiness and interest rather than age alone.
+
+**Prior learning:** After Week 5 and the optional feedback lesson: carbon stocks, energy balance, and model limits.
+
+**Time and materials:** About 20 minutes for the supplied paper case below, with paper and pencil; calculator optional. This is one practice activity, not the completion time for every guided session on the page. Use the existing session timings if teaching the full module. Read the case and response before the session.
+
+**Supplied case — Two different intervention claims:** Card A proposes reflecting more incoming sunlight, with atmospheric CO₂ unchanged. Card B proposes removing CO₂ and storing it durably, but requires energy and monitoring. Identify the intended quantity changed, one limitation, and one governance question for each.
+
+**Illustrative response and reasoning:** A changes incoming energy, not the carbon stock; it does not directly solve added-CO₂ ocean chemistry. B targets the carbon stock, but actual net removal, storage duration, energy, and side effects need checking. Neither replaces emissions reduction. Ask who decides, who bears risk, and who monitors results.
+
+**Optional depth question:** Compare a claim about gross captured carbon with net durable removal after emissions and losses. Keep this a paper policy/model comparison; no intervention is attempted.
+
+**Facilitator check:** Look for a reason tied to the supplied evidence and one stated limit. Model that connection if it is missing; accept an oral, drawn, or written response rather than requiring exact wording.
+
+**Open research prompts:** Any enrichment request to locate or construct missing external sources, real-case materials, media sets, tool activities, or interview records requires adult preparation, verification, and additional time. That request is an optional research suggestion, not supplied instruction. A tool activity with complete supplied steps remains instruction and may also need adult setup. The paper case can be completed without it, without a new account, real-world contact, or personal disclosure.
+
 ## This Week's Big Question
 
 What happens when people propose giant tools to change a planet-sized system?
